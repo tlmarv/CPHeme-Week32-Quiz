@@ -1333,5 +1333,388 @@
     ],
     "correctAnswer": 5,
     "explanation": "This patient has the limited cutaneous form of systemic sclerosis (SSc), based on Raynaud phenomenon (vasoconstriction and pain in the fingers with cold exposure) and the positive anticentromere antibody. Raynaud can proceed the other typical findings of SSc (eg, skin stiffening and tightness), often by years, specifically in the limited SSc condition. Both lupus and SSc can cause Raynaud phenomenon, but the lack of other physical findings (rash, oral ulcers, arthritis) and the negative anti–double-stranded DNA and positive anticentromere antibodies make SSc more likely. Both disorders typically show a positive antinuclear antibody, as seen here."
-}
+},
+{
+    "question": "Which of the following tests best serves to assess the integrity of the ACL?",
+    "choices": [
+        "Anterior drawer and Lachman tests",
+        "Anterior drawer test only",
+        "Ballotement test",
+        "McMurray test",
+        "Posterior drawer and Lachman tests"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is anterior drawer and Lachman tests (A). Both anterior drawer and Lachman tests assess ACL injury before the detailed imaging is ordered. The Lachman test has more specificity than the anterior drawer test (B). The McMurray test (D) assesses meniscal damage. The ballotement test (C) assesses effusion of the knee joint. The posterior drawer test (E) assesses the PCL not the ACL."
+},
+{
+    "question": "A previously healthy 25-year-old woman hears a pop in her left knee while running into another player during a lacrosse match and develops severe knee pain. The physical exam shows positive results with the anterior drawer and Lachman tests. Which of the following knee structures is most likely injured in addition to the main ligament that is torn?",
+    "choices": [
+        "Lateral collateral ligament",
+        "Lateral meniscus",
+        "Medial meniscus",
+        "Patellar ligament",
+        "Quadriceps tendon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is lateral meniscus (B). The patient’s symptoms and exam suggest an ACL tear. This is often associated with lateral meniscus tears, due to valgus stress to the knee, and especially in contact sport injuries involving twisting. The medial meniscus (C) is more often torn in chronic ACL injury. The lateral collateral ligament (A), patellar ligament (D), and quadriceps tendon (E) are not likely to be injured in this scenario and with these physical findings."
+},
+{
+    "question": "Which of the following is seen in all muscle types?",
+    "choices": [
+        "Calcium-induced contraction",
+        "Calcium-induced relaxation",
+        "Calcium uptake from outside the cell as the main mechanism of inducing contraction",
+        "Current transmitted through gap junctions",
+        "Troponin-calcium binding"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is calcium-induced contraction (A). This occurs in all types via calcium release from the sarcoplasmic reticulum and in cardiac and smooth muscle from outside calcium influx through gated calcium channels. Calcium-induced relaxation (B) is seen in none of these cells. External calcium uptake is the dominant way to increase intracellular calcium in smooth and cardiac muscle, but not skeletal, where intracellular release by the sarcoplasmic reticulum dominates (C). Smooth muscles have controlled relaxation using nitric oxide. Current is transmitted to cells via gap junctions (D) in both cardiac and some smooth muscle cells, but not skeletal muscle. Troponin-calcium binding (E) starts muscle contraction in skeletal and cardiac, but not smooth muscle."
+},
+{
+    "question": "Which of the following molecules is absent from the actin myofilament?",
+    "choices": [
+        "Actin G",
+        "Myosin",
+        "Tropomyosin",
+        "Troponin I",
+        "Troponin T"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is myosin (B). The actin myofilament is a double helix tropomyosin chain (C) with included troponin C, I, and T (D and E) and actin G molecules (A). Binding of calcium to troponin C induces a conformational change and allows binding of actin G to myosin, causing muscle contraction."
+},
+{
+    "question": "Which of the following molecules is most important in causing smooth muscle relaxation?",
+    "choices": [
+        "Actin",
+        "Calcium",
+        "Myosin",
+        "Nitric oxide",
+        "Troponin"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is nitric oxide (D). Smooth muscles undergo controlled contraction and relaxation. Nitric oxide stimulates the enzyme myosin light-chain phosphatase, which dephosphorylates myosin. In smooth muscle, this prevents binding to actin, so it inhibits contraction. Calcium (B) causes smooth muscle contraction. Actin (A) and myosin (C) are present in smooth muscle but do not regulate relaxation. Troponin (E) is not present in smooth muscle cells."
+},
+{
+    "question": "A 34-year-old female presents to her physician describing knee pain for the past 3 months. There is mild swelling around her right knee. Her physician also discovers she has a 5-year history of malar rash, photosensitivity, and kidney disease. What is the most likely cause of her knee pain?",
+    "choices": [
+        "Lyme disease",
+        "Rheumatoid arthritis",
+        "Septic arthritis",
+        "Systemic lupus erythematosus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is systemic lupus erythematosus (D). The patient has signs and symptoms of SLE-like photosensitivity, malar rash, and kidney disease. Patients with systemic lupus erythematosus can also experience joint pain. Lyme disease (A) is a vector-borne illness; during the early course of the disease a rash is usually present, and late in the disease, patients will start experiencing joint pain. Rheumatoid arthritis (B) is a systemic inflammatory disease associated with stiffness, redness, and swelling of the small joints of the hand. Septic arthritis (C) is an acute infection of a joint that is associated with fever and pain."
+},
+{
+    "question": "Which of the following are common to skeletal muscle, cardiac muscle, and smooth muscle?",
+    "choices": [
+        "Actin and myosin myofilaments",
+        "Direct neural inputs",
+        "Myofibrils",
+        "Troponin C",
+        "Z lines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is actin and myosin myofilaments (A). All muscle contracts by actin and myosin myofilaments sliding against one another, but the mechanisms of what induces this varies. Neural inputs (B) are only seen in skeletal and smooth muscle. Myofibrils (C) are seen in only skeletal and cardiac muscle. Troponin C (D) is present as a key mediator of contraction in skeletal and cardiac muscle but not smooth muscle. Z lines (E) border each stacked sarcomere seen in striated muscle, so are only seen in skeletal and cardiac muscle, not smooth."
+},
+{
+    "question": "In skeletal and cardiac muscle, to which of the following structures do actin myofilaments anchor?",
+    "choices": [
+        "A band",
+        "H band",
+        "I band",
+        "M line",
+        "Z line"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is Z line (E). The actin myofilaments are anchored at the edge of the sarcomere to the Z line but are unattached in the center. The A band (A) is the area where myosin overlaps with actin, thus appearing darker. The H band (B) lies in the center of the A band and only has myosin filaments. The I band (C), or light band, only contains actin filaments and appears lighter on microscopy. The M (middle) line (D) in the center of the sarcomere anchors to myosin filaments."
+},
+{
+    "question": "How do the cardiac muscle cells contract together as a single unit?",
+    "choices": [
+        "Through simultaneous contraction induced by circulating epinephrine",
+        "Through simultaneous stimulation by coordinated nerve inputs",
+        "Through the transmission of electrical impulses through gap junctions",
+        "Through the transmission of electrical impulses through spot desmosomes",
+        "Through the transmission of electrical impulses via the sarcoplasmic reticulum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is through the transmission of electrical impulses through gap junctions (C). Intercalated discs connected cardiac muscle cells and create 'electrical synapses,' allowing adjacent cells to contract simultaneously as a unit. Circulating neurotransmitters sometimes stimulate smooth muscle, but not cardiac tissue (A). Contractile cardiac muscle cells do not have direct neural input (B). The spot desmosomes in cardiac muscle do not pass current but instead bind cell to cell firmly (D). The sarcoplasmic reticulum stores calcium but does not transmit electrical impulses (E)."
+},
+{
+    "question": "In skeletal and cardiac muscle, what molecule binds to calcium to initiate muscle contraction?",
+    "choices": [
+        "Acetylcholine",
+        "Actin",
+        "Myosin",
+        "Nitric oxide",
+        "Troponin C"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is troponin C (E). Calcium released by the sarcoplasmic reticulum binds to troponin C, leading to actin-myosin binding and shortening of the sarcomere. Acetylcholine (A) is a neurotransmitter released by neurons at the synapse to depolarize skeletal muscle. Actin (B) and myosin (C) make up the myofilaments that slide past one another to cause myocyte contraction. Nitric oxide (D) is a vasodilator that causes dephosphorylation of myosin and smooth muscle relaxation."
+},
+{
+    "question": "What is the correct order of largest to smallest structure?",
+    "choices": [
+        "Fascicle, muscle cell, myofibril, sarcomere",
+        "Fascicle, sarcomere, muscle cell, myofibril",
+        "Muscle cell, myofibril, sarcomere, fascicle",
+        "Myofibril, sarcomere, fascicle, muscle cell",
+        "Sarcomere, fascicle, myofibril, muscle cell"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is fascicle, muscle cell, myofibril, sarcomere (A). The question highlights the structural organization of skeletal muscle. A whole muscle is composed of fascicles, which are bundles of muscle cells that individually contain myofibrils, which in turn contain myofilaments that are organized in repeating units called sarcomeres. None of the other choices (A, B, C, or E) have the correct order of largest to smallest structure."
+},
+{
+    "question": "Which of the following correctly describes a joint of the lower extremity?",
+    "choices": [
+        "Hip, hinge",
+        "Knee, ball and socket",
+        "Metatarsophalangeal, hinge",
+        "Proximal interphalangeal, plane",
+        "Talocrural, hinge"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is talocrural, hinge (E). The talocrural joint joins the tibia and fibula to the talar bones of the foot and is also called the true ankle joint. It is a hinge joint that permits foot flexion and extension. The knee is a hinge joint (B). The hip is a ball-and-socket joint for maximal flexibility (A). The MTP joints are ellipsoidal joints allowing flexion, extension, abduction, and adduction (C). The PIP joints are hinge joints (D)."
+},
+{
+    "question": "A patient presents to your office with knee instability. Earlier in the day the patient was playing soccer and got kicked in the knee. On physical exam, you find abnormal laxity with anterior movement of the lower leg. There is no abnormal laxity on posterior, lateral, or medial movement of the leg. Which ligament of the knee is most likely injured?",
+    "choices": [
+        "Anterior cruciate",
+        "Lateral collateral",
+        "Lateral meniscus",
+        "Medial collateral",
+        "Posterior collateral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is anterior cruciate (A). Abnormal anterior movement of the lower leg is most likely due to an ACL injury. Knowing that the abnormality is in an anterior/posterior direction rules out the LCL (B) and MCL (D). If there was an injury to either, the laxity would be exhibited in medial/lateral movement. Because the posterior movement is intact, we know this patient has not injured their PCL (E). A torn meniscus does not produce laxity of the joint (C)."
+},
+{
+    "question": "Which of the following bones is involved in the subtalar joint?",
+    "choices": [
+        "Calcaneus",
+        "Cuboid",
+        "Fibula",
+        "Lateral cuneiform",
+        "Medial cuneiform"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is calcaneus (A). The subtalar joint allows three talar bones (calcaneus, talus, navicular) to slide past one another. It makes foot inversion and eversion possible. The cuboid (B), lateral cuneiform (D), and medial cuneiform (E) are talar bones not involved in this joint. The fibula (C) is a lower leg bone that supports the tibia and is not involved in this foot joint."
+},
+{
+    "question": "Which of the following structures articulates with the femur?",
+    "choices": [
+        "Acetabulum",
+        "Calcaneus",
+        "Fibula",
+        "Medial cuneiform bone",
+        "Navicular bone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is acetabulum (A). This is the hip socket, a bony indentation in the pelvic bone. It articulates with the head of the femur to form the ball-and-socket hip joint. The calcaneus (B) and medial cuneiform (D) and navicular (E) bones are all in the foot. The fibula (C) is posterolateral to the tibia but does not form part of the knee joint with the femur, as the tibia does."
+},
+{
+    "question": "A 56-year-old man sustains multiple leg fractures and laceration of an artery in a motorized scooter crash. His injuries lead to an inability to extend his left lower leg at the knee. Which of the following arteries is most likely damaged?",
+    "choices": [
+        "Anterior tibial",
+        "Femoral",
+        "Fibular",
+        "Genicular",
+        "Obturator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is femoral artery (B). The femoral artery is injured in some femur fractures, and it supplies the anterior muscles of the thigh, which are important in lower leg extension. The anterior tibial (A), fibular (C), and genicular arteries (D) are branches of the popliteal artery at the knee, so they supply muscles of the lower leg that guide foot and toe motion. The obturator artery (E) is a deep branch of the internal iliac artery, supplying the femur and medial thigh, so the muscles it supplies would not be involved in extending the lower leg."
+},
+{
+    "question": "Which of these arteries is a branch of the popliteal artery?",
+    "choices": [
+        "Femoral artery",
+        "Fibular artery",
+        "Obturator artery",
+        "Profunda femoris artery",
+        "Radialis indicis artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is fibular artery (B). The popliteal artery, an extension of the femoral artery at the knee, gives rise to the internal and external tibial arteries and the fibular (peroneal) artery, all of which supply the lower leg. The femoral artery (A) is proximal to the popliteal artery. The obturator artery (C) is a branch of the internal iliac artery. The profunda femoris artery (D) is a proximal branch of the femoral artery. The radialis indicis artery (E) supplies the index finger."
+},
+{
+    "question": "Which of the following veins is not paired with an identically named artery?",
+    "choices": [
+        "Common iliac",
+        "Femoral",
+        "Great saphenous",
+        "Popliteal",
+        "Subclavian"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is great saphenous vein (C). Most veins take their names from the artery that supplies the same region, including the common iliac (A), femoral (B), popliteal (D), and subclavian (E) veins. The great saphenous vein runs from the great toe to the femoral vein superficially, and it is not paired with an artery. It is at risk for thrombophlebitis and varicosities."
+},
+{
+    "question": "Through which of these vessels will lymph from the left toe most likely flow?",
+    "choices": [
+        "Left axillary vein",
+        "Left external tibial vein",
+        "Right lymphatic duct",
+        "Right subclavian vein",
+        "Thoracic duct"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is thoracic duct (E). The lymph from the lower extremities does not travel through lower extremity veins (B), but instead runs through lymphatics, moving to the lumbar ducts and then to the thoracic duct. From there, it empties into the left subclavian vein. The lymph would not enter a distal upper extremity vein like the axillary vein (A). Nor would it run through the right lymphatic duct (C) or the right subclavian vein (D)."
+},
+{
+    "question": "A 65-year-old male describes difficulty walking. He cannot support weight with his left leg and experiences shooting pain down the left posterolateral aspect of that leg while walking. He has difficulty extending his thigh. Compression of which of the following nerves is most likely the cause of these symptoms?",
+    "choices": [
+        "Common fibular",
+        "Femoral",
+        "Obturator",
+        "Sciatic",
+        "Superior gluteal"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is sciatic (D). The patient’s pain down the back of the leg and difficulty extending the thigh (moving it posteriorly) suggests a sciatic nerve lesion. If the sciatic nerve is entrapped, it can cause shooting pain down the leg in its distribution as well as weakness in the hamstrings, which extend the thigh and flex the lower leg. The common fibular nerve (A) supplies the lower leg, so it would not see this pain pattern. The femoral nerve (B) supplies thigh flexors and lower leg extenders. The obturator nerve (C) supplies the thigh adductors in the medial thigh. The superior gluteal nerve (E) promotes leg abduction and extension, and injury would exhibit a contralateral hip drop instead of leg weakness."
+},
+{
+    "question": "A construction worker presents to an outpatient clinic after he fell from a beam onto his lower back. He complains that he cannot walk because he keeps tripping over his foot. Every time he lifts his leg to take a step, he is unable to dorsiflex his foot. The muscles affected by this injury are most strongly associated with injuries to which of the following spinal nerves?",
+    "choices": [
+        "L2",
+        "L3",
+        "L4",
+        "L5",
+        "S1"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is L4 (C). L4 injuries are most associated with weakness in foot dorsiflexion, otherwise known as foot drop. L2 injuries (A) are most associated with thigh flexion. L3 injuries (B) are most associated with lower leg extension. L5 injuries (D) are most associated with great toe extension. S1 injuries (E) are most associated with foot plantar flexion (the foot motion needed for standing on your toes)."
+},
+{
+    "question": "Which of the following is seen in patients with Marfan syndrome but not Ehlers Danlos syndrome?",
+    "choices": [
+        "Aortic root dilation",
+        "Brittle bones",
+        "Flexible joints",
+        "Lens dislocation",
+        "Stretchy skin"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is lens dislocation (D). It is a unique feature of Marfan syndrome. Aortic root dilatation (A) and flexible joints (C) are shared features of Marfan and EDS. Brittle bones (B) is seen in neither; it is a feature of osteogenesis imperfecta. Stretchy skin (E) is characteristic of EDS but not Marfan syndrome."
+},
+{
+    "question": "Abnormalities of which of the following is least likely in a patient with Ehlers-Danlos syndrome?",
+    "choices": [
+        "Collagen types I-V fibrils",
+        "Collagen III DNA",
+        "Collagen III posttranslational processing",
+        "Collagen V mRNA",
+        "Elastin"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is elastin (E). EDS is due to collagen type III or type V synthesis defects or instability, whereas Marfan syndrome is due to elastin defects. EDS defects can be in the collagen III or V (DNA) (B), in the mRNA resulting from the mutated gene (D), in posttranslational processing (C), or in the inability of the defective collagen V to form fibrils with collagen I (A)."
+},
+{
+    "question": "Which condition listed below is correlated with the correct gene mutation?",
+    "choices": [
+        "EDS, FBN1",
+        "EDS, TGF-β",
+        "Marfan, COL3A1",
+        "Marfan, COL5A1",
+        "Marfan, FBN1"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is Marfan, FBN1 (E). The FBN1 gene encodes a fibrillin molecule, which gives stability to tropoelastin during synthesis. It is not related to EDS pathophysiology (A). TGF-β expression (B) may be altered in Marfan syndrome not in EDS. COL3A1 (C) and COL5A1 (D) may be defective in EDS, not in Marfan syndrome."
+},
+{
+    "question": "A professional basketball player collapsed to the ground during a game and was found to have an enlarging aortic dissection. History revealed that his father died very young with similar symptoms. His genetic and clinical testing is consistent with Marfan syndrome. Which of the following findings would be least likely in this patient?",
+    "choices": [
+        "Dislocated eye lens",
+        "Long extremities",
+        "Long fingers",
+        "Intellectual disability",
+        "Tall stature"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is intellectual disability (D). Aortic dissection is a characteristic complication of Marfan syndrome. Lens dislocation (A), long extremities (B), long fingers (C), and tall stature (E) are all characteristics of Marfan syndrome. However, intellectual disability is not associated with it."
+},
+{
+    "question": "A patient presents to the clinic with persistent pain in her upper and lower left arm. Which of the following features would make a diagnosis of complex regional pain syndrome more likely?",
+    "choices": [
+        "Increased skin temperature on the left arm",
+        "Numbness in the right fingers",
+        "History of a recent myocardial infarction",
+        "History of low back pain",
+        "X-ray imaging showing osteoarthritis in the left shoulder and elbow"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is increased skin temperature on the left arm (A). A number of findings in the painful body area help make the diagnosis, including changes in pain sensitivity, increased sweating, edema, and skin or nail changes. Numbness (B) may occur, but this was on the right, which is not the involved extremity. A recent myocardial infarction (C) would not precipitate CRPS, because there should be trauma or injury to the involved body area (here the left upper extremity). A history of low back pain (D) is not relevant to the diagnosis. X-rays should not show a secondary cause of the pain such as osteoarthritis (E)."
+},
+{
+    "question": "Which of the following would most likely be seen with autonomic testing in a patient with complex regional pain syndrome?",
+    "options": [
+      "A. Increased perspiration",
+      "B. Decreased deep tendon reflexes",
+      "C. Inflammation",
+      "D. Loss of pain sensitivity",
+      "E. Muscle weakness"
+    ],
+    "answer": "A. Increased perspiration",
+    "explanation": "The correct answer is increased perspiration (A). Autonomic testing in the painful region assesses autonomic responses in patients, which is often dysregulated in CRPS. These include skin blood flow, temperature, and perspiration. Increased perspiration is an effect that can be measured this way and is a diagnostic criterion for CRPS. Deep tendon reflexes (B), inflammation (C), pain sensitivity (D), and muscle strength (E) are not measured by autonomic testing."
+  },
+  {
+    "question": "Which of the following is seen in both fibromyalgia and CRPS?",
+    "options": [
+      "A. Edema",
+      "B. Elevated C-reactive protein",
+      "C. Inflammation of muscle",
+      "D. Perspiration asymmetry",
+      "E. Weakness"
+    ],
+    "answer": "E. Weakness",
+    "explanation": "The correct answer is weakness (E). Although the main commonality to the two disorders is muscle pain and tenderness, patients may also report areas of weakness. Edema (A) and perspiration asymmetry (D) are sudomotor symptoms seen only in CRPS. Elevated CRP (B) and inflammation of muscle (C) are seen in neither condition because neither is an inflammatory myopathy."
+  },
+{
+  "question": "Which movement would fail in a case of paralysis of the quadriceps femoris muscle?",
+  "options": [
+    "A. Adduction at the hip",
+    "B. Extension at the hip",
+    "C. Extension at the knee",
+    "D. Flexion at the knee",
+    "E. Medial rotation at the knee"
+  ],
+  "answer": "C. Extension at the knee",
+  "explanation": "Quadriceps femoris extends the leg (rectus femoris and the vastus muscles) and helps flex the hip (rectus femoris). It is innervated by the femoral nerve, which is made from the contributions of L2, 3, and 4 in the lumbar plexus. If a patient could not adduct at the hip, the adductor muscles might be damaged. These are supplied by the obturator nerve, which also comes from L2, 3, and 4 in the lumbar plexus. If a patient could not extend at the hip or flex the leg, the hamstring muscles might be damaged. These muscles are supplied by the tibial nerve, a branch of the sciatic nerve. If a patient could not rotate the knee medially, popliteus might be injured. This muscle, which is innervated by the tibial nerve, allows the knee to twist and unlock from a fully extended position, as in erect stance."
+},
+{
+  "question": "An elderly patient was found to have a hernial sac in the right femoral triangle and a marked weakness in adduction at the right hip joint. Which nerve was likely compressed by this herniation?",
+  "options": [
+    "A. Femoral",
+    "B. Inferior gluteal",
+    "C. Obturator",
+    "D. Pudendal",
+    "E. Sciatic"
+  ],
+  "answer": "C. Obturator",
+  "explanation": "Use the defect in motion, not the location of the injury, to answer questions like this one! It's true that the femoral nerve is in the femoral triangle, so you might want to jump to that answer. However, an injury to the femoral nerve would not cause problems with adduction. Instead, the patient would have problems extending her knee. The nerve which supplies the adductor compartment is the obturator nerve, so that must be the structure that was injured. Although the obturator nerve is not in the femoral triangle, it enters the thigh by passing through the obturator canal and under pectineus, part of the floor of the femoral triangle. So, it could be injured by an obturator hernia passing through the obturator canal. The inferior gluteal nerve passes through the greater sciatic foramen inferior to the piriformis muscle--it innervates gluteus maximus. The pudendal nerve supplies muscles and skin in the perineum. The sciatic nerve has no direct muscular branches. It does, however have two important branches that supply many muscles: the tibial and common fibular nerves. The tibial nerve supplies the posterior (hamstrings) compartment of the thigh and the posterior compartment of the leg. Branches of the common fibular nerve supply the lateral and anterior compartments of the leg. There would be a major motor deficit if the sciatic nerve was injured."
+},
+{
+      "question": "Inability to extend the knee and loss of cutaneous sensation over the anterior surface of the thigh may indicate a lesion or compression of the:",
+      "options": {
+        "A": "Superior gluteal nerve",
+        "B": "Lateral femoral cutaneous nerve",
+        "C": "Sciatic nerve",
+        "D": "Femoral nerve",
+        "E": "Obturator nerve"
+      },
+      "answer": "D",
+      "explanation": "The femoral nerve innervates the quadriceps, which are the muscles that extend the knee. It also provides cutaneous innervation to the anterior thigh and medial leg. This means that the symptoms here fit with an injury to the femoral nerve. The superior gluteal nerve supplies gluteus minimus and medius--two muscles that are important abductors of the hip. These muscles stabilize the pelvis when walking. The lateral femoral cutaneous nerve is a sensory nerve only--if this nerve was injured, the patient would have a loss of sensation over the lateral thigh but no motor weakness. The sciatic nerve is found in the posterior thigh--it does not innervate any muscles directly, but its branches do: the common fibular and tibial nerve. If the sciatic was damaged and these two branches were lost, there would be severe motor and sensory deficits throughout the posterior thigh and the leg and foot. The obturator nerve innervates the medial compartment of the thigh--an injury to this nerve would cause weakness in adduction and medial rotation."
+    },
+    {
+      "question": "During a surgical procedure in which the lower abdominal wall has been opened, the retractor blades damaged a nerve lying between the iliacus and psoas major muscles. The patient has weakened hip flexion and an inability to extend the knee, as well as analgesia on the anterior thigh and medial leg. What nerve has been compressed?",
+      "options": {
+        "A": "Obturator",
+        "B": "Femoral",
+        "C": "Sciatic",
+        "D": "Tibial",
+        "E": "Common fibular (peroneal)"
+      },
+      "answer": "B",
+      "explanation": "The femoral nerve lies between the iliacus and psoas major muscles. So, if a surgeon pulls these muscles apart with a retractor, the femoral nerve can be easily injured. This patient's symptoms match with an injury to the femoral nerve. Because the quadriceps are denervated, they cannot extend her knee. The femoral nerve also innervates hip flexors like pectineus, rectus femoris, part of iliopsoas, and sartorius. With these muscles denervated, she can't flex her hip well. Finally, consider cutaneous innervation--the anterior cutaneous branches of the femoral nerve supply cutaneous sensation to the anterior thigh, and the saphenous nerve (which is a branch of the femoral nerve) supplies cutaneous sensation to the medial leg. This is exactly where they are experiencing analgesia. So, everything here points to a femoral nerve injury."
+    }
 ]
