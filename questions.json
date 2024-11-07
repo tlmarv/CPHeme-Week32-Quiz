@@ -1683,25 +1683,25 @@
 },
 {
       "question": "Inability to extend the knee and loss of cutaneous sensation over the anterior surface of the thigh may indicate a lesion or compression of the:",
-      "options": {
-        "A": "Superior gluteal nerve",
-        "B": "Lateral femoral cutaneous nerve",
-        "C": "Sciatic nerve",
-        "D": "Femoral nerve",
-        "E": "Obturator nerve"
-      },
+      "options": [
+        "A: Superior gluteal nerve",
+        "B: Lateral femoral cutaneous nerve",
+        "C: Sciatic nerve",
+        "D: Femoral nerve",
+        "E: Obturator nerve"
+      ],
        "correctAnswer": 3,
       "explanation": "The femoral nerve innervates the quadriceps, which are the muscles that extend the knee. It also provides cutaneous innervation to the anterior thigh and medial leg. This means that the symptoms here fit with an injury to the femoral nerve. The superior gluteal nerve supplies gluteus minimus and medius--two muscles that are important abductors of the hip. These muscles stabilize the pelvis when walking. The lateral femoral cutaneous nerve is a sensory nerve only--if this nerve was injured, the patient would have a loss of sensation over the lateral thigh but no motor weakness. The sciatic nerve is found in the posterior thigh--it does not innervate any muscles directly, but its branches do: the common fibular and tibial nerve. If the sciatic was damaged and these two branches were lost, there would be severe motor and sensory deficits throughout the posterior thigh and the leg and foot. The obturator nerve innervates the medial compartment of the thigh--an injury to this nerve would cause weakness in adduction and medial rotation."
     },
     {
       "question": "During a surgical procedure in which the lower abdominal wall has been opened, the retractor blades damaged a nerve lying between the iliacus and psoas major muscles. The patient has weakened hip flexion and an inability to extend the knee, as well as analgesia on the anterior thigh and medial leg. What nerve has been compressed?",
-      "options": {
+      "options": [
         "A: Obturator",
         "B: Femoral",
         "C: Sciatic",
         "D: Tibial",
         "E: Common fibular (peroneal)"
-      },
+      ],
       "correctAnswer": 1,
       "explanation": "The femoral nerve lies between the iliacus and psoas major muscles. So, if a surgeon pulls these muscles apart with a retractor, the femoral nerve can be easily injured. This patient's symptoms match with an injury to the femoral nerve. Because the quadriceps are denervated, they cannot extend her knee. The femoral nerve also innervates hip flexors like pectineus, rectus femoris, part of iliopsoas, and sartorius. With these muscles denervated, she can't flex her hip well. Finally, consider cutaneous innervation--the anterior cutaneous branches of the femoral nerve supply cutaneous sensation to the anterior thigh, and the saphenous nerve (which is a branch of the femoral nerve) supplies cutaneous sensation to the medial leg. This is exactly where they are experiencing analgesia. So, everything here points to a femoral nerve injury."
     }
