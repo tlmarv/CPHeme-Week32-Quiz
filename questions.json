@@ -15,11 +15,11 @@
     "choices": [
         "Vastus lateralis",
         "Rectus femoris",
-        "Sartorius",
+        "Vastus intermedialis",
         "Iliacus"
     ],
     "correctAnswer": 1,
-    "explanation": "Rectus femoris is the only muscle in the quadriceps group that acts on both the hip and knee, contributing to hip flexion and knee extension."
+    "explanation": "Rectus femoris is the only muscle in the quadriceps group that acts on both the hip and knee, contributing to hip flexion and knee extension. While the iliacus does cause hip flexion it does not flex the knee."
 },
 {
     "question": "Which artery primarily supplies blood to the medial thigh muscles?",
@@ -41,18 +41,18 @@
         "Superior gluteal nerve"
     ],
     "correctAnswer": 2,
-    "explanation": "The obturator nerve provides motor innervation to most muscles in the medial compartment, which are primarily adductors of the thigh."
+    "explanation": "The obturator nerve provides motor innervation to most muscles in the medial compartment, which are primarily adductors of the thigh. The hamstring portion of the adductor magnus is innervated by the sciatic nerve tho."
 },
 {
-    "question": "Which vein is most commonly involved in varicosities in the thigh?",
+    "question": "WhichIs the main mechanism of varicose veins?",
     "choices": [
-        "Popliteal vein",
-        "Deep femoral vein",
-        "Small saphenous vein",
-        "Great saphenous vein"
+        "Truama of the vein",
+        "Ischemia of the vein",
+        "Constirction of the vein",
+        "Dilation of the vein"
     ],
     "correctAnswer": 3,
-    "explanation": "The great saphenous vein, located superficially along the thigh, is commonly affected in varicose veins due to increased pressure or valve insufficiency."
+    "explanation": "Dilation of the veins makes it so that the cusps do not prevent backflow and due to this blood clots can form in the vein. If the clots dislodge they can reach vital parts of the body."
 },
 {
     "question": "A 32-year-old marathon runner presents with groin pain that worsens with adduction of the thigh. On physical examination, there is tenderness along the inferior ramus of the pubis. Which muscle is most likely injured in this athlete?",
@@ -132,28 +132,6 @@
     "explanation": "The sartorius originates at the ASIS and assists in hip flexion; tenderness here suggests an issue with this muscle."
 },
 {
-    "question": "A trauma patient has a femoral fracture that has displaced the greater trochanter. Which of the following muscles would most likely lose its attachment, affecting the abduction and lateral rotation of the thigh?",
-    "choices": [
-        "Adductor magnus",
-        "Vastus medialis",
-        "Sartorius",
-        "Gluteus medius"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The gluteus medius attaches to the greater trochanter and plays a role in thigh abduction and lateral rotation."
-},
-{
-    "question": "A 35-year-old female has a history of chronic varicose veins and presents with swelling and pain in her lower thigh. Which vein is most likely responsible for this condition, and where would this vein typically drain?",
-    "choices": [
-        "Small saphenous vein, draining into the femoral vein",
-        "Great saphenous vein, draining into the femoral vein",
-        "Femoral vein, draining into the iliac vein",
-        "Deep femoral vein, draining into the popliteal vein"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The great saphenous vein drains into the femoral vein and is commonly associated with varicose veins in the thigh."
-},
-{
     "question": "A 40-year-old male presents with pain localized to the anterior thigh following a laceration injury. Neurological testing reveals impaired sensation in the anterior thigh. Which nerve is most likely damaged?",
     "choices": [
         "Sciatic nerve",
@@ -184,7 +162,7 @@
         "A positive ANA result is rare in the general population."
     ],
     "correctAnswer": 2,
-    "explanation": "ANA testing is highly sensitive but lacks specificity, as it can be positive in various conditions and even in some healthy individuals."
+    "explanation": "ANA testing is highly sensitive but lacks specificity, as it can be positive in various conditions and even in some healthy individuals. It is specific for SLE in a way, if it is negative it cannot be SLE."
 },
 {
     "question": "A 45-year-old woman has Raynaud’s phenomenon. How would you differentiate Raynaud’s disease from secondary Raynaud’s phenomenon based on clinical features?",
@@ -206,7 +184,7 @@
         "Anti-Scl-70 antibody"
     ],
     "correctAnswer": 3,
-    "explanation": "Anti-Scl-70 is highly specific for diffuse systemic sclerosis, often associated with more severe systemic involvement."
+    "explanation": "Anti-Scl-70 (targets topoisomerase-1) is highly specific for diffuse systemic sclerosis, often associated with more severe systemic involvement. Anti-centromere is for limited systemic sclerosis. Anti-dsDNA and Anti-smith antibodies are specific for SLE."
 },
 {
     "question": "Which autoimmune condition is characterized by dry eyes, dry mouth, and a high risk for developing lymphoma?",
@@ -228,7 +206,7 @@
         "Fibrosis of the gland"
     ],
     "correctAnswer": 2,
-    "explanation": "Unilateral parotid swelling in Sjögren’s syndrome raises suspicion for MALT lymphoma due to the high risk of lymphoid neoplasms."
+    "explanation": "Unilateral parotid swelling in Sjögren’s syndrome raises suspicion for MALT lymphoma due to the high risk of lymphoid neoplasms. Usually it should be bilateral, unilateral is not good; there is a 1000x increased risk of MALT lymphoma in SS."
 },
 {
     "question": "Which laboratory finding is typically associated with systemic lupus erythematosus but not with Sjögren’s syndrome?",
@@ -294,7 +272,7 @@
         "Pericarditis"
     ],
     "correctAnswer": 1,
-    "explanation": "Pulmonary arterial hypertension is a common complication in limited systemic sclerosis, often leading to progressive dyspnea."
+    "explanation": "Pulmonary arterial hypertension is a common complication in limited systemic sclerosis, often leading to progressive dyspnea. Scleroderma renal crisis and interstitial lung disease is seen more in diffuse sclerosis. "
 },
 {
     "question": "A 40-year-old woman presents with multiple miscarriages and recurrent deep vein thromboses. Laboratory testing reveals anticardiolipin antibodies. What is the most likely diagnosis?",
@@ -305,7 +283,7 @@
         "Raynaud’s phenomenon"
     ],
     "correctAnswer": 1,
-    "explanation": "Anti-phospholipid syndrome presents with recurrent miscarriages and thromboses, often with positive anticardiolipin antibodies."
+    "explanation": "Anti-phospholipid syndrome presents with recurrent miscarriages and thromboses, often with positive anticardiolipin antibodies. This will also show up with a positive syphilis test (RPR). the antibodies are: Beta-2-glycoprotein-1 and anticardiolipin Ah."
 },
 {
     "question": "A 27-year-old male presents with a non-erosive arthritis, Raynaud’s phenomenon, and a positive anti-U1-RNP antibody. What condition is most consistent with his presentation?",
@@ -316,7 +294,7 @@
         "Anti-synthetase syndrome"
     ],
     "correctAnswer": 0,
-    "explanation": "Mixed connective tissue disease is characterized by overlap features and positive anti-U1-RNP antibody, often with Raynaud’s and arthritis."
+    "explanation": "Mixed connective tissue disease is characterized by overlap features and positive anti-U1-RNP antibody, often with Raynaud’s, swollen hands, and arthritis. Mortality comes from pulmonary arterial hypertension and interstitial lung disease. This must have a high titer ANA with the anti-U1-RNP."
 },
 {
     "question": "A patient with systemic lupus erythematosus has low C3 and C4 complement levels during a disease flare. What mechanism best explains this finding?",
@@ -349,7 +327,7 @@
         "More common in boys, typically affects large joints symmetrically"
     ],
     "correctAnswer": 1,
-    "explanation": "Oligoarticular JIA typically affects girls between 1-4 years old and often involves the knees."
+    "explanation": "Oligoarticular JIA typically affects girls between 1-4 years old and often involves the knees.OLIGO SPARES THE HIPS!!"
 },
 {
     "question": "Which subtype of juvenile idiopathic arthritis has the highest risk of developing chronic anterior uveitis?",
@@ -382,7 +360,7 @@
         "Positive ANA titer"
     ],
     "correctAnswer": 2,
-    "explanation": "Systemic JIA is associated with a daily spiking (quotidian) fever, which is not seen in oligoarticular JIA."
+    "explanation": "Systemic JIA is associated with a daily spiking (quotidian) fever, which is not seen in oligoarticular JIA. Oligoarticular JIA also has a positive ANA titer while systemic does not. Oligoarticular and systemic are asymmetrical."
 },
 {
     "question": "A 7-year-old boy with systemic JIA develops persistent high fever, hepatosplenomegaly, and very high ferritin levels. What complication should be suspected?",
@@ -423,10 +401,10 @@
         "Elevated ferritin levels in MAS",
         "Persistent fever in MAS",
         "Elevated white blood cell count in MAS",
-        "Low fibrinogen levels in MAS"
+        "Some form of skin involvement in MAS"
     ],
-    "correctAnswer": 3,
-    "explanation": "In MAS, fibrinogen levels are often low, while they are elevated in active systemic JIA."
+    "correctAnswer": 1,
+    "explanation": "In both MAS and systemic JIA, ferritin levels are often elevated, WBC levels are normal in MAS and both have rashes (MAS has purpura and systemic JIA has maculopapular rash. MAS has persistent fever and s JIA has quotidian fever.."
 },
 {
     "question": "A 5-year-old girl with oligoarticular JIA presents with eye pain and vision changes. What is the most likely complication?",
@@ -437,7 +415,7 @@
         "Pericarditis"
     ],
     "correctAnswer": 1,
-    "explanation": "Uveitis is a common complication in oligoarticular JIA, especially in ANA-positive patients."
+    "explanation": "Uveitis is a common complication in oligoarticular JIA, especially in ANA-positive patients. It's typically asymptomatic and you have to test early because its asymptomatic until it's too late. Can lead to glaucoma, cataracts, vision loss, band keratopathy, and synechaie. It can precede arthritis."
 },
 {
     "question": "What is the primary diagnostic method for confirming macrophage activation syndrome (MAS) in a patient with systemic JIA?",
@@ -456,7 +434,7 @@
         "Low platelet count",
         "High ESR",
         "Low fibrinogen levels",
-        "Elevated liver enzymes"
+        "Elevated ferritin levels"
     ],
     "correctAnswer": 1,
     "explanation": "Unlike in active systemic JIA, ESR is often normal or low in MAS due to consumption of inflammatory factors."
@@ -481,7 +459,7 @@
         "Muscle wasting in the unaffected limb"
     ],
     "correctAnswer": 1,
-    "explanation": "In oligoarticular JIA, inflammation can lead to accelerated growth in the affected limb due to increased blood flow to the growth plate."
+    "explanation": "In oligoarticular JIA, inflammation can lead to accelerated growth in the affected limb due to increased blood flow to the growth plate from inflammation. Later in life the leg will be shorter due to early fusion of the epiphyseal plate."
 },
 {
     "question": "Which of the following findings is more characteristic of systemic JIA than oligoarticular JIA?",
@@ -536,7 +514,7 @@
         "Obturator nerve"
     ],
     "correctAnswer": 0,
-    "explanation": "Following Hilton’s Law, the femoral nerve innervates muscles around the hip joint and provides proprioceptive sensation to the joint itself."
+    "explanation": "Following Hilton’s Law, the femoral nerve innervates muscles around the hip joint and provides proprioceptive sensation to the joint itself. Hilton’s law is described as: the nerve supplying the muscles extending directly across and acting at a given joint not only supplies the muscle, but also innervates the joint and the skin overlying the muscle."
 },
 {
     "question": "A patient presents with an inversion ankle injury. Which ligament is most likely damaged?",
@@ -591,7 +569,7 @@
         "Lateral collateral ligament"
     ],
     "correctAnswer": 2,
-    "explanation": "A ‘dashboard injury’ commonly results in a PCL tear due to posterior displacement of the tibia."
+    "explanation": "A ‘dashboard injury’ (this is the car crash injury Dr. Wireman mentioned saying its the one of the most common femur dislocation injuries) commonly results in a PCL tear due to posterior displacement of the tibia."
 },
 {
     "question": "The knee joint is mainly stabilized by which muscle group?",
@@ -627,7 +605,7 @@
     "explanation": "The femoral nerve provides innervation to muscles around the knee joint and is involved in proprioception and pain perception in the knee."
 },
 {
-    "question": "A patient sustains an ‘unhappy triad’ injury to the knee. Which structures are typically affected in this injury?",
+    "question": "A patient sustains a classical ‘unhappy triad’ injury to the knee. Which structures are typically affected in this injury?",
     "choices": [
         "ACL, MCL, and medial meniscus",
         "ACL, PCL, and lateral meniscus",
@@ -635,7 +613,7 @@
         "ACL, LCL, and lateral meniscus"
     ],
     "correctAnswer": 0,
-    "explanation": "The ‘unhappy triad’ involves injuries to the ACL, MCL, and often the medial meniscus from a lateral blow to the knee."
+    "explanation": "The ‘unhappy triad’ involves injuries to the ACL, MCL, and often the medial meniscus from a lateral blow to the knee. Actual (more frequent version) affects the latermeniscus rather than the medial."
 },
 {
     "question": "A 55-year-old man presents with calf pain and swelling after running. Ultrasound shows an Achilles tendon tear. Which movement would be impaired?",
@@ -646,7 +624,7 @@
         "Eversion"
     ],
     "correctAnswer": 1,
-    "explanation": "The Achilles tendon is essential for plantarflexion, connecting the gastrocnemius and soleus muscles to the calcaneus."
+    "explanation": "Yes, this was in the handout for the lecture so this is fair game. The Achilles tendon is essential for plantarflexion, connecting the gastrocnemius and soleus muscles (calf muscles) to the calcaneus."
 },
 {
     "question": "The superior lateral and medial genicular arteries contribute to which arterial network around the knee?",
@@ -789,7 +767,7 @@
         "Transmitting electrical signals across muscle fibers"
     ],
     "correctAnswer": 2,
-    "explanation": "Satellite cells are muscle stem cells that proliferate and fuse with damaged fibers, facilitating muscle repair and regeneration after injury."
+    "explanation": "Satellite cells are muscle stem cells that proliferate and fuse with damaged fibers, facilitating muscle repair and regeneration after injury. Muscle spindles are responsible for responding to muscle sketch causing contraction. T-tubule are for transmitting electrical signals."
 },
 {
     "question": "In the context of muscular dystrophy, what is the role of the dystrophin-glycoprotein complex?",
@@ -836,15 +814,15 @@
     "explanation": "Duchenne muscular dystrophy is caused by a mutation in the gene for dystrophin, resulting in progressive muscle weakness and degeneration."
 },
 {
-    "question": "Which genetic mutation is most commonly associated with Marfan syndrome?",
+    "question": "Which genetic mutation is most commonly associated with Vascular Ehlers-danlos syndrome?",
     "choices": [
         "COL5A1",
         "COL3A1",
         "FBN1",
-        "TGFBR2"
+        "None of the above"
     ],
-    "correctAnswer": 2,
-    "explanation": "Marfan syndrome is primarily caused by mutations in the FBN1 gene, which encodes for fibrillin-1, affecting connective tissue structure."
+    "correctAnswer": 1,
+    "explanation": "Vascular EDS is associated with COL3A1 (effecting type 3 collagen), Classic is associated with COL5A1 (effecting type 5 collagen), hypermobility has no known antibodies, and marfans is associated with FBN1 (effecting fibrillin-1)."
 },
 {
     "question": "A 25-year-old woman presents with joint hypermobility, soft velvety skin, and atrophic scars. Genetic testing reveals a defect in the COL5A1 gene. Which condition is most likely?",
@@ -866,7 +844,7 @@
         "Peripheral artery disease"
     ],
     "correctAnswer": 1,
-    "explanation": "Marfan syndrome commonly leads to aortic root dilation, increasing the risk of aortic dissection or rupture."
+    "explanation": "Marfan syndrome commonly leads to aortic root dilation, increasing the risk of aortic dissection or rupture. Also is associated with mitral valve prolapse, ectopic lentils, and high arched palate. Pulmonary hypertension is associated with systemic scleroderma."
 },
 {
     "question": "Which connective tissue component is defective in vascular Ehlers-Danlos syndrome?",
@@ -910,7 +888,7 @@
         "Post-traumatic stress disorder (PTSD)"
     ],
     "correctAnswer": 3,
-    "explanation": "PTSD is a common comorbidity in fibromyalgia, with emotional or physical trauma often serving as a trigger for symptom onset."
+    "explanation": "PTSD is a common comorbidity in fibromyalgia, with emotional or physical trauma often serving as a trigger for symptom onset. Other triggers include early life trauma, infection, sleep apnea, chronic stress, and inflammatory arthritis."
 },
 {
     "question": "A 50-year-old woman with fibromyalgia reports non-restorative sleep and frequent 'brain fog.' What is the primary therapeutic focus?",
@@ -921,7 +899,7 @@
         "Corticosteroids"
     ],
     "correctAnswer": 2,
-    "explanation": "Non-pharmacologic treatments, including sleep hygiene and cognitive behavioral therapy, are first-line therapies for fibromyalgia."
+    "explanation": "Non-pharmacologic treatments, including sleep hygiene and cognitive behavioral therapy, are first-line therapies for fibromyalgia. Primary treatment is aerobic exercise, weight loss, validating feelings, and CBT. secondary treatment involves neuromodulators such as duloxetine, pregabalin, and milnacipran."
 },
 {
     "question": "A patient with complex regional pain syndrome (CRPS) following a wrist fracture is most likely to exhibit which symptom?",
@@ -1526,30 +1504,6 @@
     "explanation": "The correct answer is femoral artery (B). The femoral artery is injured in some femur fractures, and it supplies the anterior muscles of the thigh, which are important in lower leg extension. The anterior tibial (A), fibular (C), and genicular arteries (D) are branches of the popliteal artery at the knee, so they supply muscles of the lower leg that guide foot and toe motion. The obturator artery (E) is a deep branch of the internal iliac artery, supplying the femur and medial thigh, so the muscles it supplies would not be involved in extending the lower leg."
 },
 {
-    "question": "Which of these arteries is a branch of the popliteal artery?",
-    "choices": [
-        "Femoral artery",
-        "Fibular artery",
-        "Obturator artery",
-        "Profunda femoris artery",
-        "Radialis indicis artery"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is fibular artery (B). The popliteal artery, an extension of the femoral artery at the knee, gives rise to the internal and external tibial arteries and the fibular (peroneal) artery, all of which supply the lower leg. The femoral artery (A) is proximal to the popliteal artery. The obturator artery (C) is a branch of the internal iliac artery. The profunda femoris artery (D) is a proximal branch of the femoral artery. The radialis indicis artery (E) supplies the index finger."
-},
-{
-    "question": "Which of the following veins is not paired with an identically named artery?",
-    "choices": [
-        "Common iliac",
-        "Femoral",
-        "Great saphenous",
-        "Popliteal",
-        "Subclavian"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is great saphenous vein (C). Most veins take their names from the artery that supplies the same region, including the common iliac (A), femoral (B), popliteal (D), and subclavian (E) veins. The great saphenous vein runs from the great toe to the femoral vein superficially, and it is not paired with an artery. It is at risk for thrombophlebitis and varicosities."
-},
-{
     "question": "Through which of these vessels will lymph from the left toe most likely flow?",
     "choices": [
         "Left axillary vein",
@@ -1560,18 +1514,6 @@
     ],
     "correctAnswer": 4,
     "explanation": "The correct answer is thoracic duct (E). The lymph from the lower extremities does not travel through lower extremity veins (B), but instead runs through lymphatics, moving to the lumbar ducts and then to the thoracic duct. From there, it empties into the left subclavian vein. The lymph would not enter a distal upper extremity vein like the axillary vein (A). Nor would it run through the right lymphatic duct (C) or the right subclavian vein (D)."
-},
-{
-    "question": "A 65-year-old male describes difficulty walking. He cannot support weight with his left leg and experiences shooting pain down the left posterolateral aspect of that leg while walking. He has difficulty extending his thigh. Compression of which of the following nerves is most likely the cause of these symptoms?",
-    "choices": [
-        "Common fibular",
-        "Femoral",
-        "Obturator",
-        "Sciatic",
-        "Superior gluteal"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is sciatic (D). The patient’s pain down the back of the leg and difficulty extending the thigh (moving it posteriorly) suggests a sciatic nerve lesion. If the sciatic nerve is entrapped, it can cause shooting pain down the leg in its distribution as well as weakness in the hamstrings, which extend the thigh and flex the lower leg. The common fibular nerve (A) supplies the lower leg, so it would not see this pain pattern. The femoral nerve (B) supplies thigh flexors and lower leg extenders. The obturator nerve (C) supplies the thigh adductors in the medial thigh. The superior gluteal nerve (E) promotes leg abduction and extension, and injury would exhibit a contralateral hip drop instead of leg weakness."
 },
 {
     "question": "Which of the following is seen in patients with Marfan syndrome but not Ehlers Danlos syndrome?",
@@ -1704,5 +1646,17 @@
       ],
       "correctAnswer": 1,
       "explanation": "The femoral nerve lies between the iliacus and psoas major muscles. So, if a surgeon pulls these muscles apart with a retractor, the femoral nerve can be easily injured. This patient's symptoms match with an injury to the femoral nerve. Because the quadriceps are denervated, they cannot extend her knee. The femoral nerve also innervates hip flexors like pectineus, rectus femoris, part of iliopsoas, and sartorius. With these muscles denervated, she can't flex her hip well. Finally, consider cutaneous innervation--the anterior cutaneous branches of the femoral nerve supply cutaneous sensation to the anterior thigh, and the saphenous nerve (which is a branch of the femoral nerve) supplies cutaneous sensation to the medial leg. This is exactly where they are experiencing analgesia. So, everything here points to a femoral nerve injury."
-    }
+    },
+{
+  "question": "A 3-year-old child presents to the pediatrician for a routine checkup. On examination, the child is observed to have a knock-knee appearance with knees angled towards each other. Which of the following statements is most accurate regarding this finding?",
+  "choices": [
+    "The child has Genu varum, a condition that is normal between ages 1-2.",
+    "The child has Genu valgum, a condition that is normal between ages 2-4.",
+    "The child has Genu varum, associated with an increased Q-angle.",
+    "The child has Genu valgum, which requires surgical intervention at this age.",
+    "The child has a normal Q-angle, indicating no knee deformity."
+  ],
+  "correctAnswer": 1,
+  "explanation": "The correct answer is that the child has Genu valgum, a condition that is normal between ages 2-4. Genu valgum, or knock-knee, is commonly observed in children within this age range and is typically a self-correcting condition. It is associated with an increased Q-angle. Genu varum, or bow-legs, which is normal between ages 1-2, is associated with a decreased Q-angle. Both conditions usually resolve as the child grows, and surgical intervention is rarely needed unless the deformity persists beyond the typical age range."
+}
 ]
