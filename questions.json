@@ -277,13 +277,13 @@
 {
     "question": "Which feature differentiates polymyositis from polymyalgia rheumatica?",
     "choices": [
-        "Age of onset",
+        "Inflammatory arthritis",
         "Presence of weakness",
         "Elevated ESR",
         "Presence of proximal pain"
     ],
     "correctAnswer": 1,
-    "explanation": "Polymyositis is characterized by proximal muscle weakness, unlike polymyalgia rheumatica, which presents with pain and stiffness without weakness."
+    "explanation": "Polymyositis is characterized by proximal muscle weakness and USUAL absent pain (it is possible to have pain), unlike polymyalgia rheumatica, which presents with pain and stiffness without weakness. Polymyosistits will also have a positive ANA and occurs at all ages. PMR usually occurs in people older than 50. Both conditions have inflammatory arthritis (PMR has more often) and both can have elevated ESRs, but 50% of the time Polymyosistis will not have an elevated ESR."
 },
 {
     "question": "A 52-year-old woman with a history of limited systemic sclerosis presents with progressive dyspnea. Which complication should be considered in this patient?",
@@ -1574,18 +1574,6 @@
     "explanation": "The correct answer is sciatic (D). The patient’s pain down the back of the leg and difficulty extending the thigh (moving it posteriorly) suggests a sciatic nerve lesion. If the sciatic nerve is entrapped, it can cause shooting pain down the leg in its distribution as well as weakness in the hamstrings, which extend the thigh and flex the lower leg. The common fibular nerve (A) supplies the lower leg, so it would not see this pain pattern. The femoral nerve (B) supplies thigh flexors and lower leg extenders. The obturator nerve (C) supplies the thigh adductors in the medial thigh. The superior gluteal nerve (E) promotes leg abduction and extension, and injury would exhibit a contralateral hip drop instead of leg weakness."
 },
 {
-    "question": "A construction worker presents to an outpatient clinic after he fell from a beam onto his lower back. He complains that he cannot walk because he keeps tripping over his foot. Every time he lifts his leg to take a step, he is unable to dorsiflex his foot. The muscles affected by this injury are most strongly associated with injuries to which of the following spinal nerves?",
-    "choices": [
-        "L2",
-        "L3",
-        "L4",
-        "L5",
-        "S1"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is L4 (C). L4 injuries are most associated with weakness in foot dorsiflexion, otherwise known as foot drop. L2 injuries (A) are most associated with thigh flexion. L3 injuries (B) are most associated with lower leg extension. L5 injuries (D) are most associated with great toe extension. S1 injuries (E) are most associated with foot plantar flexion (the foot motion needed for standing on your toes)."
-},
-{
     "question": "Which of the following is seen in patients with Marfan syndrome but not Ehlers Danlos syndrome?",
     "choices": [
         "Aortic root dilation",
@@ -1654,7 +1642,7 @@
       "D. Loss of pain sensitivity",
       "E. Muscle weakness"
     ],
-    "answer": "A. Increased perspiration",
+     "correctAnswer": 0,
     "explanation": "The correct answer is increased perspiration (A). Autonomic testing in the painful region assesses autonomic responses in patients, which is often dysregulated in CRPS. These include skin blood flow, temperature, and perspiration. Increased perspiration is an effect that can be measured this way and is a diagnostic criterion for CRPS. Deep tendon reflexes (B), inflammation (C), pain sensitivity (D), and muscle strength (E) are not measured by autonomic testing."
   },
   {
@@ -1666,7 +1654,7 @@
       "D. Perspiration asymmetry",
       "E. Weakness"
     ],
-    "answer": "E. Weakness",
+     "correctAnswer": 4,
     "explanation": "The correct answer is weakness (E). Although the main commonality to the two disorders is muscle pain and tenderness, patients may also report areas of weakness. Edema (A) and perspiration asymmetry (D) are sudomotor symptoms seen only in CRPS. Elevated CRP (B) and inflammation of muscle (C) are seen in neither condition because neither is an inflammatory myopathy."
   },
 {
@@ -1678,7 +1666,7 @@
     "D. Flexion at the knee",
     "E. Medial rotation at the knee"
   ],
-  "answer": "C. Extension at the knee",
+   "correctAnswer": 2,
   "explanation": "Quadriceps femoris extends the leg (rectus femoris and the vastus muscles) and helps flex the hip (rectus femoris). It is innervated by the femoral nerve, which is made from the contributions of L2, 3, and 4 in the lumbar plexus. If a patient could not adduct at the hip, the adductor muscles might be damaged. These are supplied by the obturator nerve, which also comes from L2, 3, and 4 in the lumbar plexus. If a patient could not extend at the hip or flex the leg, the hamstring muscles might be damaged. These muscles are supplied by the tibial nerve, a branch of the sciatic nerve. If a patient could not rotate the knee medially, popliteus might be injured. This muscle, which is innervated by the tibial nerve, allows the knee to twist and unlock from a fully extended position, as in erect stance."
 },
 {
@@ -1690,7 +1678,7 @@
     "D. Pudendal",
     "E. Sciatic"
   ],
-  "answer": "C. Obturator",
+   "correctAnswer": 2,
   "explanation": "Use the defect in motion, not the location of the injury, to answer questions like this one! It's true that the femoral nerve is in the femoral triangle, so you might want to jump to that answer. However, an injury to the femoral nerve would not cause problems with adduction. Instead, the patient would have problems extending her knee. The nerve which supplies the adductor compartment is the obturator nerve, so that must be the structure that was injured. Although the obturator nerve is not in the femoral triangle, it enters the thigh by passing through the obturator canal and under pectineus, part of the floor of the femoral triangle. So, it could be injured by an obturator hernia passing through the obturator canal. The inferior gluteal nerve passes through the greater sciatic foramen inferior to the piriformis muscle--it innervates gluteus maximus. The pudendal nerve supplies muscles and skin in the perineum. The sciatic nerve has no direct muscular branches. It does, however have two important branches that supply many muscles: the tibial and common fibular nerves. The tibial nerve supplies the posterior (hamstrings) compartment of the thigh and the posterior compartment of the leg. Branches of the common fibular nerve supply the lateral and anterior compartments of the leg. There would be a major motor deficit if the sciatic nerve was injured."
 },
 {
@@ -1702,19 +1690,19 @@
         "D": "Femoral nerve",
         "E": "Obturator nerve"
       },
-      "answer": "D",
+       "correctAnswer": 3,
       "explanation": "The femoral nerve innervates the quadriceps, which are the muscles that extend the knee. It also provides cutaneous innervation to the anterior thigh and medial leg. This means that the symptoms here fit with an injury to the femoral nerve. The superior gluteal nerve supplies gluteus minimus and medius--two muscles that are important abductors of the hip. These muscles stabilize the pelvis when walking. The lateral femoral cutaneous nerve is a sensory nerve only--if this nerve was injured, the patient would have a loss of sensation over the lateral thigh but no motor weakness. The sciatic nerve is found in the posterior thigh--it does not innervate any muscles directly, but its branches do: the common fibular and tibial nerve. If the sciatic was damaged and these two branches were lost, there would be severe motor and sensory deficits throughout the posterior thigh and the leg and foot. The obturator nerve innervates the medial compartment of the thigh--an injury to this nerve would cause weakness in adduction and medial rotation."
     },
     {
       "question": "During a surgical procedure in which the lower abdominal wall has been opened, the retractor blades damaged a nerve lying between the iliacus and psoas major muscles. The patient has weakened hip flexion and an inability to extend the knee, as well as analgesia on the anterior thigh and medial leg. What nerve has been compressed?",
       "options": {
-        "A": "Obturator",
-        "B": "Femoral",
-        "C": "Sciatic",
-        "D": "Tibial",
-        "E": "Common fibular (peroneal)"
+        "A: Obturator",
+        "B: Femoral",
+        "C: Sciatic",
+        "D: Tibial",
+        "E: Common fibular (peroneal)"
       },
-      "answer": "B",
+      "correctAnswer": 1,
       "explanation": "The femoral nerve lies between the iliacus and psoas major muscles. So, if a surgeon pulls these muscles apart with a retractor, the femoral nerve can be easily injured. This patient's symptoms match with an injury to the femoral nerve. Because the quadriceps are denervated, they cannot extend her knee. The femoral nerve also innervates hip flexors like pectineus, rectus femoris, part of iliopsoas, and sartorius. With these muscles denervated, she can't flex her hip well. Finally, consider cutaneous innervation--the anterior cutaneous branches of the femoral nerve supply cutaneous sensation to the anterior thigh, and the saphenous nerve (which is a branch of the femoral nerve) supplies cutaneous sensation to the medial leg. This is exactly where they are experiencing analgesia. So, everything here points to a femoral nerve injury."
     }
 ]
