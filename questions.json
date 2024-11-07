@@ -1635,7 +1635,7 @@
 },
 {
     "question": "Which of the following would most likely be seen with autonomic testing in a patient with complex regional pain syndrome?",
-    "options": [
+    "choices": [
       "A. Increased perspiration",
       "B. Decreased deep tendon reflexes",
       "C. Inflammation",
@@ -1647,7 +1647,7 @@
   },
   {
     "question": "Which of the following is seen in both fibromyalgia and CRPS?",
-    "options": [
+    "choices": [
       "A. Edema",
       "B. Elevated C-reactive protein",
       "C. Inflammation of muscle",
@@ -1659,7 +1659,7 @@
   },
 {
   "question": "Which movement would fail in a case of paralysis of the quadriceps femoris muscle?",
-  "options": [
+  "choices": [
     "A. Adduction at the hip",
     "B. Extension at the hip",
     "C. Extension at the knee",
@@ -1671,7 +1671,7 @@
 },
 {
   "question": "An elderly patient was found to have a hernial sac in the right femoral triangle and a marked weakness in adduction at the right hip joint. Which nerve was likely compressed by this herniation?",
-  "options": [
+  "choices": [
     "A. Femoral",
     "B. Inferior gluteal",
     "C. Obturator",
@@ -1683,7 +1683,7 @@
 },
 {
       "question": "Inability to extend the knee and loss of cutaneous sensation over the anterior surface of the thigh may indicate a lesion or compression of the:",
-      "options": [
+      "choices": [
         "A: Superior gluteal nerve",
         "B: Lateral femoral cutaneous nerve",
         "C: Sciatic nerve",
@@ -1695,7 +1695,7 @@
     },
     {
       "question": "During a surgical procedure in which the lower abdominal wall has been opened, the retractor blades damaged a nerve lying between the iliacus and psoas major muscles. The patient has weakened hip flexion and an inability to extend the knee, as well as analgesia on the anterior thigh and medial leg. What nerve has been compressed?",
-      "options": [
+      "choices": [
         "A: Obturator",
         "B: Femoral",
         "C: Sciatic",
