@@ -1,1093 +1,598 @@
 [
-{
-    "question": "A 68-year-old patient presents with a hip fracture. Which bony landmark of the femur is most at risk of avascular necrosis due to its blood supply?",
-    "choices": [
-        "Greater trochanter",
-        "Head of the femur",
-        "Medial condyle",
-        "Linea aspera"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The head of the femur is at high risk of avascular necrosis due to its limited blood supply, particularly when the neck is fractured."
-},
-{
-    "question": "Which muscle in the anterior compartment of the thigh is responsible for both hip flexion and knee extension?",
-    "choices": [
-        "Vastus lateralis",
-        "Rectus femoris",
-        "Vastus intermedialis",
-        "Iliacus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Rectus femoris is the only muscle in the quadriceps group that acts on both the hip and knee, contributing to hip flexion and knee extension. While the iliacus does cause hip flexion it does not flex the knee."
-},
-{
-    "question": "Which artery primarily supplies blood to the medial thigh muscles?",
-    "choices": [
-        "Femoral artery",
-        "Deep femoral artery",
-        "Obturator artery",
-        "Lateral circumflex femoral artery"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The obturator artery is the primary blood supply to the medial compartment muscles, particularly the adductor group."
-},
-{
-    "question": "What is the primary innervation of the muscles in the medial compartment of the thigh?",
-    "choices": [
-        "Femoral nerve",
-        "Sciatic nerve",
-        "Obturator nerve",
-        "Superior gluteal nerve"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The obturator nerve provides motor innervation to most muscles in the medial compartment, which are primarily adductors of the thigh. The hamstring portion of the adductor magnus is innervated by the sciatic nerve tho."
-},
-{
-    "question": "WhichIs the main mechanism of varicose veins?",
-    "choices": [
-        "Truama of the vein",
-        "Ischemia of the vein",
-        "Constirction of the vein",
-        "Dilation of the vein"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Dilation of the veins makes it so that the cusps do not prevent backflow and due to this blood clots can form in the vein. If the clots dislodge they can reach vital parts of the body."
-},
-{
-    "question": "A 32-year-old marathon runner presents with groin pain that worsens with adduction of the thigh. On physical examination, there is tenderness along the inferior ramus of the pubis. Which muscle is most likely injured in this athlete?",
-    "choices": [
-        "Gracilis",
-        "Sartorius",
-        "Iliopsoas",
-        "Vastus medialis"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The gracilis muscle, an adductor attaching to the inferior pubic ramus, is likely injured given the pain location and function of adduction."
-},
-{
-    "question": "A patient is undergoing femoral artery catheterization. During the procedure, there is accidental damage to a structure within the femoral sheath. Which of the following would NOT be affected by this injury?",
-    "choices": [
-        "Femoral artery",
-        "Femoral vein",
-        "Femoral canal",
-        "Femoral nerve"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The femoral nerve lies outside the femoral sheath and would not be affected by an injury confined to structures within the sheath."
-},
-{
-    "question": "A 55-year-old woman presents with a bulge in her upper thigh, which is diagnosed as a femoral hernia. Which of the following anatomic structures forms the medial boundary of the femoral triangle and would be relevant in her surgical repair?",
-    "choices": [
-        "Sartorius muscle",
-        "Inguinal ligament",
-        "Adductor longus",
-        "Iliopsoas muscle"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The adductor longus forms the medial boundary of the femoral triangle and is a key landmark in femoral hernia repair."
-},
-{
-    "question": "A 30-year-old male is diagnosed with a medial circumflex femoral artery injury following a femoral neck fracture. Which muscle’s proximal attachment would this artery most closely pass by?",
-    "choices": [
-        "Pectineus",
-        "Rectus femoris",
-        "Adductor brevis",
-        "Gracilis"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The medial circumflex femoral artery passes near the pectineus muscle and is crucial for the blood supply to the femoral head."
-},
-{
-    "question": "During a knee extension test, a physician observes weakness in a patient's quadriceps. Which nerve is most likely compromised?",
-    "choices": [
-        "Obturator nerve",
-        "Femoral nerve",
-        "Sciatic nerve",
-        "Lateral femoral cutaneous nerve"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The femoral nerve innervates the quadriceps group; weakness in knee extension suggests an issue with this nerve."
-},
-{
-    "question": "A 27-year-old male presents with pain and weakness in adducting his thigh following a sports injury. Imaging reveals a tear in the adductor hiatus. Which structure is most likely to be affected in this injury?",
-    "choices": [
-        "Femoral artery",
-        "Femoral nerve",
-        "Great saphenous vein",
-        "Obturator artery"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The femoral artery passes through the adductor hiatus, and a tear here could affect its integrity or function."
-},
-{
-    "question": "A 44-year-old patient reports difficulty in hip flexion after an injury. Physical examination shows tenderness at the anterior superior iliac spine (ASIS). Which muscle is likely involved?",
-    "choices": [
-        "Iliacus",
-        "Psoas major",
-        "Sartorius",
-        "Vastus medialis"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The sartorius originates at the ASIS and assists in hip flexion; tenderness here suggests an issue with this muscle."
-},
-{
-    "question": "A 40-year-old male presents with pain localized to the anterior thigh following a laceration injury. Neurological testing reveals impaired sensation in the anterior thigh. Which nerve is most likely damaged?",
-    "choices": [
-        "Sciatic nerve",
-        "Femoral nerve",
-        "Lateral femoral cutaneous nerve",
-        "Obturator nerve"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The femoral nerve provides sensory innervation to the anterior thigh; damage here would affect sensation in this area."
-},
-{
-    "question": "A 28-year-old female presents with joint pain, fatigue, and a rash on her face that spares the nasolabial folds. Laboratory tests show positive ANA at a high titer and positive anti-dsDNA antibodies. What is the most likely diagnosis?",
-    "choices": [
-        "Systemic lupus erythematosus",
-        "Rheumatoid arthritis",
-        "Sjögren’s syndrome",
-        "Dermatomyositis"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Systemic lupus erythematosus (SLE) often presents with a malar rash, joint pain, fatigue, and positive ANA and anti-dsDNA antibodies."
-},
-{
-    "question": "Anti-nuclear antibody (ANA) testing is commonly used in diagnosing autoimmune diseases. Which of the following statements best describes its limitations?",
-    "choices": [
-        "ANA testing has high specificity but low sensitivity.",
-        "A positive ANA test is always indicative of an autoimmune disease.",
-        "ANA testing has high sensitivity but low specificity.",
-        "A positive ANA result is rare in the general population."
-    ],
-    "correctAnswer": 2,
-    "explanation": "ANA testing is highly sensitive but lacks specificity, as it can be positive in various conditions and even in some healthy individuals. It is specific for SLE in a way, if it is negative it cannot be SLE."
-},
-{
-    "question": "A 45-year-old woman has Raynaud’s phenomenon. How would you differentiate Raynaud’s disease from secondary Raynaud’s phenomenon based on clinical features?",
-    "choices": [
-        "Primary Raynaud’s is associated with an underlying autoimmune disease.",
-        "Secondary Raynaud’s typically lacks structural changes in blood vessels.",
-        "Primary Raynaud’s causes tissue damage like ulceration or gangrene.",
-        "Secondary Raynaud’s is often associated with digital ulcers and abnormal nailfold capillaries."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Secondary Raynaud’s is often due to an underlying condition, leading to complications like ulcers and abnormal nailfold capillaries."
-},
-{
-    "question": "Which autoantibody is most specifically associated with diffuse systemic sclerosis?",
-    "choices": [
-        "Anti-centromere antibody",
-        "Anti-dsDNA antibody",
-        "Anti-Smith antibody",
-        "Anti-Scl-70 antibody"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Anti-Scl-70 (targets topoisomerase-1) is highly specific for diffuse systemic sclerosis, often associated with more severe systemic involvement. Anti-centromere is for limited systemic sclerosis. Anti-dsDNA and Anti-smith antibodies are specific for SLE."
-},
-{
-    "question": "Which autoimmune condition is characterized by dry eyes, dry mouth, and a high risk for developing lymphoma?",
-    "choices": [
-        "Systemic lupus erythematosus",
-        "Sjögren’s syndrome",
-        "Mixed connective tissue disease",
-        "Polymyositis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sjögren’s syndrome commonly presents with dry eyes and mouth and has an increased risk for non-Hodgkin’s lymphoma."
-},
-{
-    "question": "A 36-year-old patient with Sjögren’s syndrome presents with unilateral parotid swelling. What complication should be suspected?",
-    "choices": [
-        "Salivary gland infection",
-        "Dental caries",
-        "MALT lymphoma",
-        "Fibrosis of the gland"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Unilateral parotid swelling in Sjögren’s syndrome raises suspicion for MALT lymphoma due to the high risk of lymphoid neoplasms. Usually it should be bilateral, unilateral is not good; there is a 1000x increased risk of MALT lymphoma in SS."
-},
-{
-    "question": "Which laboratory finding is typically associated with systemic lupus erythematosus but not with Sjögren’s syndrome?",
-    "choices": [
-        "Elevated ESR",
-        "Positive anti-Smith antibody",
-        "Positive rheumatoid factor",
-        "Leukopenia"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Anti-Smith antibody is specific to SLE and is not associated with Sjögren’s syndrome."
-},
-{
-    "question": "A 40-year-old woman with known systemic sclerosis develops difficulty swallowing. Which mechanism is most likely responsible for her symptom?",
-    "choices": [
-        "Decreased salivary production",
-        "Esophageal dysmotility",
-        "Obstruction by calcinosis deposits",
-        "Exacerbation of Raynaud's phenomenon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Systemic sclerosis often leads to gastrointestinal dysmotility, commonly affecting the esophagus and causing dysphagia."
-},
-{
-    "question": "A 28-year-old male presents with proximal muscle weakness and elevated creatine kinase levels. Physical examination reveals Gottron’s papules. What is the most likely diagnosis?",
-    "choices": [
-        "Systemic lupus erythematosus",
-        "Polymyositis",
-        "Dermatomyositis",
-        "Anti-synthetase syndrome"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dermatomyositis is characterized by proximal muscle weakness, elevated CK, and skin findings such as Gottron’s papules."
-},
-{
-    "question": "A 60-year-old male with long-standing systemic lupus erythematosus presents with fatigue and bilateral leg edema. Lab tests reveal low complement levels. What is the most likely cause of his current presentation?",
-    "choices": [
-        "Exacerbation of lupus nephritis",
-        "Sjogren’s syndrome",
-        "Systemic sclerosis",
-        "Raynaud’s phenomenon"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Low complement levels in SLE are associated with disease activity and can suggest an exacerbation of lupus nephritis, often presenting with edema."
-},
-{
-    "question": "Which feature differentiates polymyositis from polymyalgia rheumatica?",
-    "choices": [
-        "Inflammatory arthritis",
-        "Presence of weakness",
-        "Elevated ESR",
-        "Presence of proximal pain"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Polymyositis is characterized by proximal muscle weakness and USUAL absent pain (it is possible to have pain), unlike polymyalgia rheumatica, which presents with pain and stiffness without weakness. Polymyosistits will also have a positive ANA and occurs at all ages. PMR usually occurs in people older than 50. Both conditions have inflammatory arthritis (PMR has more often) and both can have elevated ESRs, but 50% of the time Polymyosistis will not have an elevated ESR."
-},
-{
-    "question": "A 52-year-old woman with a history of limited systemic sclerosis presents with progressive dyspnea. Which complication should be considered in this patient?",
-    "choices": [
-        "Scleroderma renal crisis",
-        "Pulmonary arterial hypertension",
-        "Interstitial lung disease",
-        "Pericarditis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Pulmonary arterial hypertension is a common complication in limited systemic sclerosis, often leading to progressive dyspnea. Scleroderma renal crisis and interstitial lung disease is seen more in diffuse sclerosis. "
-},
-{
-    "question": "A 40-year-old woman presents with multiple miscarriages and recurrent deep vein thromboses. Laboratory testing reveals anticardiolipin antibodies. What is the most likely diagnosis?",
-    "choices": [
-        "Systemic lupus erythematosus",
-        "Anti-phospholipid syndrome",
-        "Mixed connective tissue disease",
-        "Raynaud’s phenomenon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Anti-phospholipid syndrome presents with recurrent miscarriages and thromboses, often with positive anticardiolipin antibodies. This will also show up with a positive syphilis test (RPR). the antibodies are: Beta-2-glycoprotein-1 and anticardiolipin Ah."
-},
-{
-    "question": "A 27-year-old male presents with a non-erosive arthritis, Raynaud’s phenomenon, and a positive anti-U1-RNP antibody. What condition is most consistent with his presentation?",
-    "choices": [
-        "Mixed connective tissue disease",
-        "Systemic lupus erythematosus",
-        "Diffuse systemic sclerosis",
-        "Anti-synthetase syndrome"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Mixed connective tissue disease is characterized by overlap features and positive anti-U1-RNP antibody, often with Raynaud’s, swollen hands, and arthritis. Mortality comes from pulmonary arterial hypertension and interstitial lung disease. This must have a high titer ANA with the anti-U1-RNP."
-},
-{
-    "question": "A patient with systemic lupus erythematosus has low C3 and C4 complement levels during a disease flare. What mechanism best explains this finding?",
-    "choices": [
-        "Overproduction of antibodies",
-        "Vasoconstriction from Raynaud's phenomenon",
-        "Complement activation and consumption",
-        "Lymphocytic infiltration of tissues"
-    ],
-    "correctAnswer": 2,
-    "explanation": "In SLE, complement levels drop during active disease due to immune complex formation and complement consumption."
-},
-{
-    "question": "A 3-year-old girl presents with a 2-month history of morning limp, with swelling in her left knee and ankle. Her ANA is positive at 1:160. Which subtype of juvenile idiopathic arthritis (JIA) is most likely?",
-    "choices": [
-        "Polyarticular JIA",
-        "Oligoarticular JIA",
-        "Systemic JIA",
-        "Psoriatic JIA"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Oligoarticular JIA is the most common subtype, often presenting with asymmetric arthritis and a positive ANA."
-},
-{
-    "question": "Which of the following best describes the demographic and clinical characteristics of oligoarticular JIA?",
-    "choices": [
-        "Affects more boys than girls, onset after age 10, symmetric arthritis",
-        "Affects more girls than boys, onset between ages 1-4, commonly involves knees",
-        "Equal gender distribution, onset in early teens, commonly involves wrists and fingers",
-        "More common in boys, typically affects large joints symmetrically"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Oligoarticular JIA typically affects girls between 1-4 years old and often involves the knees.OLIGO SPARES THE HIPS!!"
-},
-{
-    "question": "Which subtype of juvenile idiopathic arthritis has the highest risk of developing chronic anterior uveitis?",
-    "choices": [
-        "Systemic JIA",
-        "Polyarticular JIA",
-        "Oligoarticular JIA",
-        "Enthesitis-related JIA"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Oligoarticular JIA, especially in ANA-positive cases, has a high risk of chronic anterior uveitis."
-},
-{
-    "question": "Systemic juvenile idiopathic arthritis (JIA) is primarily mediated by which inflammatory cytokine?",
-    "choices": [
-        "IL-1",
-        "IL-6",
-        "TNF-alpha",
-        "IFN-gamma"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Systemic JIA is primarily an IL-1 mediated autoinflammatory condition."
-},
-{
-    "question": "Which clinical finding is characteristic of systemic JIA and helps differentiate it from oligoarticular JIA?",
-    "choices": [
-        "Symmetric arthritis in large joints",
-        "Morning stiffness lasting more than an hour",
-        "Quotidian (daily spiking) fever",
-        "Positive ANA titer"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Systemic JIA is associated with a daily spiking (quotidian) fever, which is not seen in oligoarticular JIA. Oligoarticular JIA also has a positive ANA titer while systemic does not. Oligoarticular and systemic are asymmetrical."
-},
-{
-    "question": "A 7-year-old boy with systemic JIA develops persistent high fever, hepatosplenomegaly, and very high ferritin levels. What complication should be suspected?",
-    "choices": [
-        "Macrophage activation syndrome",
-        "Chronic anterior uveitis",
-        "Growth retardation",
-        "Systemic amyloidosis"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Macrophage activation syndrome (MAS) is a serious complication of systemic JIA and can present with high fever, organomegaly, and extremely elevated ferritin."
-},
-{
-    "question": "A child with systemic JIA is being evaluated for macrophage activation syndrome (MAS). Which laboratory finding is most indicative of MAS?",
-    "choices": [
-        "Elevated ESR",
-        "High WBC count",
-        "Extremely high ferritin levels",
-        "High fibrinogen levels"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Extremely high ferritin levels are a hallmark finding in MAS, especially in the context of systemic JIA."
-},
-{
-    "question": "In oligoarticular JIA, which joint is most commonly affected?",
-    "choices": [
-        "Hip",
-        "Elbow",
-        "Knee",
-        "Wrist"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The knee is the most commonly affected joint in oligoarticular JIA."
-},
-{
-    "question": "Which of the following differentiates macrophage activation syndrome (MAS) from active systemic juvenile idiopathic arthritis (JIA)?",
-    "choices": [
-        "Elevated ferritin levels in MAS",
-        "Persistent fever in MAS",
-        "Elevated white blood cell count in MAS",
-        "Some form of skin involvement in MAS"
-    ],
-    "correctAnswer": 1,
-    "explanation": "In both MAS and systemic JIA, ferritin levels are often elevated, WBC levels are normal in MAS and both have rashes (MAS has purpura and systemic JIA has maculopapular rash. MAS has persistent fever and s JIA has quotidian fever.."
-},
-{
-    "question": "A 5-year-old girl with oligoarticular JIA presents with eye pain and vision changes. What is the most likely complication?",
-    "choices": [
-        "Macrophage activation syndrome",
-        "Uveitis",
-        "Leg length discrepancy",
-        "Pericarditis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Uveitis is a common complication in oligoarticular JIA, especially in ANA-positive patients. It's typically asymptomatic and you have to test early because its asymptomatic until it's too late. Can lead to glaucoma, cataracts, vision loss, band keratopathy, and synechaie. It can precede arthritis."
-},
-{
-    "question": "What is the primary diagnostic method for confirming macrophage activation syndrome (MAS) in a patient with systemic JIA?",
-    "choices": [
-        "Bone marrow biopsy",
-        "Elevated ESR",
-        "Positive ANA test",
-        "Serum cytokine analysis"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bone marrow biopsy is used to confirm MAS by identifying hemophagocytic macrophages."
-},
-{
-    "question": "Which of the following findings is NOT associated with macrophage activation syndrome (MAS)?",
-    "choices": [
-        "Low platelet count",
-        "High ESR",
-        "Low fibrinogen levels",
-        "Elevated ferritin levels"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Unlike in active systemic JIA, ESR is often normal or low in MAS due to consumption of inflammatory factors."
-},
-{
-    "question": "A 6-year-old boy with a history of systemic JIA presents with daily fevers, rash, and serositis. Laboratory results show thrombocytosis and elevated ferritin. What is the underlying mechanism for his symptoms?",
-    "choices": [
-        "Autoimmune response with B-cell activation",
-        "Autoinflammatory response mediated by IL-1",
-        "Overproduction of autoantibodies",
-        "Delayed hypersensitivity reaction"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Systemic JIA is primarily an IL-1-mediated autoinflammatory condition with features like fever and serositis."
-},
-{
-    "question": "A toddler with oligoarticular JIA has asymmetric leg length discrepancy. What is the most likely cause?",
-    "choices": [
-        "TMJ arthritis",
-        "Accelerated growth in affected limb",
-        "Bone marrow edema",
-        "Muscle wasting in the unaffected limb"
-    ],
-    "correctAnswer": 1,
-    "explanation": "In oligoarticular JIA, inflammation can lead to accelerated growth in the affected limb due to increased blood flow to the growth plate from inflammation. Later in life the leg will be shorter due to early fusion of the epiphyseal plate."
-},
-{
-    "question": "Which of the following findings is more characteristic of systemic JIA than oligoarticular JIA?",
-    "choices": [
-        "Positive ANA",
-        "Chronic anterior uveitis",
-        "Evanescent salmon-colored rash",
-        "Morning stiffness"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Systemic JIA often presents with an evanescent salmon-colored rash that appears with fever, unlike oligoarticular JIA."
-},
-{
-    "question": "Which ligament provides the strongest support to the hip joint and limits excessive extension?",
-    "choices": [
-        "Iliofemoral ligament",
-        "Pubofemoral ligament",
-        "Ischiofemoral ligament",
-        "Ligament of the head of the femur"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The iliofemoral ligament, also known as the Y ligament of Bigelow, is the strongest ligament in the body and restricts hip extension."
-},
-{
-    "question": "What is the primary movement allowed by the knee joint?",
-    "choices": [
-        "Flexion and extension",
-        "Abduction and adduction",
-        "Medial and lateral rotation",
-        "Circumduction"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The knee joint primarily allows for flexion and extension, with limited rotation when the knee is flexed."
-},
-{
-    "question": "Injury to which knee ligament is commonly assessed with the Lachman test?",
-    "choices": [
-        "Posterior cruciate ligament",
-        "Medial collateral ligament",
-        "Lateral collateral ligament",
-        "Anterior cruciate ligament"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The Lachman test is used to assess the integrity of the anterior cruciate ligament (ACL) by examining anterior translation of the tibia."
-},
-{
-    "question": "Which nerve provides proprioceptive innervation to the hip joint based on Hilton’s Law?",
-    "choices": [
-        "Femoral nerve",
-        "Sciatic nerve",
-        "Superior gluteal nerve",
-        "Obturator nerve"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Following Hilton’s Law, the femoral nerve innervates muscles around the hip joint and provides proprioceptive sensation to the joint itself. Hilton’s law is described as: the nerve supplying the muscles extending directly across and acting at a given joint not only supplies the muscle, but also innervates the joint and the skin overlying the muscle."
-},
-{
-    "question": "A patient presents with an inversion ankle injury. Which ligament is most likely damaged?",
-    "choices": [
-        "Anterior talofibular ligament",
-        "Tibiocalcaneal ligament",
-        "Posterior talofibular ligament",
-        "Tibionavicular ligament"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The anterior talofibular ligament is the most commonly injured ligament in inversion ankle sprains."
-},
-{
-    "question": "Which structure is at risk during a posterior hip dislocation?",
-    "choices": [
-        "Obturator nerve",
-        "Femoral artery",
-        "Sciatic nerve",
-        "Superior gluteal artery"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The sciatic nerve is closely related to the hip joint and can be stretched or compressed during a posterior hip dislocation."
-},
-{
-    "question": "A 65-year-old woman presents with hip pain following a fall. X-rays reveal a femoral neck fracture. Which artery is primarily responsible for blood supply to the femoral head and may lead to avascular necrosis if disrupted?",
-    "choices": [
-        "Artery of the ligament of the head of the femur",
-        "Obturator artery",
-        "Medial circumflex femoral artery",
-        "Lateral circumflex femoral artery"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The medial circumflex femoral artery supplies most of the femoral head and can lead to avascular necrosis if disrupted."
-},
-{
-    "question": "Which of the following tests can help assess for posterior cruciate ligament (PCL) injury?",
-    "choices": [
-        "Anterior drawer test",
-        "Posterior drawer test",
-        "McMurray test",
-        "Varus stress test"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The posterior drawer test assesses the PCL by evaluating posterior translation of the tibia relative to the femur."
-},
-{
-    "question": "A patient experiences a ‘dashboard injury’ to the knee, resulting in posterior displacement of the tibia. Which ligament is most likely injured?",
-    "choices": [
-        "Anterior cruciate ligament",
-        "Medial collateral ligament",
-        "Posterior cruciate ligament",
-        "Lateral collateral ligament"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A ‘dashboard injury’ (this is the car crash injury Dr. Wireman mentioned saying its the one of the most common femur dislocation injuries) commonly results in a PCL tear due to posterior displacement of the tibia."
-},
-{
-    "question": "The knee joint is mainly stabilized by which muscle group?",
-    "choices": [
-        "Hamstrings",
-        "Quadriceps",
-        "Adductors",
-        "Calf muscles"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The quadriceps femoris group provides significant stability to the knee joint, especially during extension."
-},
-{
-    "question": "Which ligament of the ankle is most commonly injured in eversion ankle sprains?",
-    "choices": [
-        "Anterior talofibular ligament",
-        "Posterior talofibular ligament",
-        "Deltoid ligament",
-        "Calcaneofibular ligament"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The deltoid ligament, located medially, stabilizes the ankle during eversion and is often injured in eversion sprains."
-},
-{
-    "question": "Following Hilton’s Law, which nerve conveys proprioception and pain for the knee joint?",
-    "choices": [
-        "Femoral nerve",
-        "Obturator nerve",
-        "Saphenous nerve",
-        "Sciatic nerve"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The femoral nerve provides innervation to muscles around the knee joint and is involved in proprioception and pain perception in the knee."
-},
-{
-    "question": "A patient sustains a classical ‘unhappy triad’ injury to the knee. Which structures are typically affected in this injury?",
-    "choices": [
-        "ACL, MCL, and medial meniscus",
-        "ACL, PCL, and lateral meniscus",
-        "MCL, LCL, and PCL",
-        "ACL, LCL, and lateral meniscus"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The ‘unhappy triad’ involves injuries to the ACL, MCL, and often the medial meniscus from a lateral blow to the knee. Actual (more frequent version) affects the latermeniscus rather than the medial."
-},
-{
-    "question": "A 55-year-old man presents with calf pain and swelling after running. Ultrasound shows an Achilles tendon tear. Which movement would be impaired?",
-    "choices": [
-        "Dorsiflexion",
-        "Plantarflexion",
-        "Inversion",
-        "Eversion"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yes, this was in the handout for the lecture so this is fair game. The Achilles tendon is essential for plantarflexion, connecting the gastrocnemius and soleus muscles (calf muscles) to the calcaneus."
-},
-{
-    "question": "The superior lateral and medial genicular arteries contribute to which arterial network around the knee?",
-    "choices": [
-        "Ankle anastomosis",
-        "Femoral artery",
-        "Popliteal artery",
-        "Genicular arterial anastomosis"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The superior lateral and medial genicular arteries are part of the genicular anastomosis, which provides collateral circulation to the knee."
-},
-{
-    "question": "A 25-year-old soccer player sustains a knee injury. MRI shows a torn medial meniscus. Which ligament is attached to this structure and increases its risk of injury?",
-    "choices": [
-        "Anterior cruciate ligament",
-        "Posterior cruciate ligament",
-        "Medial collateral ligament",
-        "Lateral collateral ligament"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The medial meniscus is attached to the medial collateral ligament, which makes it more susceptible to injury during stress to the knee."
-},
-{
-    "question": "Which protein in the thin filament of skeletal muscle blocks the binding sites on actin and prevents myosin from forming cross-bridges in the absence of calcium?",
-    "choices": [
-        "Tropomyosin",
-        "Troponin",
-        "Dystrophin",
-        "Titin"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Tropomyosin blocks the myosin-binding sites on actin, preventing contraction. Calcium binding to troponin causes tropomyosin to move, allowing cross-bridge formation."
-},
-{
-    "question": "What is the primary function of muscle spindles?",
-    "choices": [
-        "Detecting changes in muscle length",
-        "Monitoring muscle tension",
-        "Detecting temperature changes in muscle",
-        "Signaling pain within muscle tissue"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Muscle spindles detect changes in muscle length and trigger reflexive contraction to prevent overstretching, aiding in muscle tone and proprioception."
-},
-{
-    "question": "Which component of the sarcomere anchors thick filaments to the Z disc and acts as a molecular spring, providing elasticity to muscle fibers?",
-    "choices": [
-        "Dystrophin",
-        "Titin",
-        "Nebulin",
-        "Actin"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Titin stabilizes thick filaments and contributes to muscle elasticity by anchoring myosin to the Z disc, providing passive tension during muscle stretching."
-},
-{
-    "question": "Which structure is essential for muscle contraction and involves the release of calcium ions from the sarcoplasmic reticulum following an action potential?",
-    "choices": [
-        "Golgi tendon organ",
-        "Neuromuscular junction",
-        "Myofibril",
-        "T-tubule system"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The T-tubule system transmits action potentials into the muscle cell, triggering calcium release from the sarcoplasmic reticulum and initiating muscle contraction."
-},
-{
-    "question": "What is the role of acetylcholine at the neuromuscular junction (NMJ)?",
-    "choices": [
-        "Inhibits muscle contraction",
-        "Stimulates the release of calcium from the sarcoplasmic reticulum",
-        "Depolarizes the muscle fiber by binding to receptors on the sarcolemma",
-        "Releases tropomyosin from actin binding sites"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Acetylcholine binds to receptors on the sarcolemma at the NMJ, causing depolarization and initiating an action potential in the muscle fiber."
-},
-{
-    "question": "Which condition is associated with antibodies against acetylcholine receptors at the neuromuscular junction, leading to muscle weakness?",
-    "choices": [
-        "Duchenne muscular dystrophy",
-        "Myasthenia gravis",
-        "Botulism",
-        "Lambert-Eaton myasthenic syndrome"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Myasthenia gravis is an autoimmune condition where antibodies target acetylcholine receptors at the NMJ, resulting in muscle weakness."
-},
-{
-    "question": "Which ancillary protein is affected in Duchenne muscular dystrophy, leading to instability of the muscle cell membrane?",
-    "choices": [
-        "Dystrophin",
-        "Titin",
-        "Troponin",
-        "Myosin"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dystrophin stabilizes the sarcolemma by linking the cytoskeleton to the extracellular matrix; its absence in Duchenne muscular dystrophy leads to muscle membrane damage and fiber degeneration."
-},
-{
-    "question": "Which structure senses muscle tension and initiates relaxation when excessive force is detected?",
-    "choices": [
-        "Muscle spindle",
-        "Golgi tendon organ",
-        "Free nerve endings",
-        "Neuromuscular junction"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The Golgi tendon organ senses tension in muscles and triggers a reflex to relax the muscle, preventing tendon and muscle damage."
-},
-{
-    "question": "A mutation in which protein is most likely to lead to increased muscle damage during contraction due to its role in linking actin filaments to the sarcolemma?",
-    "choices": [
-        "Actin",
-        "Titin",
-        "Dystrophin",
-        "Myosin"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dystrophin links actin filaments to the sarcolemma; mutations disrupt this connection, making the muscle fibers more susceptible to damage, as seen in muscular dystrophies."
-},
-{
-    "question": "Which molecular event directly triggers muscle contraction in the sliding filament model?",
-    "choices": [
-        "Calcium binds to troponin, moving tropomyosin and exposing actin binding sites",
-        "ATP binds to myosin, releasing it from actin",
-        "Sodium enters the muscle cell, causing depolarization",
-        "Tropomyosin binds calcium to initiate contraction"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Calcium binding to troponin shifts tropomyosin, exposing the binding sites on actin, which allows myosin heads to attach and initiate contraction."
-},
-{
-    "question": "What is the role of satellite cells in skeletal muscle?",
-    "choices": [
-        "Generating energy during contraction",
-        "Sensing muscle stretch",
-        "Repairing damaged muscle fibers",
-        "Transmitting electrical signals across muscle fibers"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Satellite cells are muscle stem cells that proliferate and fuse with damaged fibers, facilitating muscle repair and regeneration after injury. Muscle spindles are responsible for responding to muscle sketch causing contraction. T-tubule are for transmitting electrical signals."
-},
-{
-    "question": "In the context of muscular dystrophy, what is the role of the dystrophin-glycoprotein complex?",
-    "choices": [
-        "Regulates calcium release from the sarcoplasmic reticulum",
-        "Links the muscle cytoskeleton to the extracellular matrix",
-        "Forms the cross-bridges for muscle contraction",
-        "Acts as a receptor for acetylcholine at the neuromuscular junction"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The dystrophin-glycoprotein complex links the cytoskeleton of muscle cells to the extracellular matrix, helping maintain sarcolemmal stability."
-},
-{
-    "question": "What is the role of the T-tubules in skeletal muscle contraction?",
-    "choices": [
-        "Store calcium ions for muscle contraction",
-        "Transmit the action potential to the sarcoplasmic reticulum",
-        "Prevent muscle overstretching",
-        "Inhibit contraction when overstretched"
-    ],
-    "correctAnswer": 1,
-    "explanation": "T-tubules carry action potentials from the sarcolemma to the sarcoplasmic reticulum, triggering calcium release and muscle contraction."
-},
-{
-    "question": "Which filament type contains the protein myosin, and what is its primary function during muscle contraction?",
-    "choices": [
-        "Thin filament; binds calcium ions",
-        "Thick filament; generates force by interacting with actin",
-        "Thin filament; prevents overstretching of muscle fibers",
-        "Thick filament; provides structural support within sarcomeres"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Myosin is part of the thick filament and generates force by forming cross-bridges with actin filaments during contraction."
-},
-{
-    "question": "Which abnormality is caused by a genetic defect affecting dystrophin and leads to progressive muscle weakness?",
-    "choices": [
-        "Duchenne muscular dystrophy",
-        "Myasthenia gravis",
-        "Botulism",
-        "Polymyositis"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Duchenne muscular dystrophy is caused by a mutation in the gene for dystrophin, resulting in progressive muscle weakness and degeneration."
-},
-{
-    "question": "Which genetic mutation is most commonly associated with Vascular Ehlers-danlos syndrome?",
-    "choices": [
-        "COL5A1",
-        "COL3A1",
-        "FBN1",
-        "None of the above"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Vascular EDS is associated with COL3A1 (effecting type 3 collagen), Classic is associated with COL5A1 (effecting type 5 collagen), hypermobility has no known antibodies, and marfans is associated with FBN1 (effecting fibrillin-1)."
-},
-{
-    "question": "A 25-year-old woman presents with joint hypermobility, soft velvety skin, and atrophic scars. Genetic testing reveals a defect in the COL5A1 gene. Which condition is most likely?",
-    "choices": [
-        "Classical Ehlers-Danlos syndrome",
-        "Vascular Ehlers-Danlos syndrome",
-        "Marfan syndrome",
-        "Osteogenesis imperfecta"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Classical Ehlers-Danlos syndrome is associated with mutations in the COL5A1 gene, leading to joint hypermobility, skin hyperextensibility, and atrophic scars."
-},
-{
-    "question": "What cardiovascular complication is a major concern in patients with Marfan syndrome?",
-    "choices": [
-        "Mitral valve stenosis",
-        "Aortic root dilation",
-        "Pulmonary hypertension",
-        "Peripheral artery disease"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Marfan syndrome commonly leads to aortic root dilation, increasing the risk of aortic dissection or rupture. Also is associated with mitral valve prolapse, ectopic lentils, and high arched palate. Pulmonary hypertension is associated with systemic scleroderma."
-},
-{
-    "question": "Which connective tissue component is defective in vascular Ehlers-Danlos syndrome?",
-    "choices": [
-        "Type V collagen",
-        "Fibrillin-1",
-        "Type III collagen",
-        "Elastin"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Vascular Ehlers-Danlos syndrome involves defects in Type III collagen, which affects blood vessel integrity, making them prone to rupture."
-},
-{
-    "question": "A patient with fibromyalgia is most likely to report which symptom?",
-    "choices": [
-        "Morning joint stiffness",
-        "Localized joint swelling",
-        "Diffuse pain and fatigue",
-        "Improvement with rest"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Fibromyalgia typically presents with widespread pain and fatigue rather than localized joint stiffness or swelling."
-},
-{
-    "question": "Which feature distinguishes fibromyalgia from inflammatory arthritis?",
-    "choices": [
-        "Presence of joint swelling",
-        "Morning stiffness lasting longer than an hour",
-        "Allodynia (pain from non-painful stimuli)",
-        "Positive rheumatoid factor"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Allodynia is a hallmark of fibromyalgia and is not typically seen in inflammatory arthritis, which involves joint swelling and other inflammatory signs."
-},
-{
-    "question": "What is a common comorbidity associated with fibromyalgia?",
-    "choices": [
-        "Osteoarthritis",
-        "Diabetes",
-        "Obesity",
-        "Post-traumatic stress disorder (PTSD)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "PTSD is a common comorbidity in fibromyalgia, with emotional or physical trauma often serving as a trigger for symptom onset. Other triggers include early life trauma, infection, sleep apnea, chronic stress, and inflammatory arthritis."
-},
-{
-    "question": "A 50-year-old woman with fibromyalgia reports non-restorative sleep and frequent 'brain fog.' What is the primary therapeutic focus?",
-    "choices": [
-        "Anti-inflammatory medication",
-        "Opioid pain management",
-        "Sleep hygiene and cognitive behavioral therapy",
-        "Corticosteroids"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Non-pharmacologic treatments, including sleep hygiene and cognitive behavioral therapy, are first-line therapies for fibromyalgia. Primary treatment is aerobic exercise, weight loss, validating feelings, and CBT. secondary treatment involves neuromodulators such as duloxetine, pregabalin, and milnacipran."
-},
-{
-    "question": "A patient with complex regional pain syndrome (CRPS) following a wrist fracture is most likely to exhibit which symptom?",
-    "choices": [
-        "Diffuse swelling and redness beyond the joint",
-        "Morning stiffness and joint deformity",
-        "Localized joint effusion",
-        "Migratory arthritis"
-    ],
-    "correctAnswer": 0,
-    "explanation": "CRPS often presents with diffuse pain, swelling, redness, and skin temperature changes beyond the site of the initial injury."
-},
-{
-    "question": "Which imaging finding is most consistent with acute complex regional pain syndrome?",
-    "choices": [
-        "Increased uptake on nuclear bone scan",
-        "Uniform joint effusion on X-ray",
-        "Subchondral sclerosis on MRI",
-        "Normal imaging in all modalities"
-    ],
-    "correctAnswer": 0,
-    "explanation": "In the acute phase of CRPS, a nuclear bone scan may show increased uptake, indicating abnormal sympathetic and inflammatory response."
-},
-{
-    "question": "In the atrophic phase of complex regional pain syndrome, which symptom is expected?",
-    "choices": [
-        "Hyperhidrosis and increased temperature",
-        "Patchy osteoporosis and dystonia",
-        "Joint effusion and synovial thickening",
-        "Redness and swelling only at the joint"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The atrophic phase of CRPS is characterized by patchy osteoporosis, skin atrophy, and dystonia due to chronic disuse and nerve changes."
-},
-{
-    "question": "A young woman with Marfan syndrome presents with sudden-onset chest pain. What is the most concerning diagnosis?",
-    "choices": [
-        "Aortic dissection",
-        "Myocardial infarction",
-        "Pulmonary embolism",
-        "Pericarditis"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Marfan syndrome predisposes patients to aortic dissection due to weakness in the aortic wall, especially with acute chest pain presentation."
-},
-{
-    "question": "What feature would help differentiate fibromyalgia from complex regional pain syndrome (CRPS)?",
-    "choices": [
-        "Presence of vasomotor changes in affected area",
-        "Widespread musculoskeletal pain",
-        "Fatigue and sleep disturbance",
-        "Normal imaging studies"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Fibromyalgia presents with widespread musculoskeletal pain, while CRPS is typically localized to one extremity with vasomotor changes."
-},
-{
-    "question": "Which of the following conditions is associated with the mutation of the FBN1 gene?",
-    "choices": [
-        "Vascular Ehlers-Danlos syndrome",
-        "Classical Ehlers-Danlos syndrome",
-        "Marfan syndrome",
-        "Fibromyalgia"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Marfan syndrome is associated with mutations in the FBN1 gene, which encodes fibrillin-1, affecting connective tissue elasticity."
-},
-{
-    "question": "A patient with vascular Ehlers-Danlos syndrome is most at risk for which complication?",
-    "choices": [
-        "Aortic dissection",
-        "Joint hypermobility",
-        "Lens dislocation",
-        "Scoliosis"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Vascular Ehlers-Danlos syndrome significantly increases the risk of arterial rupture and aortic dissection due to weak Type III collagen."
-},
-{
-    "question": "Which principle is essential in the occupational therapy approach to managing hand pain in patients with arthritis?",
-    "choices": [
-        "Only focusing on pain reduction",
-        "Avoiding any physical activity",
-        "Promoting joint protection and energy conservation",
-        "Focusing solely on pharmaceutical treatment"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Occupational therapy emphasizes joint protection techniques and energy conservation to help manage hand pain and prevent further joint damage."
-},
-{
-    "question": "What is the primary purpose of educating patients with arthritis about joint protection techniques in occupational therapy?",
-    "choices": [
-        "To eliminate all movements of the joints",
-        "To improve joint stability and prevent deformities",
-        "To increase joint range of motion",
-        "To encourage high-impact exercises"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Joint protection techniques aim to stabilize joints and prevent deformities by teaching patients proper mechanics and ways to avoid stress on painful joints."
-},
-{
-    "question": "Which adaptive strategy is often recommended by occupational therapists to prevent fatigue in patients with hand pain?",
-    "choices": [
-        "Increasing daily workload",
-        "Ignoring pain and pushing through activities",
-        "Using energy conservation techniques",
-        "Avoiding breaks during activities"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Energy conservation techniques help patients balance activity and rest, preventing fatigue and managing hand pain throughout the day."
-},
-{
-    "question": "Which type of splint is commonly recommended for stabilizing the MCP joint in patients with ulnar drift caused by rheumatoid arthritis?",
-    "choices": [
-        "Dynamic extension splint",
-        "Ring splint",
-        "Thumb spica splint",
-        "Ulnar deviation splint"
-    ],
-    "correctAnswer": 3,
-    "explanation": "An ulnar deviation splint is used to stabilize the MCP joint in patients experiencing ulnar drift due to rheumatoid arthritis, helping to prevent further joint deviation."
-},
-{
-    "question": "Which occupational therapy intervention is used to improve hand function and maintain muscle strength in patients with arthritis?",
-    "choices": [
-        "Rest and complete immobilization",
-        "High-intensity resistance training",
-        "Home exercise programs with gentle range of motion",
-        "Prolonged bed rest"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A home exercise program with gentle range of motion exercises helps maintain hand function and muscle strength without overstressing the joints."
-},
-{
-    "question": "A patient with rheumatoid arthritis presents with ulnar drift and reports difficulty with daily tasks. Which occupational therapy intervention would best address her functional limitations?",
-    "choices": [
-        "Recommending prolonged bed rest",
-        "Encouraging daily high-impact activities",
-        "Providing an adaptive device and instructing in proper joint mechanics",
-        "Prescribing high-resistance strength training exercises"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Adaptive devices and instruction in joint mechanics can help the patient manage daily tasks while minimizing stress on the affected joints."
-},
-{
-    "question": "An occupational therapist advises a patient with arthritis to use ergonomic handles for daily tasks. What is the main goal of this intervention?",
-    "choices": [
-        "To increase grip strength",
-        "To reduce joint strain during gripping",
-        "To limit joint motion",
-        "To decrease tactile sensitivity"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ergonomic handles help reduce the amount of force needed for gripping, minimizing joint strain and preventing exacerbation of hand pain."
-},
-{
-    "question": "A patient with CMC arthritis is struggling with thumb pain. What occupational therapy intervention would most effectively reduce stress on the thumb joint during activities?",
-    "choices": [
-        "Wrist extension exercises",
-        "Using a thumb spica splint",
-        "Increasing resistance exercises",
-        "Avoiding all thumb movements"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A thumb spica splint supports the CMC joint, helping to reduce pain and stress on the thumb during functional activities."
-},
-{
-    "question": "A patient with arthritis frequently reports fatigue and difficulty completing tasks. Which strategy would an occupational therapist likely suggest?",
-    "choices": [
-        "Pacing activities and taking regular breaks",
-        "Avoiding any physical activity",
-        "Ignoring fatigue and pushing through tasks",
-        "Scheduling all activities in the morning"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Pacing activities and taking breaks allows the patient to conserve energy and manage fatigue, improving their ability to complete daily tasks without overexertion."
-},
-{
-    "question": "A patient with swan neck deformity from arthritis is referred for occupational therapy. Which splinting technique would be most beneficial?",
-    "choices": [
-        "Splinting the DIP joint in extension",
-        "Splinting the PIP joint in slight flexion",
-        "Applying a thumb spica splint",
-        "Wrist immobilization splint"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Splinting the PIP joint in slight flexion helps stabilize the joint and prevents further hyperextension characteristic of swan neck deformity."
-},
+    {
+        "question": "A 24-year-old man presents with right hip pain after a fall. Radiographs reveal an avulsion fracture involving the ischial tuberosity. Which muscle group is primarily affected by this injury?",
+        "choices": [
+            "Quadriceps",
+            "Adductors",
+            "Hamstrings",
+            "Gluteal muscles"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The hamstrings originate at the ischial tuberosity, making them the primary muscle group affected by this injury."
+    },
+    {
+        "question": "A patient suffers an injury to the superior gluteal nerve. During a physical examination, he exhibits a Trendelenburg gait. This gait is most likely due to weakness of which muscle?",
+        "choices": [
+            "Gluteus maximus",
+            "Gluteus minimus",
+            "Piriformis",
+            "Obturator internus"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Weakness of the gluteus minimus, which is innervated by the superior gluteal nerve, commonly results in Trendelenburg gait."
+    },
+    {
+        "question": "A medical student palpates the iliac crest to locate the L4 vertebra before performing a lumbar puncture. Which landmark should she use as the starting point for this procedure?",
+        "choices": [
+            "Greater trochanter",
+            "Anterior superior iliac spine (ASIS)",
+            "Ischial tuberosity",
+            "Pubic tubercle"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The ASIS is a key anatomical landmark for palpation of the iliac crest, which corresponds with the L4 vertebral level."
+    },
+    {
+        "question": "During a surgical procedure, the piriformis muscle is used as a landmark. Which neurovascular structure exits the pelvis superior to the piriformis?",
+        "choices": [
+            "Sciatic nerve",
+            "Inferior gluteal nerve",
+            "Superior gluteal nerve",
+            "Pudendal nerve"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The superior gluteal nerve exits the pelvis above the piriformis muscle and can be identified using the piriformis as a landmark."
+    },
+    {
+        "question": "A runner experiences severe pain in the gluteal region and is diagnosed with greater trochanteric pain syndrome. Which structures are most commonly implicated in this condition?",
+        "choices": [
+            "Trochanteric bursa",
+            "Gluteus medius and minimus tendons",
+            "Iliotibial band",
+            "Piriformis muscle"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Greater trochanteric pain syndrome commonly involves the gluteus medius and minimus tendons, which insert at the greater trochanter."
+    },
+    {
+        "question": "A 30-year-old man sustains a laceration near his posterior hip. The wound is located inferior to the piriformis muscle. Which major nerve is most at risk for injury in this area?",
+        "choices": [
+            "Superior gluteal nerve",
+            "Sciatic nerve",
+            "Obturator nerve",
+            "Pudendal nerve"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The sciatic nerve exits the pelvis inferior to the piriformis, putting it at risk of injury from trauma in this region."
+    },
+    {
+        "question": "In a patient presenting with difficulty in hip abduction and medial rotation, damage to which nerve is most likely the cause?",
+        "choices": [
+            "Sciatic nerve",
+            "Inferior gluteal nerve",
+            "Superior gluteal nerve",
+            "Pudendal nerve"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The superior gluteal nerve innervates muscles responsible for hip abduction and medial rotation, and damage to it can cause weakness in these movements."
+    },
+    {
+        "question": "A radiograph of the pelvis shows an avulsion of the ischial spine. Which ligament attaches to this structure?",
+        "choices": [
+            "Sacrotuberous ligament",
+            "Sacrospinous ligament",
+            "Inguinal ligament",
+            "Pubofemoral ligament"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The sacrospinous ligament attaches to the ischial spine, stabilizing structures in the pelvis and converting the sciatic notches into foramina."
+    },
+    {
+        "question": "A football player is diagnosed with a type 1 hamstring injury at the myotendinous junction of the biceps femoris. Which phase of the gait cycle is most likely associated with this type of injury?",
+        "choices": [
+            "Heel strike",
+            "Mid-stance",
+            "Terminal swing",
+            "Toe-off"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Type 1 hamstring injuries typically occur during the terminal swing phase, which involves eccentric loading of the hamstring muscles."
+    },
+    {
+        "question": "In performing a physical exam, you assess the posterior thigh muscles. The short head of the biceps femoris is distinct from other posterior thigh muscles because it:",
+        "choices": [
+            "Originates from the ischial tuberosity",
+            "Is innervated by the tibial division of the sciatic nerve",
+            "Crosses both the hip and knee joints",
+            "Originates from the linea aspera"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The short head of the biceps femoris originates from the linea aspera, unlike other posterior thigh muscles that originate from the ischial tuberosity."
+    },
+    {
+        "question": "A popliteal pulse is difficult to locate because the popliteal artery lies deep within the popliteal fossa. Which muscle forms the superomedial boundary of the popliteal fossa?",
+        "choices": [
+            "Biceps femoris",
+            "Semimembranosus",
+            "Gastrocnemius (lateral head)",
+            "Soleus"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The semimembranosus muscle forms the superomedial boundary of the popliteal fossa, where the popliteal artery lies deep."
+    },
+    {
+        "question": "In the case of a hamstring strain with potential avulsion at the ischial tuberosity, which of the following clinical signs would most likely be observed during a physical exam?",
+        "choices": [
+            "Limited knee extension",
+            "Pain upon hip flexion with the knee extended",
+            "Loss of sensation in the anterior thigh",
+            "Decreased knee flexion strength"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hamstring avulsion from the ischial tuberosity often presents as pain upon hip flexion with the knee extended."
+    },
+    {
+        "question": "While examining a CT scan, you identify the greater sciatic foramen. Which structure passes through this foramen but does not re-enter the pelvis through the lesser sciatic foramen?",
+        "choices": [
+            "Pudendal nerve",
+            "Nerve to obturator internus",
+            "Sciatic nerve",
+            "Internal pudendal artery"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The sciatic nerve passes through the greater sciatic foramen but does not re-enter through the lesser sciatic foramen."
+    },
+    {
+        "question": "A 35-year-old patient has difficulty rising from a seated position and extending the thigh at the hip. Damage to which nerve is most likely responsible for these symptoms?",
+        "choices": [
+            "Superior gluteal nerve",
+            "Sciatic nerve",
+            "Inferior gluteal nerve",
+            "Obturator nerve"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The inferior gluteal nerve innervates the gluteus maximus, which is essential for hip extension and rising from a seated position."
+    },
+    {
+        "question": "You are assessing an MRI of the hip joint and observe a bony prominence that serves as the origin for the gluteus maximus. Which anatomical structure is this?",
+        "choices": [
+            "ASIS",
+            "PSIS",
+            "Iliac crest",
+            "Gluteal tuberosity"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The gluteal tuberosity serves as the origin for the gluteus maximus muscle."
+    },
+  {
+        "question": "A 30-year-old man with a history of weightlifting presents with pain and dysesthesias in the posterior thigh. Imaging reveals sciatic nerve entrapment in the subgluteal space due to fibrosis around which structure?",
+        "choices": [
+            "Obturator internus",
+            "Gemelli",
+            "Quadratus femoris",
+            "Adductor magnus"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Fibrosis around the quadratus femoris can entrap the sciatic nerve in the subgluteal space, causing posterior thigh pain and dysesthesias."
+    },
+    {
+        "question": "A football player presents with lateral knee pain following a blunt injury. Neurological examination reveals weakness in dorsiflexion and eversion of the foot. Which part of the sciatic nerve is most likely affected?",
+        "choices": [
+            "Tibial nerve",
+            "Medial sural nerve",
+            "Common fibular nerve",
+            "Saphenous nerve"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The common fibular nerve controls dorsiflexion and eversion of the foot, and injury often presents with lateral knee pain and foot drop."
+    },
+    {
+        "question": "A patient is diagnosed with a popliteal aneurysm and undergoes surgical intervention, including ligation of the popliteal artery. Which vascular structure provides collateral circulation to maintain perfusion distal to the ligation site?",
+        "choices": [
+            "Sural artery",
+            "Genicular artery anastomosis",
+            "Small saphenous vein",
+            "Lateral circumflex femoral artery"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The genicular artery anastomosis supplies collateral circulation around the knee and helps maintain blood flow distal to a ligated popliteal artery."
+    },
+    {
+        "question": "In a case of suspected popliteal aneurysm, which clinical finding would be the most reliable for diagnosis?",
+        "choices": [
+            "Absence of popliteal pulse",
+            "Bilateral leg swelling",
+            "Varicose veins in the popliteal region",
+            "Edema localized to the anterior thigh"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The absence of a popliteal pulse is a key diagnostic finding in popliteal aneurysms, often due to thrombosis within the aneurysm."
+    },
+    {
+        "question": "A 27-year-old woman reports fatigue and difficulty keeping her eyes open by the evening. Her symptoms improve with rest. Physical examination reveals ptosis and nasal speech. Which of the following is most likely contributing to her symptoms?",
+        "choices": [
+            "Autoantibodies targeting voltage-gated calcium channels",
+            "Autoantibodies targeting presynaptic vesicle proteins",
+            "Autoantibodies against acetylcholine receptors",
+            "Blockage of acetylcholinesterase enzyme"
+        ],
+        "correctAnswer": 2,
+        "explanation": "This presentation suggests myasthenia gravis, a disorder where autoantibodies target postsynaptic acetylcholine receptors, causing fatigable weakness and symptoms that improve with rest."
+    },
+    {
+        "question": "A patient with myasthenia gravis is treated with pyridostigmine. Which of the following best explains how this medication alleviates the patient’s symptoms?",
+        "choices": [
+            "Inhibition of acetylcholine release from presynaptic neurons",
+            "Inhibition of acetylcholine degradation in the synaptic cleft",
+            "Enhancement of synaptic vesicle fusion",
+            "Blocking of acetylcholine receptors at the postsynaptic membrane"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pyridostigmine is an acetylcholinesterase inhibitor, preventing the breakdown of acetylcholine and thus increasing its availability at the neuromuscular junction."
+    },
+    {
+        "question": "A 67-year-old man with a history of smoking presents with progressive weakness in his proximal muscles and reports dry mouth and decreased sweating. A diagnosis of Lambert-Eaton Myasthenic Syndrome (LEMS) is made. Which of the following is the primary pathophysiological mechanism in this disorder?",
+        "choices": [
+            "Destruction of acetylcholine receptors",
+            "Degradation of acetylcholine",
+            "Reduced acetylcholine release due to calcium channel autoantibodies",
+            "Increased release of acetylcholine from synaptic vesicles"
+        ],
+        "correctAnswer": 2,
+        "explanation": "LEMS is characterized by autoantibodies against presynaptic P/Q-type voltage-gated calcium channels, leading to decreased acetylcholine release."
+    },
+    {
+        "question": "A patient with Lambert-Eaton Myasthenic Syndrome has improved strength after repetitive muscle contractions. What is the most likely explanation for this clinical finding?",
+        "choices": [
+            "Gradual increase in postsynaptic acetylcholine receptor sensitivity",
+            "Enhanced acetylcholine release due to presynaptic calcium accumulation",
+            "Increased availability of acetylcholinesterase",
+            "Increased binding of acetylcholine to muscarinic receptors"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In LEMS, repeated stimulation causes calcium to build up in the presynaptic terminal, increasing acetylcholine release."
+    },
+    {
+        "question": "A 77-year-old man presents with slurred speech, blurred vision, and progressive muscle weakness. He requires intubation for respiratory failure, and his wife develops similar symptoms shortly afterward. Which neurotransmitter and its release process are most likely affected?",
+        "choices": [
+            "GABA, vesicular release",
+            "Dopamine, synthesis",
+            "Serotonin, degradation",
+            "Acetylcholine, vesicular release"
+        ],
+        "correctAnswer": 3,
+        "explanation": "This presentation is consistent with botulism, which inhibits acetylcholine release at the neuromuscular junction due to a toxin produced by Clostridium botulinum."
+    },
+    {
+        "question": "What structural feature of the neuromuscular junction is targeted by Clostridium botulinum toxin in botulism?",
+        "choices": [
+            "P/Q-type voltage-gated calcium channels",
+            "Acetylcholine receptors",
+            "Proteins involved in vesicle docking and fusion",
+            "Acetylcholinesterase enzyme in the basal lamina"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Botulinum toxin disrupts the release of acetylcholine by targeting SNARE proteins necessary for vesicle fusion with the presynaptic membrane."
+    },
+    {
+        "question": "A patient with myasthenia gravis demonstrates reduced end-plate potentials (EPPs) due to postsynaptic receptor depletion. Which structural feature at the neuromuscular junction is primarily responsible for generating the EPP?",
+        "choices": [
+            "P/Q-type voltage-gated calcium channels",
+            "Voltage-gated sodium channels",
+            "Nicotinic acetylcholine receptors",
+            "M-type potassium channels"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Nicotinic acetylcholine receptors on the postsynaptic membrane bind acetylcholine, generating an end-plate potential that initiates muscle contraction."
+    },
+    {
+        "question": "A patient with LEMS is found to have antibodies against P/Q-type voltage-gated calcium channels. What role do these channels play in synaptic transmission?",
+        "choices": [
+            "Transport of acetylcholine into vesicles",
+            "Degradation of acetylcholine in the synaptic cleft",
+            "Facilitation of synaptic vesicle release",
+            "Reuptake of acetylcholine into the presynaptic terminal"
+        ],
+        "correctAnswer": 2,
+        "explanation": "P/Q-type calcium channels at the presynaptic terminal allow calcium influx, triggering vesicle fusion and acetylcholine release."
+    },
+    {
+        "question": "A 77-year-old patient develops botulism after ingesting contaminated food. Which therapeutic approach is essential in the management of this condition?",
+        "choices": [
+            "Acetylcholinesterase inhibitors",
+            "Calcium channel blockers",
+            "Botulinum antitoxin",
+            "Immunosuppressive therapy"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Botulinum antitoxin is critical to neutralize circulating toxin and prevent further binding of the toxin to presynaptic terminals."
+    },
+    {
+        "question": "A patient with myasthenia gravis is evaluated for symptoms including double vision, drooping eyelids, and muscle weakness that worsens with activity. This presentation is best explained by which pathophysiological mechanism?",
+        "choices": [
+            "Insufficient acetylcholine synthesis",
+            "Increased acetylcholine degradation",
+            "Reduced acetylcholine receptor density",
+            "Enhanced acetylcholine release"
+        ],
+        "correctAnswer": 2,
+        "explanation": "In myasthenia gravis, autoantibodies lead to a reduction in acetylcholine receptor density on the postsynaptic membrane, reducing neuromuscular transmission efficiency."
+    },
+    {
+        "question": "In the neuromuscular junction, what is the role of acetylcholinesterase in synaptic transmission?",
+        "choices": [
+            "Facilitates release of acetylcholine",
+            "Degrades acetylcholine after receptor binding",
+            "Aids in vesicle docking",
+            "Enhances acetylcholine receptor sensitivity"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Acetylcholinesterase in the synaptic cleft breaks down acetylcholine into acetyl-CoA and choline, allowing for receptor reset and prevention of continuous stimulation."
+    },
+    {
+        "question": "What differentiates myasthenia gravis from Lambert-Eaton Myasthenic Syndrome in terms of clinical presentation?",
+        "choices": [
+            "Muscle strength improves with activity in myasthenia gravis",
+            "LEMS often includes autonomic symptoms",
+            "Myasthenia gravis is associated with lung cancer",
+            "LEMS typically involves respiratory muscle weakness"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lambert-Eaton Myasthenic Syndrome frequently presents with autonomic symptoms, such as dry mouth and decreased sweating, unlike myasthenia gravis."
+    },
+    {
+        "question": "An elderly patient presents with progressive muscle weakness, ptosis, and difficulty swallowing. A diagnosis of botulism is made. Which neuromuscular process is disrupted by the botulinum toxin?",
+        "choices": [
+            "Acetylcholine receptor binding",
+            "Vesicle fusion and acetylcholine release",
+            "Acetylcholinesterase activity",
+            "Calcium channel opening"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Botulinum toxin prevents acetylcholine release by blocking vesicle fusion at the presynaptic membrane."
+    },
+    {
+        "question": "A 67-year-old patient with LEMS undergoes repetitive nerve stimulation testing. What finding would you expect?",
+        "choices": [
+            "Decrease in compound muscle action potential (CMAP) amplitude with repeated stimulation",
+            "No change in CMAP amplitude with stimulation",
+            "Incremental increase in CMAP amplitude with repeated stimulation",
+            "Continuous decremental response in CMAP amplitude"
+        ],
+        "correctAnswer": 2,
+        "explanation": "In LEMS, repetitive stimulation increases CMAP amplitude due to accumulation of calcium in the presynaptic terminal."
+    },
+    {
+        "question": "A patient is diagnosed with myasthenia gravis and is experiencing a myasthenic crisis with respiratory difficulty. Which immediate treatment option should be considered?",
+        "choices": [
+            "Pyridostigmine",
+            "Botulinum antitoxin",
+            "Plasmapheresis or intravenous immunoglobulin (IVIG)",
+            "Calcium supplementation"
+        ],
+        "correctAnswer": 2,
+        "explanation": "In myasthenic crisis, IVIG or plasmapheresis is used to reduce circulating autoantibodies against acetylcholine receptors and improve symptoms."
+    },
+    {
+        "question": "A 3-year-old child presents with bowing of the legs. The parents are concerned because they’ve noticed that the bowing hasn’t improved. Which of the following findings would indicate a pathologic cause for genu varum?",
+        "choices": [
+            "Symmetric bowing of both legs",
+            "Improvement noted over the last year",
+            "Bowing accompanied by short stature",
+            "Bowing that began in infancy"
+        ],
+        "correctAnswer": 2,
+        "explanation": "While genu varum is often a benign and self-limiting condition, bowing associated with short stature can suggest a pathologic process such as rickets."
+    },
+    {
+        "question": "During a well-child visit, a mother reports her 5-year-old child’s feet turn inward while walking. Physical exam shows increased internal rotation of the femur. This is most consistent with which condition?",
+        "choices": [
+            "Tibial torsion",
+            "Pes planovalgus",
+            "Femoral anteversion",
+            "Genu varum"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Femoral anteversion is commonly seen in young children, often manifesting between ages 4 and 6 as intoeing that typically resolves with age."
+    },
+    {
+        "question": "A 7-year-old boy presents with right hip pain and a limp. Imaging shows a flattened femoral head with increased density. This is most consistent with:",
+        "choices": [
+            "Slipped Capital Femoral Epiphysis (SCFE)",
+            "Perthes disease",
+            "Developmental hip dysplasia",
+            "Osgood-Schlatter disease"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Perthes disease involves avascular necrosis of the femoral head, commonly seen in boys aged 4–8, with radiographic findings such as femoral head flattening and increased density."
+    },
+    {
+        "question": "Which of the following conditions is typically self-limiting and does not usually require surgical intervention?",
+        "choices": [
+            "Genu varum",
+            "Slipped Capital Femoral Epiphysis",
+            "Clubfoot",
+            "Developmental dysplasia of the hip"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Physiologic genu varum usually resolves on its own by age 2–3 without surgical intervention."
+    },
+    {
+        "question": "A 12-year-old boy presents with knee pain and swelling at the tibial tubercle after recent sports activities. The likely diagnosis is:",
+        "choices": [
+            "Osgood-Schlatter disease",
+            "Sever’s disease",
+            "Slipped Capital Femoral Epiphysis",
+            "Pes planovalgus"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Osgood-Schlatter disease is a common apophysitis of the tibial tubercle seen in active adolescents."
+    },
+    {
+        "question": "A child with scoliosis presents with a left thoracic curve. Which of the following findings would be most concerning for a non-idiopathic cause?",
+        "choices": [
+            "Female gender",
+            "Family history of scoliosis",
+            "Right-sided thoracic curve",
+            "Neurological symptoms"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Neurological symptoms in a patient with scoliosis are a red flag for underlying pathology such as a spinal cord abnormality."
+    },
+    {
+        "question": "A 2-week-old infant presents with concerns of hip instability. Which diagnostic test is most appropriate for evaluating developmental dysplasia of the hip in this age group?",
+        "choices": [
+            "X-ray",
+            "CT scan",
+            "MRI",
+            "Ultrasound"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Ultrasound is the preferred imaging modality for diagnosing hip dysplasia in infants younger than 6 months."
+    },
+    {
+        "question": "Which of the following is the initial treatment for a child with a flexible flatfoot?",
+        "choices": [
+            "Orthopedic referral and surgery",
+            "Observation and reassurance",
+            "Physical therapy and bracing",
+            "Custom orthotics"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Flexible flatfoot in children is usually benign and self-limiting, requiring no intervention unless symptomatic."
+    },
+    {
+        "question": "Which condition is characterized by increased risk of avascular necrosis and requires urgent treatment?",
+        "choices": [
+            "Tibial torsion",
+            "Developmental dysplasia of the hip",
+            "Sever’s disease",
+            "Clubfoot"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Delayed treatment of developmental dysplasia of the hip increases the risk of avascular necrosis."
+    },
+    {
+        "question": "A 9-year-old boy presents with chronic heel pain and difficulty walking after sports. Physical exam reveals tenderness over the calcaneal tuberosity. Which condition is most likely?",
+        "choices": [
+            "Osgood-Schlatter disease",
+            "Sever’s disease",
+            "Pes planovalgus",
+            "Clubfoot"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sever’s disease is a common cause of heel pain in active children, resulting from apophysitis at the calcaneal tuberosity."
+    },
+    {
+        "question": "A patient with severe clubfoot is treated with casting. Which technique is commonly used in clubfoot treatment?",
+        "choices": [
+            "Spica casting",
+            "Ponseti casting method",
+            "Charleston brace",
+            "Milwaukee brace"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The Ponseti method, which involves serial casting, is the standard treatment for correcting clubfoot deformity."
+    },
+    {
+        "question": "Which of the following statements is correct regarding slipped capital femoral epiphysis (SCFE)?",
+        "choices": [
+            "It commonly affects children ages 4–8",
+            "It typically presents with knee pain",
+            "Radiographs usually show a flattened femoral head",
+            "It is commonly treated with casting"
+        ],
+        "correctAnswer": 1,
+        "explanation": "SCFE often presents with referred knee pain, and the typical patient is an overweight adolescent."
+    },
+    {
+        "question": "What is the most common type of pediatric fracture?",
+        "choices": [
+            "Greenstick fracture",
+            "Spiral fracture",
+            "Buckle (torus) fracture",
+            "Supracondylar fracture"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Buckle fractures are the most common type of fracture in pediatric patients due to the unique elasticity of their bones."
+    },
+    {
+        "question": "Which of the following pediatric fractures typically requires urgent reduction to prevent complications?",
+        "choices": [
+            "Buckle fracture",
+            "Supracondylar fracture",
+            "Greenstick fracture",
+            "Toddler’s fracture"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Displaced supracondylar fractures need urgent reduction to prevent neurovascular compromise."
+    },
+    {
+        "question": "Which of the following is a distinguishing feature of developmental hip dysplasia in older infants?",
+        "choices": [
+            "Positive Ortolani maneuver",
+            "Positive Barlow maneuver",
+            "Galeazzi sign",
+            "Flexion contracture"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Galeazzi sign is often used to detect hip dysplasia in children older than 3 months when Ortolani and Barlow maneuvers are no longer reliable."
+    },
+    {
+        "question": "A 15-year-old female presents with scoliosis. She is Tanner Stage 3, and her Cobb angle is 30 degrees. Which of the following is the most appropriate initial management?",
+        "choices": [
+            "Immediate surgery",
+            "Observation only",
+            "Bracing",
+            "Physical therapy"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bracing is recommended for curves between 25 and 40 degrees in patients with significant growth remaining, such as those at Tanner Stage 3."
+    },
+    {
+        "question": "A 4-year-old boy presents with a limp and complains of intermittent hip pain. Radiographs reveal a small ossific nucleus and increased femoral head density. What is the most likely diagnosis?",
+        "choices": [
+            "Osgood-Schlatter disease",
+            "Slipped Capital Femoral Epiphysis",
+            "Perthes disease",
+            "Scoliosis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Perthes disease presents in young children with hip pain and radiographic findings of increased femoral head density."
+    },
+    {
+        "question": "An 8-year-old girl presents with leg pain at the anterior knee after running. Which of the following is the initial management for Osgood-Schlatter disease?",
+        "choices": [
+            "Surgical intervention",
+            "NSAIDs and rest",
+            "Casting and immobilization",
+            "Physical therapy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Initial management of Osgood-Schlatter disease involves NSAIDs and rest, as it is a self-limiting condition."
+    },
+    {
+        "question": "Which foot deformity is commonly treated with serial casting?",
+        "choices": [
+            "Flexible flatfoot",
+            "Clubfoot",
+            "Metatarsus adductus",
+            "Pes planus"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Clubfoot is commonly treated with serial casting, especially when it presents as a rigid deformity."
+    },
+    {
+        "question": "A 14-year-old boy presents with pain and swelling at the distal humerus after a fall. Imaging shows a displaced lateral humeral condyle fracture. What is the next step in management?",
+        "choices": [
+            "Observation",
+            "Closed reduction and casting",
+            "Open reduction and pinning",
+            "Long-arm splinting"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Lateral humeral condyle fractures often require open reduction and pinning due to their intra-articular nature."
+    },
 {
     "question": "Which of the following muscles least contributes to thigh abduction?",
     "choices": [
@@ -1098,157 +603,952 @@
         "Tensor fasciae latae"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is gracilis (B). The gracilis is located in the medial thigh compartment known for adduction of the thigh at the hip. The gluteus medius (A) and tensor fasciae latae (E) are both members of the superficial gluteal compartment and aid in thigh abduction. Traveling deeper into the gluteal compartment is the obturator internus (C), which functions in the same way. The sartorius (D) is a member of the anterior thigh compartment, which wraps around the leg, aiding in abduction of the thigh."
+    "explanation": "The correct answer is gracilis (B). The gracilis is located in the medial thigh compartment, known for adduction of the thigh at the hip. The gluteus medius (A) and tensor fasciae latae (E) are both members of the superficial gluteal compartment and aid in thigh abduction. Traveling deeper into the gluteal compartment is the obturator internus (C), which functions in the same way. The sartorius (D) is a member of the anterior thigh compartment, which wraps around the leg, aiding in abduction of the thigh."
 },
 {
-    "question": "A 42-year-old woman comes to the physician because of a 2-week history of joint pain and fatigue. She has a history of multiple unprovoked deep vein thromboses. Physical examination shows small bilateral knee effusions and erythematous raised patches with scaling and follicular plugging over the ears and scalp. Oral examination shows several small ulcers. Further evaluation of this patient is most likely to show which of the following?",
+    "question": "A 45-year-old woman comes into the office after falling off a ladder. She cannot externally rotate her thigh, holding it in an internally rotated position. X-rays show that she has broken her proximal femur across the greater trochanter. Which muscle would most likely be impaired in this patient?",
     "choices": [
-        "Positive rapid plasma reagin test",
-        "Positive anti-citrullinated peptide antibodies",
-        "Decreased activated partial thromboplastin time",
-        "Negative anti-double-stranded DNA antibodies",
-        "Negative antinuclear antibodies"
+        "Gemellus",
+        "Gluteus minimus",
+        "Pectineus",
+        "Rectus femoris",
+        "Vastus intermedius"
     ],
     "correctAnswer": 0,
-    "explanation": "Rapid plasma reagin test (RPR) is a nonspecific screening test for syphilis that detects anticardiolipin antibodies. This patient with features of SLE and APS likely has antibodies against cardiolipin (a common type of antiphospholipid antibodies), which react with RPR and VDRL tests, resulting in false-positive testing for infection with Treponema pallidum. False-positive RPR testing can also be seen in infectious mononucleosis, hepatitis A, malaria, and pregnancy."
+    "explanation": "The correct answer is gemellus (A). The gemellus originates on the ischial spine and inserts onto the medial surface of the proximal femur, at the greater trochanter. This allows it to externally rotate the thigh. The gluteus minimus (B) is a superficial gluteal muscle that abducts and internally rotates the thigh. The pectineus (C) is a thigh flexor that does not externally rotate the thigh. The quadriceps, including both the rectus femoris (D) and the vastus intermedius (E), insert onto the base of the patella and would not affect thigh rotation."
 },
 {
-    "question": "An 80-year-old woman is brought to the emergency department for left hip pain 30 minutes after she fell while walking around in her room. Examination shows left groin tenderness. The range of motion of the left hip is limited because of pain. An x-ray of the hip shows a linear fracture of the left femoral neck with slight posterior displacement of the femur. Which of the following arteries was most likely damaged in the patient's fall?",
+    "question": "Which nerve, serving the gluteus medius & minimus muscles as well as the tensor fascia lata muscle, does not exit the pelvic cavity inferior to the piriformis muscle?",
     "choices": [
-        "Lateral femoral circumflex",
-        "Deep femoral artery",
-        "Medial circumflex femoral",
-        "Obturator artery"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The medial circumflex femoral artery is a major branch of the profunda femoris. It courses medioposteriorly to the neck of the femur, where it supplies blood to the head and neck of the femur. A minority of femoral neck fractures will go on to develop osteonecrosis of the femoral head stemming from injuries to this artery and its small branches to the bone."
-},
-{
-    "question": "A 55-year-old woman comes to the physician because of a 1-month history of fatigue, gritty sensation in both eyes, dry mouth, and dry, itchy skin. Serologic testing shows anti-Ro/SSA autoantibodies. Which of the following pathologic findings would be most likely in this patient’s involved tissues?",
-    "choices": [
-        "Accumulation of collagen",
-        "Focal lymphocyte infiltration",
-        "Interstitial fibrosis and acinar atrophy",
-        "Leukocytoclastic vasculitis",
-        "Noncaseating granulomas"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sjogren Syndrome is an autoimmune disease that affects the lacrimal and salivary exocrine glands resulting in dry eyes, dry mouth, dental caries, fatigue, and myalgia. Biopsy of the labial salivary gland will show focal lymphocytic sialadenitis (lymphocytic infiltration) as a result of the autoimmune-mediated inflammation."
-},
-{
-    "question": "A 35-year-old woman comes to the clinic because of progressive weakness in the shoulders and legs for the past 3 months, along with an intermittent inability to swallow food. She has been having difficulty combing her hair, buttoning her blouses, walking upstairs, lifting objects, and getting up from the seated position. It does not seem to change throughout the day or with repeated efforts, and she has mild pain over her shoulders and hip. Physical examination shows a symmetrical weakness of the proximal muscles in both the upper and lower extremities. Skin examination is unremarkable. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Dermatomyositis",
-        "Guillain-Barré syndrome",
-        "Lambert-Eaton myasthenic syndrome",
-        "Myasthenia gravis",
-        "Polymyalgia rheumatica",
-        "Polymyositis",
-        "Systemic sclerosis"
-    ],
-    "correctAnswer": 5,
-    "explanation": "This patient likely has polymyositis, an inflammatory muscle disorder causing symmetric proximal muscle weakness. It commonly involves the deltoids, hip flexors, and neck flexors. Some patients may develop interstitial lung disease (dyspnea), esophageal muscle weakness (dysphagia), or cardiac arrhythmias. In contrast with dermatomyositis, a rash is not present. Both polymyositis and dermatomyositis are associated with malignancy, but polymyositis to a lesser degree. Muscle enzymes (creatine phosphokinase, aldolase, lactate dehydrogenase) will be elevated in both conditions."
-},
-{
-    "question": "A 68-year-old woman comes to her physician with tooth pain and dry mouth. She reports a frequent feeling of “cotton mouth” and tooth pain that has prevented her from consuming her normal daily diet for the past 2 weeks. She has a history of rheumatoid arthritis. Her medications include methotrexate and a daily multivitamin. Her temperature is 36.9°C (98.4°F), and blood pressure 118/73 mm Hg. On examination, there is symmetric bilateral parotid gland swelling. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Age-related sicca syndrome",
-        "Cryoglobulinemic vasculitis",
-        "Parotid adenoma",
-        "Salivary gland lymphoma",
-        "Sjögren syndrome"
-    ],
-    "correctAnswer": 4,
-    "explanation": "This patient most likely has Sjögren syndrome, given her bilateral parotid enlargement with tooth pain, dry mouth, and associated history of rheumatoid arthritis (RA). Sjögren syndrome is an autoimmune disorder that manifests with symptoms related to the exocrine glands, including the salivary and lacrimal glands. Autoantibodies invade the exocrine glands and cause fibrosis, which destroys gland function. Patients may present with dry eyes, dry mouth, dental caries, fatigue, and myalgia. Autoantibodies present in Sjögren syndrome include anti-Ro/SSA +/– anti-La/SSB antibodies; rheumatoid factor and antinuclear antibody may also be present but are not specific. Of note, disorders of the immune system often occur in groups. The most common associated diseases are RA and systemic lupus erythematosus."
-},
-{
-    "question": "A 74-year-old man comes to the physician after noticing weakness at the gym, particularly with bicep curls. Physical examination is normal except for weakness on flexion of the biceps brachii and quadriceps muscles. He has rheumatoid arthritis, well controlled with methotrexate and prednisone. Laboratory test studies show a creatine kinase level of 299 U/L and an erythrocyte sedimentation rate of 36 mm/hr. Electromyography shows increased fibrillation potentials with positive sharp waves and polyphasic motor unit action potentials of short duration and low amplitude. Which of the following pathologic features is most likely in this patient’s biceps muscles?",
-    "choices": [
-        "CD4+ T-cell inflammation",
-        "CD8+ T-cell inflammation",
-        "Endomysial inflammation with inclusion bodies",
-        "Motor neuron degeneration",
-        "Myofibrillar protein degradation"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The clinical features of polymyositis, an inflammatory disorder of the skeletal muscle, include bilateral proximal muscle weakness and elevated creatine kinase and erythrocyte sedimentation rate. Histologically, polymyositis demonstrates endomysial CD8+ T-cell inflammation with necrotic muscle fibers."
-},
-{
-    "question": "A 9-year-old girl is brought to the clinic for a 2-month history of daily fevers that spike to a temperature of 38.3°C (101°F) then return to normal. She traveled to Southeast Asia last week with her family. She has a rash on her trunk and joint pains in her right wrist, elbows, both knees, and both ankles. Temperature is 38.2°C (100.8°F). Physical examination reveals tenderness, erythema, and swelling in her right wrist and both knees and a mild, macular salmon-pink rash across her waist. Laboratory tests reveal elevated transaminases and ferritin levels. The complete blood cell count shows:\n\nWBC: 25,000/mm³\nHemoglobin: 11 gm/dL\nMean corpuscular volume: 85 fL\nPlatelets: 1,200,000/mm³\n\nWhich of the following is the most likely diagnosis?",
-    "choices": [
-        "Acute rheumatic fever",
-        "Malaria",
-        "Parvovirus infection",
-        "Septic arthritis",
-        "Systemic juvenile idiopathic arthritis",
-        "Systemic lupus erythematosus"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Juvenile idiopathic arthritis (JIA) is the most common form of arthritis in children. The systemic form of JIA is characterized by quotidian fevers, arthritis, severe leukocytosis and thrombocytosis, and a classic salmon-pink rash."
-},
-{
-    "question": "A 56-year-old woman comes to the physician after having difficulty lifting boxes at her job. Over the past year, she has had increased difficulty lifting and standing up from a seated position. Vital signs are normal. Physical examination shows normal deep tendon reflexes and weakness on flexion of the deltoids and quadriceps muscles. Blood and serum studies show a creatine kinase of 920 U/L and erythrocyte sedimentation rate of 90 mm/hr. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Amyotrophic lateral sclerosis",
-        "Cushing syndrome",
-        "Dermatomyositis",
-        "Fibromyalgia",
-        "Hypothyroid myopathy",
-        "Polymyositis"
-    ],
-    "correctAnswer": 5,
-    "explanation": "This patient likely has polymyositis, showing upper and lower extremity proximal muscle weakness with increased creatine kinase and erythrocyte sedimentation rate, demonstrating muscle inflammation. Polymyositis is an inflammatory disorder of the skeletal muscle and resembles dermatomyositis clinically, but the skin is not involved. Clinical features typically demonstrate bilateral proximal muscle weakness, but distal involvement can develop in late disease. The expected workup findings are elevated creatine kinase (CK) and accelerated erythrocyte sedimentation rate. Other causes of proximal muscle weakness are heavy alcohol use, chronic corticosteroid use, and Cushing syndrome (high cortisol). However, in these the muscle enzymes (creatine phosphokinase) are normal. Muscle biopsy is used to confirm a diagnosis of polymyositis."
-},
-{
-    "question": "A 23-year-old woman comes to the emergency department because of blood in her urine for the past 3 days. She says she gets a rash on the bridge of her nose and cheeks as well as intermittent swollen and painful wrists. Her serum creatinine concentration is 2.8 mg/dL. Urinalysis reveals 3+ proteinuria on dipstick and dysmorphic RBCs and RBC casts by microscopy. Which of the following is most likely the pathology underlying this patient’s renal condition?",
-    "choices": [
-        "Aggregation of light chains within the renal tubules",
-        "Deposition of immune complexes within the renal glomeruli",
-        "Diffuse glomerular basement thickening and sclerosis",
-        "Effacement of podocyte foot processes with otherwise normal glomeruli",
-        "Neutrophilic infiltration of the tubules and interstitium"
-    ],
-    "correctAnswer": 1,
-    "explanation": "This patient likely has systemic lupus erythematosus (SLE) based on a malar rash and arthralgias, along with renal findings of hematuria, RBC casts, and proteinuria, suggesting glomerular disease. SLE is more common in Black and Hispanic/Latino populations and women. Patients may also show ulcers in the mouth, pericarditis/pleuritis, pancytopenia, and elevated antinuclear antibodies/anti-dsDNA tests."
-},
-{
-    "question": "A 36-year-old woman comes to the clinic because of a 2-month history of difficulty and discomfort swallowing solid foods. She has no trouble swallowing liquids. Her past medical history includes years of hand sensitivity to cold weather, with finger paleness and pain. Physical examination reveals thick and slightly edematous skin in the hands and three small subcutaneous nodules on the right forearm. Which of the following would most likely be detected on laboratory evaluation?",
-    "choices": [
-        "Anti-La antibodies",
-        "Anti-Scl-70 antibodies",
-        "Anti-Smith antibodies",
-        "Anticentromere antibodies",
-        "IgM anti-IgG antibodies",
-        "Perinuclear antineutrophilic cytoplasmic antibodies"
+        "Inferior gluteal nerve",
+        "Pudendal nerve",
+        "Sciatic nerve",
+        "Superior gluteal nerve"
     ],
     "correctAnswer": 3,
-    "explanation": "This patient most likely has systemic sclerosis (SSc), as evidenced by her progressive dysphagia to solids, sclerodactyly (thickening of the skin of the fingers or toes), subcutaneous forearm nodules, and Raynaud phenomenon (pallor, pain, and paresthesias of her fingers brought on by cold exposure). SSc is a disease characterized by extensive fibrosis throughout the body, most notably of the skin. She has the limited cutaneous form of SSc, which progresses more slowly and is limited to distal extremities. This form of SSc is often associated with calcinosis, Raynaud phenomenon, esophageal dysfunction, sclerodactyly, and telangiectasias, or CREST syndrome."
+    "explanation": "The correct answer is the superior gluteal nerve (D). The superior gluteal nerve, artery, and vein enter the gluteal region superior to the piriformis muscle. In contrast, many neurovascular components, including the sciatic nerve, inferior gluteal nerve, pudendal nerve, and internal pudendal vessels, exit the pelvis inferior to the piriformis muscle."
 },
 {
-    "question": "A 12-year-old boy is brought to the clinic with periodic high spiking fevers for the past 3 weeks and a rash that comes and goes. His temperature is 38.0°C (100.4°F). On physical examination, there is a macular rash with small, pink spots present on his trunk. His liver and spleen are enlarged and there are palpable cervical, axillary, and inguinal nodes. The complete blood cell count shows anemia and increased leukocytes and platelets. Antinuclear antibodies are negative, and the erythrocyte sedimentation rate is elevated. An x-ray of the chest shows a small left pleural effusion. Which of the following findings is most likely to develop in this patient?",
+    "question": "The team doctor tells a football player that they have 'a pulled hamstring' muscle. This results from a tearing of the proximal attachment (origin) of a hamstring muscle from the:",
     "choices": [
-        "Hematuria, proteinuria, and elevated serum IgA",
-        "Mucosal and submucosal inflammation of the gastrointestinal tract",
-        "Pain in the wrists, knees, and hips",
-        "Parasitic protozoa inside erythrocytes",
-        "Rash on cheeks and bridge of nose",
-        "Transmural inflammation of the gastrointestinal tract"
+        "Sacrum",
+        "Posterior gluteal line",
+        "Ischial tuberosity",
+        "Obturator membrane",
+        "Iliac tubercle"
     ],
     "correctAnswer": 2,
-    "explanation": "Systemic JIA, the most common pediatric arthritis, often presents with polyarticular arthritis, spiking fevers, rash, hepatosplenomegaly, lymphadenopathy, elevated WBC and platelets, and anemia. SLE should be ruled out by a negative ANA test. Systemic JIA shows polyarticular arthritis in 85% to 90% of cases, but can be absent early in the disease."
+    "explanation": "The correct answer is the ischial tuberosity (C). The hamstring muscles (biceps femoris, semimembranosus, and semitendinosus) originate from the ischial tuberosity and are responsible for hip extension and knee flexion. The exception is the short head of the biceps femoris, which is innervated by the common fibular nerve. Other origins listed, such as the sacrum and obturator membrane, are associated with different muscle groups."
 },
 {
-    "question": "A 17-year-old girl is brought to the clinic with a swollen and painful left elbow for one day. She had similar symptoms in her right knee the previous week. Her history indicates she is not sexually active. Her temperature is 38.2°C (100.8°F). Physical examination is notable for several oral ulcers as well as swelling and tenderness in the left elbow and right knee. Laboratory tests reveal a hematocrit of 31%. The result of a Venereal Disease Research Laboratory test is positive, with a negative blood FTA-ABS test. Which of the following antibodies is most likely to be found in the serum of this patient?",
+    "question": "Weakness in climbing stairs or jumping (powerful extension of the hip) may indicate a lesion of which nerve?",
     "choices": [
-        "Anti-IgG",
-        "Anti-Jo-1",
-        "Anti-double stranded DNA",
-        "Anticentromere",
-        "Anticyclic citrullinated protein",
-        "Antitopoisomerase"
+        "Tibial",
+        "Superior gluteal",
+        "Inferior gluteal",
+        "Obturator",
+        "Femoral"
     ],
     "correctAnswer": 2,
-    "explanation": "This young female patient has multiple findings suggestive of systemic lupus erythematosus (SLE), including arthritis (painful and swollen elbow and knee), oral ulcers, fever, and anemia (low hematocrit). The positive Venereal Disease Research Laboratory (VDRL) test with a negative FTA-ABS test indicates the VDRL result is a false-positive. The false-positive VDRL test occurs because antiphospholipid autoantibodies seen in many SLE patients can react to the cardiolipin antigen used in the VDRL test. SLE is a chronic, multisystem autoimmune disorder that also can cause pleuritis, pericarditis, rash, nephritic glomerular disease, pancytopenia, and seizures."
+    "explanation": "The correct answer is the inferior gluteal nerve (C). Weakness in climbing stairs or jumping indicates a problem with powerful hip extension, a function of the gluteus maximus muscle, which is innervated by the inferior gluteal nerve. Although the hamstrings, innervated by the tibial nerve, assist in hip extension, they are not the primary muscles for these powerful motions. The superior gluteal nerve innervates gluteus medius and minimus, which stabilize the pelvis. The obturator nerve innervates the adductors, and the femoral nerve innervates muscles involved in knee extension."
+},
+{
+    "question": "Because of its muscle attachments, a fracture to the ischial tuberosity would affect which movement of the lower limb?",
+    "choices": [
+        "Abduction of the thigh",
+        "Dorsiflexion of the foot",
+        "Extension of the leg",
+        "Flexion of the leg",
+        "Flexion of the thigh"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is flexion of the leg (D). The ischial tuberosity is the origin of the hamstring muscles, which are crucial for flexing the leg at the knee and extending the thigh at the hip. A fracture to the ischial tuberosity would impair the hamstrings, thereby affecting these movements. Other functions, such as abduction of the thigh (by gluteus minimus and medius), dorsiflexion of the foot (by tibialis anterior), and extension of the leg (by quadriceps), are not affected by an injury to the ischial tuberosity."
+},
+    {
+        "question": "A 23-year-old runner presents with severe pain and swelling in the anterior leg after a long run. Physical examination shows tense skin and a lack of dorsalis pedis pulse. What is the most appropriate next step in management?",
+        "choices": [
+            "Observation",
+            "Ice and compression",
+            "Surgical fasciotomy",
+            "Non-steroidal anti-inflammatory drugs (NSAIDs)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The presentation is consistent with compartment syndrome, where increased pressure within the compartment compromises blood flow. Surgical fasciotomy is indicated to relieve pressure and prevent tissue damage."
+    },
+    {
+        "question": "The crural fascia is crucial for compartment organization in the leg. Increased compartmental pressure in the anterior compartment would affect which of the following muscles?",
+        "choices": [
+            "Fibularis longus",
+            "Soleus",
+            "Tibialis anterior",
+            "Gastrocnemius"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tibialis anterior is located in the anterior compartment and would be affected by increased pressure. The crural fascia forms tight boundaries around compartments, making them susceptible to compartment syndrome."
+    },
+    {
+        "question": "A lesion of the common fibular nerve at the fibular neck will most likely result in which deficit?",
+        "choices": [
+            "Loss of plantarflexion",
+            "Loss of foot eversion",
+            "Loss of sensation over the medial leg",
+            "Inability to adduct the toes"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The common fibular nerve innervates the lateral and anterior compartments, which are responsible for eversion and dorsiflexion. Damage at the fibular neck can result in foot drop and impaired eversion."
+    },
+    {
+        "question": "Which of the following is the primary muscle responsible for dorsiflexion of the ankle?",
+        "choices": [
+            "Tibialis posterior",
+            "Fibularis longus",
+            "Gastrocnemius",
+            "Tibialis anterior"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The tibialis anterior, located in the anterior compartment, is primarily responsible for dorsiflexion of the ankle."
+    },
+    {
+        "question": "A patient presents with weakness in toe flexion and numbness in the sole of the foot following a traumatic knee injury. Which nerve is most likely injured?",
+        "choices": [
+            "Common fibular nerve",
+            "Superficial fibular nerve",
+            "Tibial nerve",
+            "Saphenous nerve"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tibial nerve innervates the muscles responsible for toe flexion and provides sensation to the sole. Injury to this nerve can lead to loss of these functions."
+    },
+    {
+        "question": "The dorsalis pedis artery is a continuation of which artery?",
+        "choices": [
+            "Popliteal artery",
+            "Posterior tibial artery",
+            "Anterior tibial artery",
+            "Fibular artery"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The dorsalis pedis artery is a continuation of the anterior tibial artery and is palpated on the dorsum of the foot."
+    },
+    {
+        "question": "A patient with tarsal tunnel syndrome will most likely experience sensory loss in which area?",
+        "choices": [
+            "Medial foot",
+            "Lateral ankle",
+            "Plantar surface of the foot",
+            "Dorsal surface of the foot"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tarsal tunnel syndrome involves compression of the tibial nerve under the flexor retinaculum, causing sensory loss on the plantar surface of the foot."
+    },
+    {
+        "question": "Which vein is most commonly associated with deep vein thrombosis (DVT) in the leg?",
+        "choices": [
+            "Great saphenous vein",
+            "Small saphenous vein",
+            "Popliteal vein",
+            "Anterior tibial vein"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The popliteal vein is a deep vein commonly associated with DVT. DVT in deep veins poses a risk for pulmonary embolism."
+    },
+    {
+        "question": "In a physical exam, the posterior tibial pulse is checked to assess blood flow in which artery?",
+        "choices": [
+            "Anterior tibial artery",
+            "Fibular artery",
+            "Dorsalis pedis artery",
+            "Posterior tibial artery"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The posterior tibial pulse is palpated behind the medial malleolus to assess blood flow in the posterior tibial artery."
+    },
+    {
+        "question": "The lateral compartment of the leg is primarily responsible for which movement?",
+        "choices": [
+            "Dorsiflexion",
+            "Inversion",
+            "Plantarflexion",
+            "Eversion"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The lateral compartment contains the fibularis longus and brevis muscles, which are responsible for eversion of the foot."
+    },
+    {
+        "question": "A 40-year-old patient presents with foot drop. The lesion is most likely located where?",
+        "choices": [
+            "Sciatic nerve in the thigh",
+            "Deep fibular nerve in the foot",
+            "Common fibular nerve at the fibular neck",
+            "Tibial nerve in the popliteal fossa"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Foot drop results from loss of dorsiflexion due to a lesion in the common fibular nerve at the fibular neck."
+    },
+    {
+        "question": "Which of the following is a common symptom of plantar fasciitis?",
+        "choices": [
+            "Pain on the lateral foot",
+            "Pain on the plantar surface of the heel",
+            "Swelling at the dorsum of the foot",
+            "Numbness in the toes"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Plantar fasciitis typically causes pain on the plantar surface of the heel, especially during the first steps in the morning."
+    },
+    {
+        "question": "A patient presents with weakness in plantarflexion and numbness in the posterior leg and sole. Which nerve is most likely affected?",
+        "choices": [
+            "Tibial nerve",
+            "Superficial fibular nerve",
+            "Deep fibular nerve",
+            "Common fibular nerve"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The tibial nerve innervates the posterior leg muscles responsible for plantarflexion and provides sensation to the posterior leg and sole."
+    },
+    {
+        "question": "Which structure is found in the tarsal tunnel and is compressed in tarsal tunnel syndrome?",
+        "choices": [
+            "Deep fibular nerve",
+            "Posterior tibial artery",
+            "Tibial nerve",
+            "Sural nerve"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tibial nerve passes through the tarsal tunnel and is often compressed in tarsal tunnel syndrome, leading to sensory deficits in the foot."
+    },
+    {
+        "question": "A 25-year-old patient sustains an ankle injury with tenderness over the base of the fifth metatarsal. Which muscle’s tendon attaches at this site and may be avulsed?",
+        "choices": [
+            "Fibularis longus",
+            "Fibularis brevis",
+            "Tibialis anterior",
+            "Flexor hallucis longus"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fibularis brevis tendon attaches to the base of the fifth metatarsal, and sudden inversion can cause an avulsion fracture at this site."
+    },
+    {
+        "question": "A 5-year-old boy presents with progressive muscle weakness, frequent falls, and calf hypertrophy. Genetic testing reveals a deletion in the dystrophin gene. Which of the following is most likely?",
+        "choices": [
+            "Becker muscular dystrophy",
+            "Duchenne muscular dystrophy",
+            "Spinal muscular atrophy",
+            "Mitochondrial myopathy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Duchenne muscular dystrophy is characterized by a deletion in the dystrophin gene leading to absence of dystrophin protein, resulting in early-onset progressive muscle weakness and calf pseudohypertrophy."
+    },
+    {
+        "question": "A patient with dermatomyositis presents with proximal muscle weakness and a heliotrope rash. Which autoantibody is most commonly associated with this condition?",
+        "choices": [
+            "Anti-Jo-1",
+            "Anti-Mi-2",
+            "Anti-HMGCR",
+            "Anti-SRP"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Anti-Mi-2 is commonly associated with dermatomyositis, which presents with proximal weakness and characteristic skin findings such as a heliotrope rash and Gottron papules."
+    },
+    {
+        "question": "In a patient with progressive weakness, muscle biopsy shows ragged red fibers. Which condition is most likely?",
+        "choices": [
+            "Mitochondrial myopathy",
+            "Polymyositis",
+            "Inclusion body myositis",
+            "Amyotrophic lateral sclerosis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Ragged red fibers on muscle biopsy are indicative of mitochondrial myopathy, which results from defects in mitochondrial oxidative phosphorylation."
+    },
+    {
+        "question": "A 60-year-old man presents with slowly progressive weakness in the finger flexors and quadriceps. Muscle biopsy reveals rimmed vacuoles. Which condition is most likely?",
+        "choices": [
+            "Polymyositis",
+            "Dermatomyositis",
+            "Inclusion body myositis",
+            "Steroid-induced myopathy"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Inclusion body myositis commonly presents with slowly progressive weakness in older adults and is characterized by rimmed vacuoles on muscle biopsy."
+    },
+    {
+        "question": "A 40-year-old woman with a history of statin use presents with proximal muscle weakness and elevated CPK. Muscle biopsy shows necrotizing myopathy. Which antibody is likely positive?",
+        "choices": [
+            "Anti-SRP",
+            "Anti-Jo-1",
+            "Anti-MDA5",
+            "Anti-HMGCR"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Anti-HMGCR antibodies are associated with statin-induced necrotizing myopathy, which presents with proximal weakness and elevated CPK."
+    },
+    {
+        "question": "A patient presents with type 2 muscle fiber atrophy. Which of the following is the most likely cause?",
+        "choices": [
+            "Disuse or corticosteroid use",
+            "Duchenne muscular dystrophy",
+            "Polymyositis",
+            "Mitochondrial myopathy"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Type 2 muscle fiber atrophy is commonly seen in conditions such as disuse atrophy and steroid myopathy."
+    },
+    {
+        "question": "A 50-year-old patient presents with a history of diabetes and distal symmetric sensory motor polyneuropathy. What is the primary mechanism of his neuropathy?",
+        "choices": [
+            "Autoimmune attack on myelin",
+            "Motor neuron degeneration",
+            "Metabolic and ischemic damage",
+            "Mitochondrial dysfunction"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Diabetic peripheral neuropathy is caused by a combination of metabolic and ischemic damage to peripheral nerves."
+    },
+    {
+        "question": "A young child presents with a floppy infant syndrome, hypotonia, and tongue fasciculations. Genetic testing shows a mutation in the SMN1 gene. What is the most likely diagnosis?",
+        "choices": [
+            "Amyotrophic lateral sclerosis",
+            "Spinal muscular atrophy type 1",
+            "Becker muscular dystrophy",
+            "Mitochondrial myopathy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Spinal muscular atrophy type 1 (Werdnig-Hoffmann disease) presents in infants with hypotonia and tongue fasciculations due to mutations in the SMN1 gene."
+    },
+    {
+        "question": "A muscle biopsy reveals endomysial inflammation with CD8+ T cells. Which myopathy is most likely?",
+        "choices": [
+            "Dermatomyositis",
+            "Inclusion body myositis",
+            "Polymyositis",
+            "Mitochondrial myopathy"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Polymyositis is characterized by endomysial inflammation with CD8+ T cells on muscle biopsy."
+    },
+    {
+        "question": "Which laboratory finding is typically elevated in patients with muscle inflammation such as myositis?",
+        "choices": [
+            "Low CPK",
+            "Normal hemoglobin A1c",
+            "High creatine phosphokinase (CPK)",
+            "Low C-reactive protein"
+        ],
+        "correctAnswer": 2,
+        "explanation": "High creatine phosphokinase (CPK) levels are indicative of muscle inflammation and damage, as seen in myositis."
+    },
+    {
+        "question": "A 35-year-old patient with dermatomyositis is at an increased risk of which associated condition?",
+        "choices": [
+            "Rhabdomyolysis",
+            "Myasthenia gravis",
+            "Malignancy",
+            "Amyotrophic lateral sclerosis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Dermatomyositis is associated with an increased risk of malignancy, especially in adults."
+    },
+    {
+        "question": "A 45-year-old woman presents with difficulty climbing stairs and lifting her arms. Muscle biopsy shows perifascicular atrophy and perivascular inflammation. What is the most likely diagnosis?",
+        "choices": [
+            "Polymyositis",
+            "Dermatomyositis",
+            "Inclusion body myositis",
+            "Steroid myopathy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Perifascicular atrophy and perivascular inflammation are characteristic findings of dermatomyositis on muscle biopsy."
+    },
+    {
+        "question": "Which of the following features is most characteristic of amyotrophic lateral sclerosis (ALS)?",
+        "choices": [
+            "Distal sensory neuropathy",
+            "Weakness with normal reflexes",
+            "Both upper and lower motor neuron signs",
+            "Proximal muscle weakness and skin rash"
+        ],
+        "correctAnswer": 2,
+        "explanation": "ALS is characterized by both upper and lower motor neuron signs, including spasticity, hyperreflexia, and muscle atrophy."
+    },
+    {
+        "question": "In a patient with mitochondrial myopathy, which finding on muscle biopsy would be expected?",
+        "choices": [
+            "Rimmed vacuoles",
+            "Perifascicular atrophy",
+            "Type 2 fiber atrophy",
+            "Ragged red fibers"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Ragged red fibers are characteristic of mitochondrial myopathies and result from abnormal mitochondrial accumulation."
+    },
+    {
+        "question": "A muscle biopsy from a patient with inclusion body myositis would likely show which of the following?",
+        "choices": [
+            "Endomysial inflammation with CD4+ T cells",
+            "Perivascular inflammation",
+            "Rimmed vacuoles and CD8+ T cell infiltration",
+            "Necrosis with macrophage infiltration"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Inclusion body myositis is characterized by rimmed vacuoles and endomysial inflammation with CD8+ T cell infiltration."
+    },
+    {
+        "question": "A 12-year-old boy experiences severe muscle cramps and fatigue during exercise, particularly at the start of activities. He reports improved endurance after a few minutes of rest, known as the 'second wind' phenomenon. Which diagnosis is most likely?",
+        "choices": [
+            "CPT II deficiency",
+            "VLCAD deficiency",
+            "McArdle disease",
+            "Pompe disease"
+        ],
+        "correctAnswer": 2,
+        "explanation": "McArdle disease is characterized by exercise intolerance and the 'second wind' phenomenon due to glycogen storage limitations and the inability to generate ATP via glycogenolysis."
+    },
+    {
+        "question": "During high-intensity exercise, skeletal muscle primarily relies on which energy source after exhausting ATP stores?",
+        "choices": [
+            "Blood glucose",
+            "Free fatty acids",
+            "Creatine phosphate",
+            "Ketone bodies"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Creatine phosphate acts as a rapid ATP source immediately after ATP stores are exhausted in short-duration, high-intensity activities like sprinting."
+    },
+    {
+        "question": "A 30-year-old woman has recurrent myoglobinuria and muscle pain triggered by prolonged exercise. A muscle biopsy reveals elevated levels of long-chain acylcarnitines. What is the most likely diagnosis?",
+        "choices": [
+            "Pompe disease",
+            "CPT II deficiency",
+            "McArdle disease",
+            "Kearns-Sayre syndrome"
+        ],
+        "correctAnswer": 1,
+        "explanation": "CPT II deficiency presents with exercise intolerance and myoglobinuria, with characteristic elevations of long-chain acylcarnitines due to impaired fatty acid oxidation."
+    },
+    {
+        "question": "A muscle biopsy from a patient with exercise intolerance and muscle weakness reveals ragged red fibers. Which of the following conditions is most likely?",
+        "choices": [
+            "Mitochondrial myopathy",
+            "Pompe disease",
+            "Tarui disease",
+            "Glycogen storage disease type V"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Ragged red fibers are a hallmark of mitochondrial myopathies, which indicate mitochondrial abnormalities in muscle tissue."
+    },
+    {
+        "question": "A young patient is diagnosed with MERRF (Myoclonic Epilepsy with Ragged Red Fibers). Which genetic mutation is most commonly associated with this disorder?",
+        "choices": [
+            "m.8993T>G",
+            "m.3243A>G",
+            "m.8344A>G",
+            "m.11778G>A"
+        ],
+        "correctAnswer": 2,
+        "explanation": "MERRF is associated with the m.8344A>G mutation in mitochondrial DNA, which disrupts mitochondrial protein synthesis and function."
+    },
+    {
+        "question": "Which of the following statements about heteroplasmy in mitochondrial disorders is correct?",
+        "choices": [
+            "Heteroplasmy involves mutations in only nuclear DNA.",
+            "Symptoms of mitochondrial disorders are consistent regardless of heteroplasmy.",
+            "The proportion of mutant to wild-type mtDNA can affect symptom severity.",
+            "Only males can inherit mitochondrial DNA mutations."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Heteroplasmy refers to a mixture of normal and mutant mtDNA, with symptom severity often correlating with the proportion of mutant mtDNA in affected tissues."
+    },
+    {
+        "question": "A child with hypotonia and delayed motor skills is diagnosed with Pompe disease. Which enzyme deficiency is responsible for this disorder?",
+        "choices": [
+            "Phosphorylase kinase",
+            "Carnitine palmitoyltransferase II",
+            "Acid maltase (alpha-glucosidase)",
+            "Phosphofructokinase"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pompe disease is caused by a deficiency in acid maltase, leading to glycogen accumulation in lysosomes and subsequent muscle weakness."
+    },
+    {
+        "question": "A 15-year-old male presents with recurrent episodes of hypoketotic hypoglycemia, muscle weakness, and cardiomyopathy. Laboratory testing reveals elevated levels of long-chain acylcarnitines. Which condition is most likely?",
+        "choices": [
+            "VLCAD deficiency",
+            "Tarui disease",
+            "McArdle disease",
+            "Leigh syndrome"
+        ],
+        "correctAnswer": 0,
+        "explanation": "VLCAD deficiency affects long-chain fatty acid oxidation, leading to hypoketotic hypoglycemia, muscle weakness, and cardiomyopathy."
+    },
+    {
+        "question": "A patient with MELAS syndrome is found to have a high lactate level and intermittent stroke-like episodes. Which mutation is most commonly associated with this condition?",
+        "choices": [
+            "m.3243A>G",
+            "m.8993T>G",
+            "m.8344A>G",
+            "m.11778G>A"
+        ],
+        "correctAnswer": 0,
+        "explanation": "MELAS syndrome is most often associated with the m.3243A>G mutation, affecting mitochondrial tRNA, which impairs energy production and causes lactic acidosis."
+    },
+    {
+        "question": "Kearns-Sayre syndrome is characterized by all of the following EXCEPT:",
+        "choices": [
+            "Pigmentary retinopathy",
+            "Progressive external ophthalmoplegia",
+            "Stroke-like episodes",
+            "Cardiac conduction defects"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kearns-Sayre syndrome includes progressive external ophthalmoplegia, pigmentary retinopathy, and cardiac conduction abnormalities, but not stroke-like episodes, which are characteristic of MELAS."
+    },
+    {
+        "question": "Which energy source is primarily used by resting muscle for ATP production?",
+        "choices": [
+            "Blood glucose",
+            "Free fatty acids",
+            "Liver glycogen",
+            "Muscle glycogen"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Free fatty acids are the main energy source for skeletal muscle at rest, as they are readily oxidized for ATP production via aerobic metabolism."
+    },
+    {
+        "question": "Leigh syndrome is characterized by lesions in which area of the brain?",
+        "choices": [
+            "Cerebral cortex",
+            "Basal ganglia",
+            "Cerebellum",
+            "Brainstem"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Leigh syndrome presents with progressive neurological deterioration and symmetric basal ganglia lesions, leading to motor dysfunction and regression."
+    },
+    {
+        "question": "A 10-year-old boy with exercise intolerance and severe muscle pain during activities is diagnosed with Tarui disease. Which enzyme deficiency is responsible for this condition?",
+        "choices": [
+            "Acid maltase",
+            "Phosphofructokinase",
+            "Myophosphorylase",
+            "Carnitine palmitoyltransferase II"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tarui disease (glycogen storage disease type VII) is caused by a phosphofructokinase deficiency, affecting glycolysis and leading to exercise intolerance and myalgia."
+    },
+    {
+        "question": "A patient with MERRF syndrome is found to have myoclonus, epilepsy, and ragged red fibers on muscle biopsy. What is the most common mutation associated with MERRF?",
+        "choices": [
+            "m.8993T>G",
+            "m.3243A>G",
+            "m.8344A>G",
+            "m.11778G>A"
+        ],
+        "correctAnswer": 2,
+        "explanation": "MERRF syndrome is associated with the m.8344A>G mutation in mitochondrial DNA, which impairs mitochondrial function and leads to muscle pathology."
+    },
+    {
+        "question": "Which of the following best explains why patients with fatty acid oxidation disorders, such as CPT II deficiency, should avoid prolonged fasting?",
+        "choices": [
+            "To prevent hypoglycemia",
+            "To avoid ketone body accumulation",
+            "To prevent lactic acidosis",
+            "To minimize glycogen depletion"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Patients with CPT II deficiency cannot adequately oxidize fatty acids during fasting, resulting in hypoglycemia due to insufficient ketone production."
+    },
+{
+    "question": "When walking, the action of the iliopsoas muscle results in what motion at the hip joint?",
+    "choices": [
+        "Abduction",
+        "Adduction",
+        "Extension",
+        "Flexion",
+        "Medial rotation"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The iliopsoas is a combination of the iliacus and psoas major muscles, which insert on the lesser trochanter of the femur. It is the most powerful hip flexor. Other hip flexors include the sartorius, rectus femoris, and pectineus. These muscles are in the anterior compartment of the thigh. The abductors of the thigh include gluteus medius, minimus, and tensor fasciae latae, while adductor muscles (longus, brevis, and magnus) are in the medial compartment. Major hip extensors are the hamstrings (semimembranosus, semitendinosus, and biceps femoris) located in the posterior compartment, along with gluteus maximus."
+},
+{
+    "question": "During recovery from a gunshot wound of the right pelvis, the patient notices a lurch in their gait. When they lift their left foot off of the ground, their pelvis dips down on the left side. The nerve that appears to have been injured is the:",
+    "choices": [
+        "Nerve to piriformis",
+        "Nerve to obturator internus",
+        "Sciatic nerve",
+        "Femoral nerve",
+        "Superior gluteal nerve"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is the superior gluteal nerve (E). The superior gluteal nerve innervates the gluteus medius and minimus muscles, which are essential for stabilizing the pelvis during walking. Injury to this nerve results in a positive Trendelenburg sign, where the pelvis drops on the opposite side when the affected leg bears weight. In this case, the right superior gluteal nerve injury causes the left side of the pelvis to dip when the left foot is lifted."
+},
+{
+    "question": "The short head of biceps femoris muscle is innervated by which nerve?",
+    "choices": [
+        "Common fibular (peroneal)",
+        "Femoral",
+        "Inferior gluteal",
+        "Obturator",
+        "Tibial"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is the common fibular (peroneal) nerve (A). The short head of the biceps femoris is innervated by the common fibular nerve, while all other muscles in the hamstring compartment are innervated by the tibial nerve. Both nerves are branches of the sciatic nerve. The inferior gluteal nerve innervates gluteus maximus, the obturator nerve innervates the medial compartment (adductors) of the thigh, and the femoral nerve innervates the muscles of the anterior thigh."
+},
+{
+    "question": "An elderly patient complains of difficulty in walking up stairs. Tests by their doctor reveal weakness in extension at their hip, but no change in hip flexion, or flexion or extension of the knee. Based upon these results, what muscle is most likely not functioning properly?",
+    "choices": [
+        "Adductor magnus",
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Iliopsoas",
+        "Semitendinosus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is gluteus maximus (B). Gluteus maximus is the primary muscle for powerful hip extension, which is required for actions such as climbing stairs or jumping. Weakness in hip extension without changes in other hip or knee movements indicates that the gluteus maximus is likely affected. Semitendinosus also assists in thigh extension but primarily functions in knee flexion, which was not affected in this patient."
+},
+{
+    "question": "Of the branches of the internal iliac artery, the one exiting from the greater sciatic foramen superior to the piriformis muscle is the:",
+    "choices": [
+        "Iliolumbar artery",
+        "Internal pudendal artery",
+        "Lateral sacral artery",
+        "Superior gluteal artery"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is the superior gluteal artery (D). The superior gluteal artery, along with the superior gluteal nerve, exits the pelvis through the greater sciatic foramen superior to the piriformis muscle. Other structures such as the inferior gluteal artery and nerve, internal pudendal artery, and sciatic nerve exit inferior to the piriformis. The iliolumbar artery and lateral sacral arteries do not exit through the greater sciatic foramen."
+},
+{
+    "question": "With damage to the tibial part of the sciatic nerve, which compartment of the thigh would be most affected?",
+    "choices": [
+        "Anterior",
+        "Medial",
+        "Posterior"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is posterior (C). The posterior compartment of the thigh is primarily innervated by branches of the tibial part of the sciatic nerve. The anterior compartment is mostly innervated by branches of the femoral nerve, and the medial compartment is innervated by branches of the obturator nerve."
+},
+{
+    "question": "Which muscle exits the pelvic region via the greater sciatic foramen and has a close geographic relationship with the superior & inferior gluteal neurovasculature and the sciatic nerve?",
+    "choices": [
+        "Gluteus minimus",
+        "Iliopsoas",
+        "Pectineus",
+        "Piriformis",
+        "Sartorius"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is piriformis (D). The piriformis muscle originates in the pelvic region and exits through the greater sciatic foramen to attach to the greater trochanter of the femur. The superior gluteal neurovasculature exits the foramen superior to the piriformis, while the inferior gluteal neurovasculature and the sciatic nerve exit inferior to it."
+},
+{
+    "question": "While water skiing in Florida following final exams, a medical student falls and twists her ankle. Her foot is forcibly everted, which could cause a sprain of which ligament?",
+    "choices": [
+        "Anterior talofibular",
+        "Anterior tibiofibular",
+        "Calcaneofibular",
+        "Deltoid",
+        "Plantar calcaneonavicular (spring ligament)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is the deltoid ligament (D). The deltoid ligament connects the medial malleolus to the talus, navicular, and calcaneus on the medial side of the ankle. It stabilizes the ankle and resists eversion. Forced eversion can result in a sprain of the deltoid ligament. The anterior talofibular and calcaneofibular ligaments are on the lateral side of the ankle and are more commonly injured with inversion. The anterior tibiofibular ligament supports the distal tibiofibular joint, and the plantar calcaneonavicular ligament (spring ligament) supports the medial longitudinal arch of the foot."
+},
+{
+    "question": "A patient with a fracture to the left upper tibia was treated with a plaster cast. A few days later they started to develop progressive numbness over the dorsum of the foot and weakness in dorsiflexion. The cast was quickly changed and the signs were attributed to nerve compression. The compressed nerve was most likely the:",
+    "choices": [
+        "Tibial",
+        "Obturator",
+        "Sciatic",
+        "Femoral",
+        "Common fibular"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is the common fibular nerve (E). The common fibular nerve branches into the deep fibular nerve, which innervates the anterior compartment of the leg responsible for dorsiflexion, and the superficial fibular nerve, which provides sensation to the dorsum of the foot. Compression of the common fibular nerve can result in both weakness in dorsiflexion and sensory loss over the dorsum of the foot."
+},
+{
+    "question": "A long-distance runner complained of swelling and pain of his shin. At physical examination, skin testing showed normal cutaneous sensation of the leg. However, muscular strength tests showed marked weakness of dorsiflexion and impaired inversion of the foot. Which nerve serves the muscles involved?",
+    "choices": [
+        "Common fibular",
+        "Deep fibular",
+        "Sciatic",
+        "Superficial fibular",
+        "Tibial"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is the deep fibular nerve (B). The deep fibular nerve innervates the anterior compartment of the leg, including the tibialis anterior muscle, which is responsible for dorsiflexion and inversion of the foot. Weakness in dorsiflexion with preserved sensation in most of the leg suggests involvement of the deep fibular nerve rather than the common fibular nerve, which would affect a broader area."
+},
+{
+    "question": "A car strikes a pedestrian on the lateral side of their leg. Following the accident, they have 'foot drop.' Their foot hangs loosely in plantar flexion when they raise it off the ground. They can still invert their foot weakly, but cannot evert it. They can flex but not extend their toes. Which nerve is most likely to have been crushed in their accident?",
+    "choices": [
+        "Common fibular",
+        "Tibial",
+        "Superficial fibular",
+        "Medial plantar",
+        "Sciatic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is the common fibular nerve (A). Damage to the common fibular nerve affects its two branches, the deep and superficial fibular nerves, which innervate the anterior and lateral compartments of the leg. This results in foot drop due to loss of dorsiflexion, inability to evert the foot (lateral compartment), and inability to extend the toes (anterior compartment). Weak inversion is still possible due to the tibialis posterior muscle, which is innervated by the tibial nerve."
+},
+{
+    "question": "When the femur is fractured, the broken distal end often turns posteriorly to enter the popliteal fossa due to muscle traction. Because of its position deepest in the fossa, which structure is most vulnerable to laceration?",
+    "choices": [
+        "Common fibular nerve",
+        "Lesser saphenous vein",
+        "Popliteal artery",
+        "Popliteal vein",
+        "Tibial nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is the popliteal artery (C). The popliteal artery lies deepest in the popliteal fossa and is closely adjacent to the posterior side of the knee joint, making it vulnerable to laceration by a posteriorly displaced distal femur fragment. The popliteal vein and tibial nerve are more superficial, and the common fibular nerve descends toward the fibular neck on the lateral side of the fossa."
+},
+{
+    "question": "A patient complains of localized pain in a swollen lower calf and cannot strongly plantar flex his foot. What tendon may have ruptured?",
+    "choices": [
+        "Calcaneal",
+        "Fibularis tertius",
+        "Flexor digitorum longus",
+        "Flexor hallucis longus",
+        "Tibialis anterior"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is the calcaneal tendon (A). The gastrocnemius and soleus muscles insert on the calcaneus via the calcaneal tendon (Achilles tendon), which is the primary structure responsible for plantar flexion of the foot. Rupture of this tendon leads to significant weakness in plantar flexion. Other muscles listed have different actions, such as eversion, dorsiflexion, and flexion of specific toes."
+},
+{
+    "question": "Your patient was struck by a car's bumper as she crossed the street, and her fibular neck is broken. After the bone has healed, she has 'foot drop', i.e., she cannot dorsiflex her foot, and so it flops onto the ground during walking. Denervation (paralysis) of which of the following muscles would be associated with foot drop?",
+    "choices": [
+        "Fibularis longus",
+        "Tibialis posterior",
+        "Fibularis brevis",
+        "Tibialis anterior",
+        "Popliteus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is tibialis anterior (D). Tibialis anterior is the major dorsiflexor of the foot, and paralysis of this muscle results in foot drop. It is located in the anterior compartment of the leg and is innervated by the deep fibular nerve, a branch of the common fibular nerve. Damage to the common fibular nerve, especially near the fibular neck, leads to weakness or loss of dorsiflexion, causing the foot to drop. Other muscles listed primarily contribute to plantarflexion or eversion."
+},
+{
+    "question": "A pedestrian is struck by a car, and his fibular neck is fractured. There is no indication of foot drop, but he cannot evert his foot and the top of his foot is numb. This apparent nerve lesion would affect which of the following muscles?",
+    "choices": [
+        "Tibialis posterior",
+        "Tibialis anterior",
+        "Fibularis tertius",
+        "Fibularis longus",
+        "Adductor hallucis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is fibularis longus (D). A fracture at the fibular neck may cause injury to the superficial fibular nerve, which innervates the lateral compartment of the leg, including fibularis longus and fibularis brevis, both of which are responsible for foot eversion. The superficial fibular nerve also provides sensation to the dorsum of the foot. Since foot drop is absent, the deep fibular nerve (responsible for dorsiflexion) is likely intact, confirming the issue is isolated to the superficial fibular nerve."
+},
+{
+    "question": "Which muscle compartment of the lower limb is primarily responsible for eversion of the foot?",
+    "choices": [
+        "Anterior compartment of the leg",
+        "Dorsal region of the foot",
+        "Lateral compartment of the leg",
+        "Plantar region of the foot",
+        "Posterior compartment of the leg"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is the lateral compartment of the leg (C). The primary actions of the muscle compartments are as follows: the anterior compartment is responsible for dorsiflexion and inversion, the dorsal region extends the digits, the lateral compartment everts the foot, the plantar region flexes the digits, and the posterior compartment is involved in plantarflexion and inversion of the foot."
+},
+    {
+        "question": "A 50-year-old woman presents with diffuse muscle weakness. Which of the following is least likely to cause her symptoms?",
+        "choices": [
+            "Atorvastatin",
+            "Epstein-Barr virus",
+            "Hypertension",
+            "Hypothyroidism",
+            "Staphylococcus aureus infection"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The correct answer is hypertension (C), as hypertension may cause strokes and focal muscle weakness but not diffuse weakness. Diffuse muscle weakness (myopathy) can be caused by a variety of factors, including medications (A), viral infection (B), endocrine disorders like hypothyroidism (D), and bacterial infection (E)."
+    },
+    {
+        "question": "A 58-year-old man describes mild fever and worsening weakness over the past several months, most noticeably with getting up out of a chair and putting away dishes after washing. He has noticeable erythema above both upper eyelids and has bilateral weakness with hip flexion as well as shoulder abduction. What would most likely be found on muscle biopsy?",
+        "choices": [
+            "CD4+ T-cell inflammation of the myofiber",
+            "CD8+ cytotoxic T cells invading the perimysium",
+            "CD8+ cytotoxic T cells invading the myofiber",
+            "Diffuse necrosis and regeneration of muscle fibers",
+            "Perifascicular atrophy and vasculitis"
+        ],
+        "correctAnswer": 4,
+        "explanation": "The correct answer is perifascicular atrophy and vasculitis (E). The proximal muscle weakness and skin rash suggest dermatomyositis. Histopathologic findings in dermatomyositis include infiltration of CD4+ T cells and complement proteins into the perimysium and small blood vessels, causing perifascicular atrophy and inflammatory vascular injury."
+    },
+    {
+        "question": "Which of the following serves as the definitive diagnosis of inflammatory myositis?",
+        "choices": [
+            "Clinical history",
+            "Imaging",
+            "Physical examination",
+            "Positive ANA antibodies",
+            "Tissue biopsy"
+        ],
+        "correctAnswer": 4,
+        "explanation": "The correct answer is tissue biopsy (E), specifically muscle tissue, where histopathologic features can be examined for the presence of infiltrates and other structural findings. While clinical history, physical examination, and imaging can aid in diagnosis, tissue biopsy is the gold standard for distinguishing inflammatory myopathy from other causes of muscle weakness."
+    },
+    {
+        "question": "A 6-year-old boy presents with progressive weakness of legs and waddling gait. He relies on his hands to get up from the floor. His reflexes are normal. He is found to have increased CPK levels. Genetic testing reveals deletion of a structural muscle protein, and muscle biopsy shows myopathic features with increased interstitial fibro-adipose tissue. Most likely cause of his weakness is:",
+        "choices": [
+            "Anti-synthetase syndrome",
+            "Dermatomyositis",
+            "Duchenne muscular dystrophy",
+            "Peripheral neuropathy"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The correct answer is Duchenne muscular dystrophy (C). This X-linked recessive disorder is due to mutations or deletions in the dystrophin gene, a key structural protein in muscle. Findings include progressive weakness, increased CPK, and muscle biopsy showing replacement of muscle tissue with fibro-adipose tissue."
+    },
+    {
+        "question": "A 45-year-old woman presents with progressive weakness of extremities over many months. She has erythematous rash around both eyelids and bilateral proximal muscle weakness. Her reflexes are normal. She is found to have increased CPK levels. Muscle biopsy is most likely to show:",
+        "choices": [
+            "Atrophic angulated fibers and group atrophy",
+            "Chronic inflammation with peri-fascicular atrophy",
+            "Endomysial chronic inflammation",
+            "Myopathy with increased interstitial fibro-adipose tissue",
+            "Type-2 atrophy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The correct answer is chronic inflammation with peri-fascicular atrophy (B). The presentation is consistent with dermatomyositis, which shows perifascicular atrophy and inflammation in the muscle biopsy along with characteristic skin findings."
+    },
+    {
+        "question": "A 40-year-old woman presented with skin rash and muscle weakness 9 months ago. She was found to have high CPK levels and was treated for an autoimmune disease. She now presents with muscle weakness for 3 weeks. CPK levels are normal. Muscle biopsy shows selective atrophy of type-2 fibers. Most likely cause of her weakness is:",
+        "choices": [
+            "Recurrence of autoimmune myositis",
+            "Myasthenia gravis",
+            "Peripheral neuropathy",
+            "Steroid treatment"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The correct answer is steroid treatment (D). Chronic steroid use can cause type-2 muscle fiber atrophy, leading to weakness without an increase in CPK levels. The history of autoimmune treatment suggests prolonged steroid therapy as the cause."
+    },
+    {
+        "question": "A 65-year-old man comes to the physician because of insidious onset and worsening weakness over the past several months. He says he has difficulty climbing stairs and opening jars. He eats a normal diet. When asked to stand, he uses his hands to lift off the chair. Serum studies show potassium of 5 mg/dL, thyroid-stimulating hormone of 4 mIU/L, and creatine kinase of 500 U/L. Erythrocyte sedimentation rate is 15 mm/hr, and C-reactive protein is 32 mg/dL (reference range: 0.8-10 mg/dL). Biopsy specimen of the quadriceps muscle shows rimmed vacuoles, endomysial inflammation, and myofiber degeneration with amyloid deposition. The patient is unresponsive to immunosuppressive therapy. Which of the following is the most likely diagnosis?",
+        "choices": [
+            "Drug-induced myopathy",
+            "Hypothyroid myopathy",
+            "Inclusion body myositis",
+            "Necrotizing myopathy",
+            "Polymyositis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The correct answer is inclusion body myositis (C). This condition is characterized by progressive, asymmetric muscle weakness, particularly affecting the quadriceps and finger flexors, as well as the presence of rimmed vacuoles and endomysial inflammation on muscle biopsy. The lack of response to immunosuppressive therapy is also typical of inclusion body myositis."
+    },
+{
+    "question": "A 5-year-old male presents to the clinic with a waddling gait and unsteadiness while standing. The child relies extensively on his hands to lift his torso when getting up from the floor. His parents note that the boy falls often and also mention that the boy’s calves have a muscular appearance. Which of the following most accurately characterizes the mutation in the most likely cause of the boy’s symptoms?",
+    "choices": [
+        "Frameshift mutation",
+        "Gain-of-function mutation",
+        "Insertion mutation",
+        "Missense mutation",
+        "Trinucleotide repeat expansion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is frameshift mutation (A). The most likely cause of the child’s symptoms is Duchenne muscular dystrophy (DMD), which is caused by a frameshift mutation in the gene coding for dystrophin. Dystrophin maintains proper anchoring of muscle cell cytoskeleton with the extracellular matrix. Gain-of-function mutation (B) is seen in facioscapulohumeral dystrophy. DMD may sometimes be caused by an insertion (C), but it is often due to a deletion. A missense mutation (D) may be seen in Becker muscular dystrophy, but this is not always the case. Trinucleotide repeat expansion (E) is characteristic of myotonic dystrophy."
+},
+{
+    "question": "Which of the following would be least affected by cutting the sciatic nerve?",
+    "choices": [
+        "Big toe extension",
+        "Foot flexion",
+        "Thigh extension",
+        "Sensation on medial thigh",
+        "Sensation on lateral ankle"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is sensation on medial thigh (D). The sciatic nerve, arising from L4-S3 spinal roots, is the longest nerve in the body. It directly innervates the hamstring muscles that perform thigh extension (C) and lower leg flexion. Its branches, the tibial and common fibular nerves, supply much of the lower leg, accounting for toe extension (A) and foot motion (B). These sciatic branches also provide all sensation on the lower leg and foot except for the medial and anterior lower leg, which is provided by the saphenous nerve. The sciatic nerve does not provide thigh sensation, which is covered by the saphenous nerve."
+},
+{
+    "question": "Which of the following structures connects the lumbar plexus to the sacral plexus?",
+    "choices": [
+        "Dorsal rami",
+        "Lumbosacral trunk",
+        "Spinal cord",
+        "Spinal nerves",
+        "Ventral rami"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is lumbosacral trunk (B). The lumbar and sacral plexuses each receive spinal nerve branches and reorganize these into integrated nerves. The lumbosacral trunk provides this neural connection. The dorsal rami (A) and ventral rami (E) are proximal to the plexuses, while the spinal cord (C) is more proximal and the spinal nerves (D) are bundled motor, sensory, and autonomic nerves from each spinal level."
+},
+{
+    "question": "A 45-year-old woman comes into the office after falling off a ladder. She cannot externally rotate her thigh, holding it in an internally rotated position. X-rays show that she has broken her proximal femur across the greater trochanter. Which muscle would most likely be impaired in this patient?",
+    "choices": [
+        "Gemellus",
+        "Gluteus minimus",
+        "Pectineus",
+        "Rectus femoris",
+        "Vastus intermedius"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is gemellus (A). The gemellus originates on the ischial spine and inserts onto the medial surface of the proximal femur, allowing it to externally rotate the thigh. Gluteus minimus (B) abducts and internally rotates, while pectineus (C) is a thigh flexor, and rectus femoris (D) and vastus intermedius (E) extend the knee and would not affect thigh rotation."
+},
+{
+    "question": "Which of the following toe flexor muscles originates in the lower leg?",
+    "choices": [
+        "Abductor hallucis",
+        "Flexor digitorum brevis",
+        "Flexor digitorum longus",
+        "Flexor hallucis brevis",
+        "Quadratus plantae"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is flexor digitorum longus (C). This muscle starts in the posterior compartment of the lower leg, crosses the ankle, and inserts on the dorsum of the phalanges 2-5 to flex them. The other muscles listed are all intrinsic to the foot and primarily act on the toes without crossing the ankle."
+},
+{
+    "question": "Which of the following models is specifically designed for delivering difficult news to patients?",
+    "choices": [
+        "ABCDE model",
+        "SOAPE model",
+        "SPIKES protocol",
+        "PQRST method",
+        "PRIME protocol"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The SPIKES protocol is a well-known framework used for delivering bad news. It involves six steps: Setting, Perception, Invitation, Knowledge, Emotions, and Summary/Strategy, which provide structure to the interaction and help clinicians deliver news compassionately."
+},
+{
+    "question": "A physician is about to disclose a serious diagnosis to a patient but feels anxious about the patient's reaction. Which of the following is a helpful step for the physician to manage their own emotions before entering the room?",
+    "choices": [
+        "Briefly rehearse the encounter in their mind",
+        "Quickly review the patient's lab results",
+        "Check for any pending notifications on their phone",
+        "Delegate the conversation to a nurse",
+        "Schedule the conversation for a later date"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mindfulness and preparation are helpful steps before delivering difficult news. Rehearsing the conversation and taking a moment to be mindful can help the physician manage anxiety and be more present for the patient."
+},
+{
+    "question": "Which of the following is a common barrier that might prevent a healthcare provider from effectively delivering bad news?",
+    "choices": [
+        "Clear patient diagnosis",
+        "Limited healthcare system time",
+        "Patient willingness to receive information",
+        "Availability of patient support",
+        "Structured communication protocol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Healthcare system pressures and time constraints are significant barriers that can hinder the effective delivery of bad news. These pressures may lead providers to feel rushed, impacting the quality of their communication with patients."
+},
+{
+    "question": "When following the SPIKES protocol, which step involves asking the patient if they are ready to discuss their condition?",
+    "choices": [
+        "Setting the interaction",
+        "Perception assessment",
+        "Invitation before information",
+        "Knowledge and information",
+        "Emotions and empathy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In the 'Invitation' step of the SPIKES protocol, the clinician assesses the patient's readiness to receive information and determines their preference for details. This step respects patient autonomy and ensures that they are prepared to discuss their condition."
+},
+{
+    "question": "Which of the following is an example of a helpful response to a patient’s emotional reaction during a difficult conversation?",
+    "choices": [
+        "I know exactly how you feel",
+        "I can see this is incredibly upsetting.",
+        "You shouldn't feel this way.",
+        "Let's move on to the treatment options.",
+        "Please stay strong for your family."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Validating the patient's emotions, such as by saying I can see this is incredibly upsetting, shows empathy and understanding. This approach is part of the 'Emotions and Empathy' step in the SPIKES protocol, helping the patient feel acknowledged and supported."
 },
 {
     "question": "A 25-year-old track athlete comes to the clinic because of right groin pain and lower extremity weakness for the past 2 months. He notes worsening of symptoms with exercise. On examination, the patient has atrophy of the medial compartment of the right thigh with weakened adduction. Injury to which of the following nerves is the most likely cause of this patient’s presentation?",
@@ -1263,400 +1563,38 @@
     "explanation": "This patient has likely had an injury to his right obturator nerve as suggested by the weakness and atrophy of the medial compartment of the leg. The obturator nerve passes through the obturator foramen to innervate the adductor muscles in the medial compartment of the thigh. These muscles include adductor magnus, adductor longus, adductor brevis, gracilis, and obturator externus. The nerve may become trapped between the adductor muscles, leading to difficulties adducting the thigh."
 },
 {
-    "question": "A 38-year-old woman comes to the office with several months of difficulty swallowing. She also reports skin tightness and thickening, especially around her fingers and face, along with stiffness and pain in her fingers and wrists. Antinuclear antibodies and anti-Scl-70 antibodies are positive. Which of the following additional findings is most likely in this patient?",
+    "question": "A 3-year-old boy is brought to the clinic by his parents because of weakness and clumsiness. He was not able to walk on his own until 18 months of age and is now having increasing difficulty keeping up physically with his peers during playtime. The mother is healthy but had a brother who died in childhood after being confined to a wheelchair. The father has no history of genetic disease and is healthy. Physical examination shows 3/5 lower extremity muscle strength and enlarged calf muscles. Western blot of a muscle biopsy sample shows absence of dystrophin protein. The mother reports that she is pregnant with a girl. Which of the following is the probability that the same condition causing this patient’s weakness will develop in his sister?",
     "choices": [
-        "Glomerulonephritis",
-        "Nonatherosclerotic coronary artery disease",
-        "Painful finger color change in cold weather",
-        "Pulmonary granulomas",
-        "Purpura"
+        "<1%",
+        "25%",
+        "50%",
+        "75%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Duchenne muscular dystrophy (DMD) presents with progressive muscle weakness, growth delay, calf pseudohypertrophy, dilated cardiomyopathy, and cardiac conduction abnormalities. DMD results from mutations in the dystrophin gene that lead to significantly decreased expression of dystrophin protein, disrupting the connection between the muscle cell cytoskeleton and the extracellular matrix and destabilizing muscle fibers. DMD is inherited in an X-linked recessive pattern, making it highly unlikely (<1%) that a female sibling would exhibit symptoms, as she would need to inherit two defective copies of the gene."
+},
+{
+    "question": "A 64-year-old man comes to the physician because of back pain. The patient says the pain started 1 year ago and has progressively become more severe. The pain is currently 7/10, radiates down the posterior aspect of the left leg, and is exacerbated with physical activity. He has a history of osteoarthritis and is not taking any medications. On physical examination, he has 3/5 strength for hip extension and knee flexion on the left leg, 5/5 strength for both on the right leg, and an absent Achilles reflex on the left. Which of the following is the most likely diagnosis?",
+    "choices": [
+        "L4 radiculopathy",
+        "L5 radiculopathy",
+        "S1 radiculopathy",
+        "S4 radiculopathy",
+        "Spinal stenosis"
     ],
     "correctAnswer": 2,
-    "explanation": "This patient’s constellation of symptoms (skin thickening and tightening, arthritis, difficulty swallowing), along with positive antinuclear antibodies and anti-Scl-70 (anti-topoisomerase I) antibodies, are consistent with the diffuse cutaneous form of systemic sclerosis (SSc), a multisystem collagen vascular disease. The other form of this disease is the limited cutaneous form. The diffuse form may manifest with interstitial lung disease or scleroderma renal crisis and may show skin changes beyond the hands, whereas the limited cutaneous form is most associated with pulmonary hypertension and anticentromere antibodies."
+    "explanation": "The correct answer is S1 radiculopathy (C). This patient’s history of osteoarthritis and presentation with low back pain, weak leg extension (gluteus maximus) and knee flexion (hamstrings), and an absent Achilles reflex make S1 radiculopathy the most likely diagnosis. S1 radiculopathy presents as low back pain that radiates to the posterior leg with weakness of plantar flexion, hip extension, and/or knee flexion. Sensory findings include disturbance of the posterior leg and/or lateral foot and an absent Achilles reflex."
 },
 {
-    "question": "A 23-year-old woman presents to the clinic because of calf pain. She has had two episodes of deep venous thromboses in 5 years, one of which led to pulmonary embolus. She also had three miscarriages. Laboratory testing shows low platelets, a positive rapid plasma reagin test result, and a negative fluorescent treponemal antibody test result. Which of the following additional laboratory findings is most likely in this patient?",
+    "question": "A 69-year-old man comes to the office because of pain in his right leg. The pain starts in his lower back and right buttock and shoots down his leg. It is worse when he tries to bend over. On physical examination, a straight leg raise on the right reproduces the pain. Active dorsiflexion is weaker in the right foot. Flexion of the hip against resistance is normal. There is decreased sensation in the plantar aspect of the right foot. The nerve most likely affected in this patient passes between which of the following two muscles as it leaves its origin?",
     "choices": [
-        "Decreased partial thromboplastin time that is corrected by mixing 1:1 with fresh-frozen plasma",
-        "Decreased partial thromboplastin time that is not corrected by mixing 1:1 with fresh-frozen plasma",
-        "Prolonged partial thromboplastin time that is corrected by mixing 1:1 with fresh-frozen plasma",
-        "Prolonged partial thromboplastin time, not corrected by mixing 1:1 with fresh-frozen plasma"
-    ],
-    "correctAnswer": 3,
-    "explanation": "This patient likely has primary antiphospholipid antibody syndrome (APS), based on recurrent venous thromboses (hypercoagulability), frequent miscarriages, thrombocytopenia, and a false-positive rapid plasma reagin test. APS may be associated with systemic lupus erythematosus (SLE) or another autoimmune disease. However, APS is not associated with these disorders (ie, is primary) approximately 50% of the time. Ten to 15% of patients with APS will later develop SLE. Patients have recurrent venous or arterial emboli, including deep venous thromboses and pulmonary emboli, strokes, and recurrent miscarriages. Thrombocytopenia and hypocomplementemia may be seen with or without SLE."
-},
-{
-    "question": "A 76-year-old woman comes to her primary care physician because of worsening bilateral shoulder stiffness and pain, and intermittent hip stiffness for the past 2 months. The symptoms are worse in the morning and make it difficult for her to reach upwards and to do housework. Her examination shows no joint effusions or muscle tenderness, but limited motion in the shoulder joints and hips due to pain. Her erythrocyte sedimentation rate is increased. X-rays are normal. Which of the following is the most likely diagnosis in this patient?",
-    "choices": [
-        "Ankylosing spondylitis",
-        "Dermatomyositis",
-        "Fibromyalgia",
-        "Polyarteritis nodosa",
-        "Polymyalgia rheumatica",
-        "Polymyositis",
-        "Rheumatoid arthritis"
+        "Gastrocnemius and soleus",
+        "Gluteus maximus and gluteus medius",
+        "Gluteus maximus and obturator internus",
+        "Peroneus longus and extensor digitorum longus",
+        "Piriformis and superior gemellus"
     ],
     "correctAnswer": 4,
-    "explanation": "This patient with shoulder and hip bursitis and tendonitis and an increased erythrocyte sedimentation rate has polymyalgia rheumatica, an inflammatory disorder. This typically presents with stiffness and pain in the shoulders, neck, and hips. Symptoms are worse in the morning. There may also be nonspecific findings of anemia, fatigue, depression, anorexia, and intermittent fevers. It is not a muscle disorder (despite the name); instead, it is caused by inflammation in the bursae and tendons. It is usually diagnosed clinically and confirmed by trial of treatment."
-},
-{
-    "question": "A 36-year-old woman comes to the clinic because of painful fingers, made worse when she reaches her hands in the refrigerator or freezer. She is found to have a positive antinuclear antibody and positive anticentromere antibody, with negative anti–double-stranded DNA antibodies. Which of the following gastrointestinal complications is this patient most likely to experience?",
-    "choices": [
-        "Achalasia",
-        "Chronic bloody diarrhea",
-        "Duodenal ulcers",
-        "Enterocutaneous fistulas",
-        "Esophageal varices",
-        "Gastroesophageal reflux"
-    ],
-    "correctAnswer": 5,
-    "explanation": "This patient has the limited cutaneous form of systemic sclerosis (SSc), based on Raynaud phenomenon (vasoconstriction and pain in the fingers with cold exposure) and the positive anticentromere antibody. Raynaud can proceed the other typical findings of SSc (eg, skin stiffening and tightness), often by years, specifically in the limited SSc condition. Both lupus and SSc can cause Raynaud phenomenon, but the lack of other physical findings (rash, oral ulcers, arthritis) and the negative anti–double-stranded DNA and positive anticentromere antibodies make SSc more likely. Both disorders typically show a positive antinuclear antibody, as seen here."
-},
-{
-    "question": "Which of the following tests best serves to assess the integrity of the ACL?",
-    "choices": [
-        "Anterior drawer and Lachman tests",
-        "Anterior drawer test only",
-        "Ballotement test",
-        "McMurray test",
-        "Posterior drawer and Lachman tests"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is anterior drawer and Lachman tests (A). Both anterior drawer and Lachman tests assess ACL injury before the detailed imaging is ordered. The Lachman test has more specificity than the anterior drawer test (B). The McMurray test (D) assesses meniscal damage. The ballotement test (C) assesses effusion of the knee joint. The posterior drawer test (E) assesses the PCL not the ACL."
-},
-{
-    "question": "A previously healthy 25-year-old woman hears a pop in her left knee while running into another player during a lacrosse match and develops severe knee pain. The physical exam shows positive results with the anterior drawer and Lachman tests. Which of the following knee structures is most likely injured in addition to the main ligament that is torn?",
-    "choices": [
-        "Lateral collateral ligament",
-        "Lateral meniscus",
-        "Medial meniscus",
-        "Patellar ligament",
-        "Quadriceps tendon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is lateral meniscus (B). The patient’s symptoms and exam suggest an ACL tear. This is often associated with lateral meniscus tears, due to valgus stress to the knee, and especially in contact sport injuries involving twisting. The medial meniscus (C) is more often torn in chronic ACL injury. The lateral collateral ligament (A), patellar ligament (D), and quadriceps tendon (E) are not likely to be injured in this scenario and with these physical findings."
-},
-{
-    "question": "Which of the following is seen in all muscle types?",
-    "choices": [
-        "Calcium-induced contraction",
-        "Calcium-induced relaxation",
-        "Calcium uptake from outside the cell as the main mechanism of inducing contraction",
-        "Current transmitted through gap junctions",
-        "Troponin-calcium binding"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is calcium-induced contraction (A). This occurs in all types via calcium release from the sarcoplasmic reticulum and in cardiac and smooth muscle from outside calcium influx through gated calcium channels. Calcium-induced relaxation (B) is seen in none of these cells. External calcium uptake is the dominant way to increase intracellular calcium in smooth and cardiac muscle, but not skeletal, where intracellular release by the sarcoplasmic reticulum dominates (C). Smooth muscles have controlled relaxation using nitric oxide. Current is transmitted to cells via gap junctions (D) in both cardiac and some smooth muscle cells, but not skeletal muscle. Troponin-calcium binding (E) starts muscle contraction in skeletal and cardiac, but not smooth muscle."
-},
-{
-    "question": "Which of the following molecules is absent from the actin myofilament?",
-    "choices": [
-        "Actin G",
-        "Myosin",
-        "Tropomyosin",
-        "Troponin I",
-        "Troponin T"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is myosin (B). The actin myofilament is a double helix tropomyosin chain (C) with included troponin C, I, and T (D and E) and actin G molecules (A). Binding of calcium to troponin C induces a conformational change and allows binding of actin G to myosin, causing muscle contraction."
-},
-{
-    "question": "Which of the following molecules is most important in causing smooth muscle relaxation?",
-    "choices": [
-        "Actin",
-        "Calcium",
-        "Myosin",
-        "Nitric oxide",
-        "Troponin"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is nitric oxide (D). Smooth muscles undergo controlled contraction and relaxation. Nitric oxide stimulates the enzyme myosin light-chain phosphatase, which dephosphorylates myosin. In smooth muscle, this prevents binding to actin, so it inhibits contraction. Calcium (B) causes smooth muscle contraction. Actin (A) and myosin (C) are present in smooth muscle but do not regulate relaxation. Troponin (E) is not present in smooth muscle cells."
-},
-{
-    "question": "A 34-year-old female presents to her physician describing knee pain for the past 3 months. There is mild swelling around her right knee. Her physician also discovers she has a 5-year history of malar rash, photosensitivity, and kidney disease. What is the most likely cause of her knee pain?",
-    "choices": [
-        "Lyme disease",
-        "Rheumatoid arthritis",
-        "Septic arthritis",
-        "Systemic lupus erythematosus"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is systemic lupus erythematosus (D). The patient has signs and symptoms of SLE-like photosensitivity, malar rash, and kidney disease. Patients with systemic lupus erythematosus can also experience joint pain. Lyme disease (A) is a vector-borne illness; during the early course of the disease a rash is usually present, and late in the disease, patients will start experiencing joint pain. Rheumatoid arthritis (B) is a systemic inflammatory disease associated with stiffness, redness, and swelling of the small joints of the hand. Septic arthritis (C) is an acute infection of a joint that is associated with fever and pain."
-},
-{
-    "question": "Which of the following are common to skeletal muscle, cardiac muscle, and smooth muscle?",
-    "choices": [
-        "Actin and myosin myofilaments",
-        "Direct neural inputs",
-        "Myofibrils",
-        "Troponin C",
-        "Z lines"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is actin and myosin myofilaments (A). All muscle contracts by actin and myosin myofilaments sliding against one another, but the mechanisms of what induces this varies. Neural inputs (B) are only seen in skeletal and smooth muscle. Myofibrils (C) are seen in only skeletal and cardiac muscle. Troponin C (D) is present as a key mediator of contraction in skeletal and cardiac muscle but not smooth muscle. Z lines (E) border each stacked sarcomere seen in striated muscle, so are only seen in skeletal and cardiac muscle, not smooth."
-},
-{
-    "question": "In skeletal and cardiac muscle, to which of the following structures do actin myofilaments anchor?",
-    "choices": [
-        "A band",
-        "H band",
-        "I band",
-        "M line",
-        "Z line"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is Z line (E). The actin myofilaments are anchored at the edge of the sarcomere to the Z line but are unattached in the center. The A band (A) is the area where myosin overlaps with actin, thus appearing darker. The H band (B) lies in the center of the A band and only has myosin filaments. The I band (C), or light band, only contains actin filaments and appears lighter on microscopy. The M (middle) line (D) in the center of the sarcomere anchors to myosin filaments."
-},
-{
-    "question": "How do the cardiac muscle cells contract together as a single unit?",
-    "choices": [
-        "Through simultaneous contraction induced by circulating epinephrine",
-        "Through simultaneous stimulation by coordinated nerve inputs",
-        "Through the transmission of electrical impulses through gap junctions",
-        "Through the transmission of electrical impulses through spot desmosomes",
-        "Through the transmission of electrical impulses via the sarcoplasmic reticulum"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is through the transmission of electrical impulses through gap junctions (C). Intercalated discs connected cardiac muscle cells and create 'electrical synapses,' allowing adjacent cells to contract simultaneously as a unit. Circulating neurotransmitters sometimes stimulate smooth muscle, but not cardiac tissue (A). Contractile cardiac muscle cells do not have direct neural input (B). The spot desmosomes in cardiac muscle do not pass current but instead bind cell to cell firmly (D). The sarcoplasmic reticulum stores calcium but does not transmit electrical impulses (E)."
-},
-{
-    "question": "In skeletal and cardiac muscle, what molecule binds to calcium to initiate muscle contraction?",
-    "choices": [
-        "Acetylcholine",
-        "Actin",
-        "Myosin",
-        "Nitric oxide",
-        "Troponin C"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is troponin C (E). Calcium released by the sarcoplasmic reticulum binds to troponin C, leading to actin-myosin binding and shortening of the sarcomere. Acetylcholine (A) is a neurotransmitter released by neurons at the synapse to depolarize skeletal muscle. Actin (B) and myosin (C) make up the myofilaments that slide past one another to cause myocyte contraction. Nitric oxide (D) is a vasodilator that causes dephosphorylation of myosin and smooth muscle relaxation."
-},
-{
-    "question": "What is the correct order of largest to smallest structure?",
-    "choices": [
-        "Fascicle, muscle cell, myofibril, sarcomere",
-        "Fascicle, sarcomere, muscle cell, myofibril",
-        "Muscle cell, myofibril, sarcomere, fascicle",
-        "Myofibril, sarcomere, fascicle, muscle cell",
-        "Sarcomere, fascicle, myofibril, muscle cell"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is fascicle, muscle cell, myofibril, sarcomere (A). The question highlights the structural organization of skeletal muscle. A whole muscle is composed of fascicles, which are bundles of muscle cells that individually contain myofibrils, which in turn contain myofilaments that are organized in repeating units called sarcomeres. None of the other choices (A, B, C, or E) have the correct order of largest to smallest structure."
-},
-{
-    "question": "Which of the following correctly describes a joint of the lower extremity?",
-    "choices": [
-        "Hip, hinge",
-        "Knee, ball and socket",
-        "Metatarsophalangeal, hinge",
-        "Proximal interphalangeal, plane",
-        "Talocrural, hinge"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is talocrural, hinge (E). The talocrural joint joins the tibia and fibula to the talar bones of the foot and is also called the true ankle joint. It is a hinge joint that permits foot flexion and extension. The knee is a hinge joint (B). The hip is a ball-and-socket joint for maximal flexibility (A). The MTP joints are ellipsoidal joints allowing flexion, extension, abduction, and adduction (C). The PIP joints are hinge joints (D)."
-},
-{
-    "question": "A patient presents to your office with knee instability. Earlier in the day the patient was playing soccer and got kicked in the knee. On physical exam, you find abnormal laxity with anterior movement of the lower leg. There is no abnormal laxity on posterior, lateral, or medial movement of the leg. Which ligament of the knee is most likely injured?",
-    "choices": [
-        "Anterior cruciate",
-        "Lateral collateral",
-        "Lateral meniscus",
-        "Medial collateral",
-        "Posterior collateral"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is anterior cruciate (A). Abnormal anterior movement of the lower leg is most likely due to an ACL injury. Knowing that the abnormality is in an anterior/posterior direction rules out the LCL (B) and MCL (D). If there was an injury to either, the laxity would be exhibited in medial/lateral movement. Because the posterior movement is intact, we know this patient has not injured their PCL (E). A torn meniscus does not produce laxity of the joint (C)."
-},
-{
-    "question": "Which of the following bones is involved in the subtalar joint?",
-    "choices": [
-        "Calcaneus",
-        "Cuboid",
-        "Fibula",
-        "Lateral cuneiform",
-        "Medial cuneiform"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is calcaneus (A). The subtalar joint allows three talar bones (calcaneus, talus, navicular) to slide past one another. It makes foot inversion and eversion possible. The cuboid (B), lateral cuneiform (D), and medial cuneiform (E) are talar bones not involved in this joint. The fibula (C) is a lower leg bone that supports the tibia and is not involved in this foot joint."
-},
-{
-    "question": "Which of the following structures articulates with the femur?",
-    "choices": [
-        "Acetabulum",
-        "Calcaneus",
-        "Fibula",
-        "Medial cuneiform bone",
-        "Navicular bone"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is acetabulum (A). This is the hip socket, a bony indentation in the pelvic bone. It articulates with the head of the femur to form the ball-and-socket hip joint. The calcaneus (B) and medial cuneiform (D) and navicular (E) bones are all in the foot. The fibula (C) is posterolateral to the tibia but does not form part of the knee joint with the femur, as the tibia does."
-},
-{
-    "question": "A 56-year-old man sustains multiple leg fractures and laceration of an artery in a motorized scooter crash. His injuries lead to an inability to extend his left lower leg at the knee. Which of the following arteries is most likely damaged?",
-    "choices": [
-        "Anterior tibial",
-        "Femoral",
-        "Fibular",
-        "Genicular",
-        "Obturator"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is femoral artery (B). The femoral artery is injured in some femur fractures, and it supplies the anterior muscles of the thigh, which are important in lower leg extension. The anterior tibial (A), fibular (C), and genicular arteries (D) are branches of the popliteal artery at the knee, so they supply muscles of the lower leg that guide foot and toe motion. The obturator artery (E) is a deep branch of the internal iliac artery, supplying the femur and medial thigh, so the muscles it supplies would not be involved in extending the lower leg."
-},
-{
-    "question": "Through which of these vessels will lymph from the left toe most likely flow?",
-    "choices": [
-        "Left axillary vein",
-        "Left external tibial vein",
-        "Right lymphatic duct",
-        "Right subclavian vein",
-        "Thoracic duct"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is thoracic duct (E). The lymph from the lower extremities does not travel through lower extremity veins (B), but instead runs through lymphatics, moving to the lumbar ducts and then to the thoracic duct. From there, it empties into the left subclavian vein. The lymph would not enter a distal upper extremity vein like the axillary vein (A). Nor would it run through the right lymphatic duct (C) or the right subclavian vein (D)."
-},
-{
-    "question": "Which of the following is seen in patients with Marfan syndrome but not Ehlers Danlos syndrome?",
-    "choices": [
-        "Aortic root dilation",
-        "Brittle bones",
-        "Flexible joints",
-        "Lens dislocation",
-        "Stretchy skin"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is lens dislocation (D). It is a unique feature of Marfan syndrome. Aortic root dilatation (A) and flexible joints (C) are shared features of Marfan and EDS. Brittle bones (B) is seen in neither; it is a feature of osteogenesis imperfecta. Stretchy skin (E) is characteristic of EDS but not Marfan syndrome."
-},
-{
-    "question": "Abnormalities of which of the following is least likely in a patient with Ehlers-Danlos syndrome?",
-    "choices": [
-        "Collagen types I-V fibrils",
-        "Collagen III DNA",
-        "Collagen III posttranslational processing",
-        "Collagen V mRNA",
-        "Elastin"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is elastin (E). EDS is due to collagen type III or type V synthesis defects or instability, whereas Marfan syndrome is due to elastin defects. EDS defects can be in the collagen III or V (DNA) (B), in the mRNA resulting from the mutated gene (D), in posttranslational processing (C), or in the inability of the defective collagen V to form fibrils with collagen I (A)."
-},
-{
-    "question": "Which condition listed below is correlated with the correct gene mutation?",
-    "choices": [
-        "EDS, FBN1",
-        "EDS, TGF-β",
-        "Marfan, COL3A1",
-        "Marfan, COL5A1",
-        "Marfan, FBN1"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is Marfan, FBN1 (E). The FBN1 gene encodes a fibrillin molecule, which gives stability to tropoelastin during synthesis. It is not related to EDS pathophysiology (A). TGF-β expression (B) may be altered in Marfan syndrome not in EDS. COL3A1 (C) and COL5A1 (D) may be defective in EDS, not in Marfan syndrome."
-},
-{
-    "question": "A professional basketball player collapsed to the ground during a game and was found to have an enlarging aortic dissection. History revealed that his father died very young with similar symptoms. His genetic and clinical testing is consistent with Marfan syndrome. Which of the following findings would be least likely in this patient?",
-    "choices": [
-        "Dislocated eye lens",
-        "Long extremities",
-        "Long fingers",
-        "Intellectual disability",
-        "Tall stature"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is intellectual disability (D). Aortic dissection is a characteristic complication of Marfan syndrome. Lens dislocation (A), long extremities (B), long fingers (C), and tall stature (E) are all characteristics of Marfan syndrome. However, intellectual disability is not associated with it."
-},
-{
-    "question": "A patient presents to the clinic with persistent pain in her upper and lower left arm. Which of the following features would make a diagnosis of complex regional pain syndrome more likely?",
-    "choices": [
-        "Increased skin temperature on the left arm",
-        "Numbness in the right fingers",
-        "History of a recent myocardial infarction",
-        "History of low back pain",
-        "X-ray imaging showing osteoarthritis in the left shoulder and elbow"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is increased skin temperature on the left arm (A). A number of findings in the painful body area help make the diagnosis, including changes in pain sensitivity, increased sweating, edema, and skin or nail changes. Numbness (B) may occur, but this was on the right, which is not the involved extremity. A recent myocardial infarction (C) would not precipitate CRPS, because there should be trauma or injury to the involved body area (here the left upper extremity). A history of low back pain (D) is not relevant to the diagnosis. X-rays should not show a secondary cause of the pain such as osteoarthritis (E)."
-},
-{
-    "question": "Which of the following would most likely be seen with autonomic testing in a patient with complex regional pain syndrome?",
-    "choices": [
-      "A. Increased perspiration",
-      "B. Decreased deep tendon reflexes",
-      "C. Inflammation",
-      "D. Loss of pain sensitivity",
-      "E. Muscle weakness"
-    ],
-     "correctAnswer": 0,
-    "explanation": "The correct answer is increased perspiration (A). Autonomic testing in the painful region assesses autonomic responses in patients, which is often dysregulated in CRPS. These include skin blood flow, temperature, and perspiration. Increased perspiration is an effect that can be measured this way and is a diagnostic criterion for CRPS. Deep tendon reflexes (B), inflammation (C), pain sensitivity (D), and muscle strength (E) are not measured by autonomic testing."
-  },
-  {
-    "question": "Which of the following is seen in both fibromyalgia and CRPS?",
-    "choices": [
-      "A. Edema",
-      "B. Elevated C-reactive protein",
-      "C. Inflammation of muscle",
-      "D. Perspiration asymmetry",
-      "E. Weakness"
-    ],
-     "correctAnswer": 4,
-    "explanation": "The correct answer is weakness (E). Although the main commonality to the two disorders is muscle pain and tenderness, patients may also report areas of weakness. Edema (A) and perspiration asymmetry (D) are sudomotor symptoms seen only in CRPS. Elevated CRP (B) and inflammation of muscle (C) are seen in neither condition because neither is an inflammatory myopathy."
-  },
-{
-  "question": "Which movement would fail in a case of paralysis of the quadriceps femoris muscle?",
-  "choices": [
-    "A. Adduction at the hip",
-    "B. Extension at the hip",
-    "C. Extension at the knee",
-    "D. Flexion at the knee",
-    "E. Medial rotation at the knee"
-  ],
-   "correctAnswer": 2,
-  "explanation": "Quadriceps femoris extends the leg (rectus femoris and the vastus muscles) and helps flex the hip (rectus femoris). It is innervated by the femoral nerve, which is made from the contributions of L2, 3, and 4 in the lumbar plexus. If a patient could not adduct at the hip, the adductor muscles might be damaged. These are supplied by the obturator nerve, which also comes from L2, 3, and 4 in the lumbar plexus. If a patient could not extend at the hip or flex the leg, the hamstring muscles might be damaged. These muscles are supplied by the tibial nerve, a branch of the sciatic nerve. If a patient could not rotate the knee medially, popliteus might be injured. This muscle, which is innervated by the tibial nerve, allows the knee to twist and unlock from a fully extended position, as in erect stance."
-},
-{
-  "question": "An elderly patient was found to have a hernial sac in the right femoral triangle and a marked weakness in adduction at the right hip joint. Which nerve was likely compressed by this herniation?",
-  "choices": [
-    "A. Femoral",
-    "B. Inferior gluteal",
-    "C. Obturator",
-    "D. Pudendal",
-    "E. Sciatic"
-  ],
-   "correctAnswer": 2,
-  "explanation": "Use the defect in motion, not the location of the injury, to answer questions like this one! It's true that the femoral nerve is in the femoral triangle, so you might want to jump to that answer. However, an injury to the femoral nerve would not cause problems with adduction. Instead, the patient would have problems extending her knee. The nerve which supplies the adductor compartment is the obturator nerve, so that must be the structure that was injured. Although the obturator nerve is not in the femoral triangle, it enters the thigh by passing through the obturator canal and under pectineus, part of the floor of the femoral triangle. So, it could be injured by an obturator hernia passing through the obturator canal. The inferior gluteal nerve passes through the greater sciatic foramen inferior to the piriformis muscle--it innervates gluteus maximus. The pudendal nerve supplies muscles and skin in the perineum. The sciatic nerve has no direct muscular branches. It does, however have two important branches that supply many muscles: the tibial and common fibular nerves. The tibial nerve supplies the posterior (hamstrings) compartment of the thigh and the posterior compartment of the leg. Branches of the common fibular nerve supply the lateral and anterior compartments of the leg. There would be a major motor deficit if the sciatic nerve was injured."
-},
-{
-      "question": "Inability to extend the knee and loss of cutaneous sensation over the anterior surface of the thigh may indicate a lesion or compression of the:",
-      "choices": [
-        "A: Superior gluteal nerve",
-        "B: Lateral femoral cutaneous nerve",
-        "C: Sciatic nerve",
-        "D: Femoral nerve",
-        "E: Obturator nerve"
-      ],
-       "correctAnswer": 3,
-      "explanation": "The femoral nerve innervates the quadriceps, which are the muscles that extend the knee. It also provides cutaneous innervation to the anterior thigh and medial leg. This means that the symptoms here fit with an injury to the femoral nerve. The superior gluteal nerve supplies gluteus minimus and medius--two muscles that are important abductors of the hip. These muscles stabilize the pelvis when walking. The lateral femoral cutaneous nerve is a sensory nerve only--if this nerve was injured, the patient would have a loss of sensation over the lateral thigh but no motor weakness. The sciatic nerve is found in the posterior thigh--it does not innervate any muscles directly, but its branches do: the common fibular and tibial nerve. If the sciatic was damaged and these two branches were lost, there would be severe motor and sensory deficits throughout the posterior thigh and the leg and foot. The obturator nerve innervates the medial compartment of the thigh--an injury to this nerve would cause weakness in adduction and medial rotation."
-    },
-    {
-      "question": "During a surgical procedure in which the lower abdominal wall has been opened, the retractor blades damaged a nerve lying between the iliacus and psoas major muscles. The patient has weakened hip flexion and an inability to extend the knee, as well as analgesia on the anterior thigh and medial leg. What nerve has been compressed?",
-      "choices": [
-        "A: Obturator",
-        "B: Femoral",
-        "C: Sciatic",
-        "D: Tibial",
-        "E: Common fibular (peroneal)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The femoral nerve lies between the iliacus and psoas major muscles. So, if a surgeon pulls these muscles apart with a retractor, the femoral nerve can be easily injured. This patient's symptoms match with an injury to the femoral nerve. Because the quadriceps are denervated, they cannot extend her knee. The femoral nerve also innervates hip flexors like pectineus, rectus femoris, part of iliopsoas, and sartorius. With these muscles denervated, she can't flex her hip well. Finally, consider cutaneous innervation--the anterior cutaneous branches of the femoral nerve supply cutaneous sensation to the anterior thigh, and the saphenous nerve (which is a branch of the femoral nerve) supplies cutaneous sensation to the medial leg. This is exactly where they are experiencing analgesia. So, everything here points to a femoral nerve injury."
-    },
-{
-  "question": "A 3-year-old child presents to the pediatrician for a routine checkup. On examination, the child is observed to have a knock-knee appearance with knees angled towards each other. Which of the following statements is most accurate regarding this finding?",
-  "choices": [
-    "The child has Genu varum, a condition that is normal between ages 1-2.",
-    "The child has Genu valgum, a condition that is normal between ages 2-4.",
-    "The child has Genu varum, associated with an increased Q-angle.",
-    "The child has Genu valgum, which requires surgical intervention at this age.",
-    "The child has a normal Q-angle, indicating no knee deformity."
-  ],
-  "correctAnswer": 1,
-  "explanation": "The correct answer is that the child has Genu valgum, a condition that is normal between ages 2-4. Genu valgum, or knock-knee, is commonly observed in children within this age range and is typically a self-correcting condition. It is associated with an increased Q-angle. Genu varum, or bow-legs, which is normal between ages 1-2, is associated with a decreased Q-angle. Both conditions usually resolve as the child grows, and surgical intervention is rarely needed unless the deformity persists beyond the typical age range."
+    "explanation": "The correct answer is Piriformis and superior gemellus (E). This patient has signs of sciatica, including radiating pain from the lower back and buttock down the leg. Sciatica is caused by inflammation or compression of the sciatic nerve, which passes between the piriformis and superior gemellus muscles as it leaves the pelvis."
 }
 ]
