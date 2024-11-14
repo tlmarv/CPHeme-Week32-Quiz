@@ -1027,29 +1027,7 @@
         "correctAnswer": 1,
         "explanation": "CPT II deficiency presents with exercise intolerance and myoglobinuria, with characteristic elevations of long-chain acylcarnitines due to impaired fatty acid oxidation."
     },
-    {
-        "question": "A muscle biopsy from a patient with exercise intolerance and muscle weakness reveals ragged red fibers. Which of the following conditions is most likely?",
-        "choices": [
-            "Mitochondrial myopathy",
-            "Pompe disease",
-            "Tarui disease",
-            "Glycogen storage disease type V"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Ragged red fibers are a hallmark of mitochondrial myopathies, which indicate mitochondrial abnormalities in muscle tissue."
-    },
-    {
-        "question": "A young patient is diagnosed with MERRF (Myoclonic Epilepsy with Ragged Red Fibers). Which genetic mutation is most commonly associated with this disorder?",
-        "choices": [
-            "m.8993T>G",
-            "m.3243A>G",
-            "m.8344A>G",
-            "m.11778G>A"
-        ],
-        "correctAnswer": 2,
-        "explanation": "MERRF is associated with the m.8344A>G mutation in mitochondrial DNA, which disrupts mitochondrial protein synthesis and function."
-    },
-    {
+       {
         "question": "Which of the following statements about heteroplasmy in mitochondrial disorders is correct?",
         "choices": [
             "Heteroplasmy involves mutations in only nuclear DNA.",
@@ -1083,15 +1061,15 @@
         "explanation": "VLCAD deficiency affects long-chain fatty acid oxidation, leading to hypoketotic hypoglycemia, muscle weakness, and cardiomyopathy."
     },
     {
-        "question": "A patient with MELAS syndrome is found to have a high lactate level and intermittent stroke-like episodes. Which mutation is most commonly associated with this condition?",
+        "question": "A patient is found to have a high lactate level, hearing loss, muscle weakness, and intermittent stroke-like episodes. Which disease is most commonly associated with these symptoms?",
         "choices": [
-            "m.3243A>G",
-            "m.8993T>G",
-            "m.8344A>G",
-            "m.11778G>A"
+            "MELAS",
+            "NARP",
+            "MERRF”,
+            "KSS"
         ],
         "correctAnswer": 0,
-        "explanation": "MELAS syndrome is most often associated with the m.3243A>G mutation, affecting mitochondrial tRNA, which impairs energy production and causes lactic acidosis."
+        "explanation": "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes (MELAS) is characterized by stroke-like episodes, seizures, lactic acidosis, and ragged-red fibers on musclebiopsy. It can involve the central nervous system and various tissues. Myoclonic Epilepsy with Ragged-Red Fibers (MERRF) is characterized by myoclonic epilepsy, ataxia, and ragged-red fibers. Kearns-Sayre Syndrome is characterized by progressive external ophthalmoplegia, pigmentary retinopathy, and heart block. While it can have multisystem involvement, including cardiac and neurological symptoms, the presence of basal ganglia lesions and seizures is not typical. The first symptom of this disease is a unilateral, that gradually progresses to a bilateral ptosis."
     },
     {
         "question": "Kearns-Sayre syndrome is characterized by all of the following EXCEPT:",
@@ -1138,16 +1116,17 @@
         "explanation": "Tarui disease (glycogen storage disease type VII) is caused by a phosphofructokinase deficiency, affecting glycolysis and leading to exercise intolerance and myalgia."
     },
     {
-        "question": "A patient with MERRF syndrome is found to have myoclonus, epilepsy, and ragged red fibers on muscle biopsy. What is the most common mutation associated with MERRF?",
-        "choices": [
-            "m.8993T>G",
-            "m.3243A>G",
-            "m.8344A>G",
-            "m.11778G>A"
-        ],
-        "correctAnswer": 2,
-        "explanation": "MERRF syndrome is associated with the m.8344A>G mutation in mitochondrial DNA, which impairs mitochondrial function and leads to muscle pathology."
-    },
+    "question": "A 14-year-old girl is brought to the clinic due to progressive muscle weakness, involuntary muscle jerks, and frequent falls. She has a history of seizures and is noted to have short stature and hearing loss. Physical examination reveals signs of ataxia. A muscle biopsy shows ragged red fibers. Which of the following is the most likely diagnosis?",
+    "choices": [
+        "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes (MELAS)",
+        "Myoclonic Epilepsy with Ragged-Red Fibers (MERRF)",
+        "Leigh Syndrome",
+        "Kearns-Sayre Syndrome",
+        "Freidreich Ataxia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is Myoclonic Epilepsy with Ragged-Red Fibers (MERRF) (B). MERRF is characterized by myoclonic epilepsy, muscle weakness, ataxia, and ragged-red fibers on muscle biopsy. Additional findings can include hearing loss, short stature, and visual disturbances. Although MELAS also involves seizures and ragged-red fibers, it is more associated with stroke-like episodes and lactic acidosis rather than myoclonus and ataxia, which are typical of MERRF."
+},
     {
         "question": "Which of the following best explains why patients with fatty acid oxidation disorders, such as CPT II deficiency, should avoid prolonged fasting?",
         "choices": [
@@ -1596,5 +1575,117 @@
     ],
     "correctAnswer": 4,
     "explanation": "The correct answer is Piriformis and superior gemellus (E). This patient has signs of sciatica, including radiating pain from the lower back and buttock down the leg. Sciatica is caused by inflammation or compression of the sciatic nerve, which passes between the piriformis and superior gemellus muscles as it leaves the pelvis."
-}
-]
+},
+{
+    "question": "Which of the following clinical presentations would you least expect to see in a patient with compartment syndrome?",
+    "choices": [
+        "Burning pain",
+        "Inability to move the affected extremity",
+        "Joint stiffness",
+        "Loss of peripheral pulse",
+        "Tingling sensation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is joint stiffness (C). All choices but C are symptoms common to compartment syndrome (recall the five Ps). Increased interstitial pressure causing compression of blood vessels supplying the muscles, resulting in burning pain (A) is the most common. Inability to move the affected extremity (B) describes paralysis, loss of peripheral pulse (D) describes pulselessness, and tingling sensation (E) describes paresthesia. In contrast, joint stiffness is a more common symptom of arthritis."
+},
+{
+    "question": "A 20-year-old man is rushed to the hospital following a collision while ice skating, after which he was unable to move his left leg. In the emergency department, he is diagnosed with a left tibial fracture and sent home with a cast. The next day, the patient returns to the emergency department describing worsening pain in his left leg that does not improve when he takes ibuprofen. The pain is so excruciating that he vomits when his lower left leg is touched. On physical examination, the physician notes that the patient's left leg is white and there are no left foot or ankle pulses. Which of the following is the most appropriate treatment for the patient’s condition?",
+    "choices": [
+        "Fasciotomy",
+        "IV fluids",
+        "Oxygen and analgesics",
+        "Physical therapy",
+        "Surgical removal of abnormal bony growth"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is fasciotomy (A). The patient is likely experiencing compartment syndrome after a long bone fracture, based on the history and findings of paleness and pulselessness in the same extremity. The definitive treatment is fasciotomy. Oxygen and analgesics (C) may be used as an adjunctive therapy, but given that the patient is presenting with a rather severe case (and is already displaying signs of pallor and pulselessness) and is unresponsive to ibuprofen, emergency fasciotomy is indicated. IV fluids (B) are an appropriate treatment for rhabdomyolysis. Physical therapy (D) and surgical removal of abnormal bony growth (E) are suitable treatments for myositis ossificans."
+},
+{
+    "question": "A 26-year-old woman comes to the physician because of painful paresthesia in her right foot. Examination shows decreased sensation in the first interdigital space and a hallux valgus deformity. This patient's paresthesia is most likely caused by compression of which of the following nerves?",
+    "choices": [
+        "Superficial fibular nerve",
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Sural nerve",
+        "Saphenous nerve",
+        "Medial plantar nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is the deep fibular nerve. The deep fibular nerve provides sensory innervation to the skin between the first two toes. It also provides motor innervation to the muscles of the anterior compartment of the leg (e.g., tibialis anterior, extensor hallucis longus, extensor digitorum longus), which dorsiflex the toes and ankle joint. Injury to this nerve can result in a high-stepping gait. Deep fibular nerve compression can be caused by tight-fitting shoes, which are suggested by this patient's hallux valgus deformity (bunion). It may also occur following trauma, especially navicular fracture."
+},
+{
+    "question": "A 51-year-old woman with hyperlipidemia comes to the physician because of weakness for one month. At the end of the day, she feels too fatigued to cook dinner or carry a laundry basket up the stairs. She also complains of double vision after she reads for long periods of time. All of her symptoms improve with rest. Her only medication is pravastatin. Physical examination shows drooping of the upper eyelids. Strength is initially 5/5 in the upper and lower extremities but decreases to 4/5 after a few minutes of sustained resistance. Sensation to light touch is intact and deep tendon reflexes are normal. Which of the following best describes the pathogenesis of this patient's condition?",
+    "choices": [
+        "Type II hypersensitivity reaction",
+        "Peripheral nerve demyelination",
+        "Impaired acetylcholine release",
+        "Adverse drug effect",
+        "Anterior horn cell destruction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is type II hypersensitivity reaction (A). In myasthenia gravis, autoantibodies bind to post-synaptic acetylcholine receptors (AChR) at the neuromuscular junction, resulting in the inhibition of these receptors and impairing the process of neuromuscular transmission. This autoimmune, antibody-mediated cellular dysfunction is a hallmark of type II hypersensitivity reactions. Other examples include Graves disease and pemphigus vulgaris."
+},
+{
+    "question": "An 18-year-old male military cadet comes to the physician because of bilateral lower extremity pain that began shortly after enlisting 5 months ago. The patient describes the pain as a dull ache most notable during his daily training routine. The pain used to dissipate while training, but now resolves slowly with rest. The pain does not interfere with his daily non-exertional activities, including ambulating. Medical history is otherwise unremarkable. Physical examination reveals diffuse tenderness along the medial border of the distal lower extremities. There is no lower extremity warmth, swelling, or overlying skin changes. Muscle strength in the lower extremity is normal. Pedal pulses are intact. Which of the following is the most likely diagnosis?",
+    "choices": [
+        "Popliteal artery entrapment",
+        "Chronic exertional compartment syndrome",
+        "Common fibular neuropathy",
+        "Medial tibial stress syndrome",
+        "Tibial stress fracture"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is medial tibial stress syndrome (MTSS) (D). MTSS, also known as 'shin splints,' is characterized by lower extremity pain that occurs in individuals who have recently increased their physical activity levels. The pain is typically described as a bilateral dull ache that arises during intense physical activity and may initially dissipate during continued exercise but gradually worsens over time, eventually requiring rest for relief. Physical examination usually reveals diffuse tenderness along the medial border of the tibia without associated warmth, swelling, or skin changes. The diagnosis is clinical, and management includes reducing the patient's overall running mileage."
+},
+{
+    "question": [
+        {
+            "question": "A 13-year-old girl is brought to the physician by her father because of a 1-month history of pain in her right knee. She is a competitive volleyball player and has missed several games recently due to pain. Examination shows swelling distal to the right knee joint on the anterior surface of the proximal tibia; there is no overlying warmth or deformity. Extension of the right knee against resistance is painful. Which of the following structures is attached to the affected anterior tibial area?",
+            "choices": [
+                "Anterior cruciate ligament",
+                "Patellar ligament",
+                "Quadriceps tendon",
+                "Iliotibial band",
+                "Pes anserinus tendon"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The correct answer is patellar ligament (B). The patellar ligament connects the patella to the tibial tuberosity and allows for full extension of the knee via the quadriceps muscle. Osgood-Schlatter disease arises due to overuse of the quadriceps muscle during a period of growth (adolescence), which puts excessive strain on the attachment of the patellar ligament at the tibial tuberosity, resulting in painful inflammation and avascular necrosis. Patients present with pain during quadriceps contraction."
+        },
+        {
+            "question": "A 40-year-old woman is brought to the emergency department after falling down the stairs in her house. She began taking levofloxacin 4 days ago for community-acquired pneumonia and takes no other medications. Physical examination shows severe tenderness, swelling, erythema, and decreased range of motion of her left ankle joint. An MRI of her left ankle shows a partial tear in the anterior talofibular ligament and a complete tear in the tendon of the muscle that originates from the lower two-thirds of the fibula's lateral surface and inserts onto the base of the fifth metatarsal bone. The affected muscle normally aids in which of the following foot movements?",
+            "choices": [
+                "Lateral rotation",
+                "Eversion",
+                "Dorsiflexion",
+                "Inversion",
+                "Medial rotation"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The correct answer is eversion (B). The peroneus brevis muscle, located in the lateral compartment of the leg, is primarily responsible for eversion of the foot and assists in plantarflexion of the foot. Injury manifests primarily with impaired foot eversion while plantarflexion may be normal or weak. Rupture of the tendon is an uncommon severe complication of fluoroquinolones (e.g., levofloxacin), particularly in older patients."
+        },
+        {
+            "question": "A 53-year-old man comes to the physician because of a 3-month history of cough and progressively worsening difficulty walking up the stairs in his apartment. He has noticed that it is easier for him to climb the stairs after he has exercised. He has also had a 4.6-kg (10-lb) weight loss over the past 6 months. He has smoked one pack of cigarettes daily for 35 years. Examination shows dry mucous membranes. The pupils are equal and react sluggishly to light. Muscle strength in the proximal lower extremity is initially 3/5 but increases to 5/5 after repeated muscle tapping. His Achilles reflex is 1+. Which of the following is the most likely diagnosis?",
+            "choices": [
+                "Amyotrophic lateral sclerosis",
+                "Polymyalgia rheumatica",
+                "Myasthenia gravis",
+                "Dermatomyositis",
+                "Hypothyroidism",
+                "Lambert-Eaton syndrome"
+            ],
+            "correctAnswer": 5,
+            "explanation": "The correct answer is Lambert-Eaton syndrome (F). Lambert-Eaton myasthenic syndrome (LEMS), which is associated with small-cell lung cancer in two-thirds of cases, is caused by circulating autoantibodies that block presynaptic voltage-gated calcium channels (anti-VGCC antibodies) at the neuromuscular junction. This blockage impairs acetylcholine (ACh) release, which leads to reduced or absent deep tendon reflexes and proximal muscle weakness; the latter improves during exercise as repetitive nerve stimulation increases the amount of ACh in the synaptic cleft. Patients with LEMS may also develop symptoms of autonomic dysfunction such as dry mouth, constipation, or impotence."
+        },
+        {
+            "question": "A 62-year-old woman is brought to the physician because of 6 months of progressive weakness in her arms and legs. During this time, she has also had difficulty swallowing and holding her head up. Examination shows pooling of oral secretions. Muscle strength and tone are decreased in the upper extremities. Deep tendon reflexes are 1+ in the right upper and lower extremities, 3+ in the left upper extremity, and 4+ in the left lower extremity. Sensation to light touch, pinprick, and vibration are intact. Which of the following is the most likely diagnosis?",
+            "choices": [
+                "Amyotrophic lateral sclerosis",
+                "Guillain-Barré syndrome",
+                "Syringomyelia",
+                "Myasthenia gravis",
+                "Spinal muscular atrophy"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The correct answer is amyotrophic lateral sclerosis (A). Amyotrophic lateral sclerosis (ALS) typically presents between 50–70 years of age with progressively worsening features of both upper motor neuron damage (hyperreflexia, increased muscle tone, Babinski sign) and lower motor neuron damage (hyporeflexia, decreased muscle tone, atrophy), as seen in this patient. While dysphagia from bulbar atrophy is present in approximately 20% of patients at disease onset, it is most often a late clinical feature and suggests a poor prognosis."
+        }
+    ]
