@@ -1,5 +1,5 @@
 [
-{
+    {
     "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
         "Synovial sarcoma is categorized under lipogenic tumors.",
@@ -19,1228 +19,848 @@
         "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
         "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
     "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 45-year-old man presents with a slow-growing, painless mass in the subcutaneous tissue of his upper arm. Histology reveals circumscribed yellow greasy tissue composed of benign adipocytes. What is the most likely diagnosis?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Fibromatosis",
-        "Liposarcoma",
-        "Lipoma",
-        "Leiomyoma"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "The clinical and histologic findings are characteristic of a lipoma, a benign tumor of mature adipocytes."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which subtype of liposarcoma is associated with the best prognosis?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Myxoid liposarcoma",
-        "Dedifferentiated liposarcoma",
-        "Pleomorphic liposarcoma",
-        "Well-differentiated liposarcoma"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 3,
-    "explanation": "Well-differentiated liposarcomas are typically low-grade with a better prognosis compared to other subtypes."
-},
-{
-    "question": "Desmoid tumors are associated with mutations in which of the following pathways?",
-    "choices": [
-        "RAS/MAPK",
-        "APC/β-catenin",
-        "TP53",
-        "BCR-ABL"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Desmoid tumors, also called fibromatosis, are linked to mutations in the APC/β-catenin pathway."
-},
-{
-    "question": "Leiomyomas most commonly arise in which of the following tissues?",
-    "choices": [
-        "Retroperitoneum",
-        "Subcutaneous tissue",
-        "Uterus",
-        "Head and neck"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Leiomyomas are benign smooth muscle tumors that are most commonly found in the uterus."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which subtype of rhabdomyosarcoma is associated with a worse prognosis due to frequent alveolar patterns?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Embryonal",
-        "Alveolar",
-        "Pleomorphic",
-        "Botryoid"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Alveolar rhabdomyosarcoma has a worse prognosis due to its aggressive nature and association with FOXO1 translocation."
-},
-{
-    "question": "A 30-year-old man presents with a deep-seated, painful mass in the thigh. Biopsy reveals biphasic histology with spindle cells and epithelial components. What translocation is most commonly associated with this tumor?",
-    "choices": [
-        "t(12;21)",
-        "t(X;18)",
-        "t(14;18)",
-        "t(9;22)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Synovial sarcoma is characterized by the t(X;18) translocation, which fuses SS18 with SSX genes."
-},
-{
-    "question": "Which of the following histologic features is most suggestive of leiomyosarcoma?",
-    "choices": [
-        "Bland spindle cells with low mitotic activity",
-        "Necrosis and mitotic figures >10/10 HPF",
-        "Dense collagen bundles and lack of atypia",
-        "Adipocyte-like cells with fibrous septa"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Leiomyosarcoma is a high-grade malignant smooth muscle tumor showing marked atypia, necrosis, and high mitotic activity."
-},
-{
-    "question": "Cardiac rhabdomyomas are most commonly associated with which genetic syndrome?",
-    "choices": [
-        "Li-Fraumeni syndrome",
-        "Tuberous sclerosis",
-        "Neurofibromatosis type 1",
-        "von Hippel-Lindau disease"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cardiac rhabdomyomas are strongly associated with tuberous sclerosis, a genetic disorder involving TSC1 or TSC2 mutations."
-},
-{
-    "question": "Undifferentiated soft tissue sarcoma is most likely to metastasize to which of the following sites?",
-    "choices": [
-        "Brain",
-        "Bone",
-        "Liver",
-        "Lungs"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Soft tissue sarcomas, including undifferentiated ones, most commonly metastasize hematogenously to the lungs."
-},
-{
-    "question": "On imaging, which of the following is most suggestive of a liposarcoma rather than a lipoma?",
-    "choices": [
-        "Well-defined, homogeneous fat density",
-        "Deep location and presence of fibrous septa",
-        "Subcutaneous location and small size",
-        "Presence of calcifications"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Liposarcomas often appear as deep-seated lesions with fibrous septa, distinguishing them from benign lipomas."
-},
-{
-    "question": "The FNCLCC grading system for soft tissue sarcomas is based on all of the following criteria EXCEPT:",
-    "choices": [
-        "Mitotic rate",
-        "Tumor size",
-        "Presence of necrosis",
-        "Degree of differentiation"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Tumor size is a staging criterion but is not included in the FNCLCC grading system, which assesses histologic features."
-},
-{
-    "question": "Synovial sarcoma is most likely to metastasize via which pathway?",
-    "choices": [
-        "Lymphatic spread to regional nodes",
-        "Hematogenous spread to the lungs",
-        "Direct extension to adjacent tissues",
-        "Perineural invasion"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Synovial sarcomas typically metastasize hematogenously, most often to the lungs."
-},
-{
-    "question": "Which histological feature best describes fibromatosis?",
-    "choices": [
-        "Highly cellular tumor with pleomorphic spindle cells",
-        "Dense collagenous stroma with bland spindle cells",
-        "Epithelioid cells with vesicular nuclei and prominent nucleoli",
-        "Myxoid stroma with lipoblasts"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Fibromatosis is characterized by bland spindle cells within a dense collagenous matrix, without atypia."
-},
-{
-    "question": "Which of the following represents the standard treatment for a high-grade soft tissue sarcoma of the extremities?",
-    "choices": [
-        "Radiation alone",
-        "Chemotherapy alone",
-        "Surgery with adjuvant radiation",
-        "Immunotherapy"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "The standard treatment for high-grade soft tissue sarcomas includes surgery with adjuvant radiation to minimize local recurrence."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "What feature distinguishes woven bone from lamellar bone under a microscope?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "High vascularity in woven bone",
-        "Organized collagen fibers in woven bone",
-        "Disorganized collagen fibers in woven bone",
-        "Absence of osteoblasts in woven bone"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Woven bone has irregularly arranged collagen fibers, while lamellar bone has organized collagen fibers."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which of the following bone tumors is classified as intermediate in the WHO 2020 classification?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Osteochondroma",
-        "Chondrosarcoma",
-        "Giant cell tumor",
-        "Osteosarcoma"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Giant cell tumor is an intermediate tumor that is locally aggressive but rarely metastasizes."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 16-year-old boy presents with night pain in his right tibia that is relieved by NSAIDs. Imaging reveals a <2 cm lesion with a radiolucent nidus surrounded by sclerosis. What is the most likely diagnosis?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Osteochondroma",
-        "Osteoid osteoma",
-        "Osteosarcoma",
-        "Enchondroma"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "The characteristic presentation of night pain relieved by NSAIDs and imaging findings are classic for osteoid osteoma."
-},
-{
-    "question": "Which histologic feature is pathognomonic for osteosarcoma?",
-    "choices": [
-        "Spindle cells forming cartilage",
-        "Anaplastic cells producing osteoid",
-        "Fibrous stroma with multinucleated giant cells",
-        "Sheets of round cells with EWSR1 translocation"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Osteosarcoma is defined by malignant cells directly producing immature bone (osteoid)."
-},
-{
-    "question": "Which of the following is a significant risk factor for secondary osteosarcoma?",
-    "choices": [
-        "EXT1 gene mutation",
-        "Paget disease of bone",
-        "McCune-Albright syndrome",
-        "RANK ligand overexpression"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Paget disease increases the risk of secondary osteosarcoma in older adults."
-},
-{
-    "question": "Osteochondromas are associated with mutations in which genes?",
-    "choices": [
-        "EXT1 and EXT2",
-        "IDH1 and IDH2",
-        "RANK and RANKL",
-        "EWSR1 and FLI1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Mutations in EXT1 or EXT2 disrupt chondrocyte differentiation, leading to osteochondroma."
-},
-{
-    "question": "Which of the following bones is most commonly affected by enchondromas?",
-    "choices": [
-        "Femur",
-        "Pelvis",
-        "Tibia",
-        "Hands"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Enchondromas frequently occur in small bones, particularly the hands and feet."
-},
-{
-    "question": "What radiologic finding is most characteristic of chondrosarcoma?",
-    "choices": [
-        "Soap-bubble appearance",
-        "Ground glass opacity",
-        "Osteolytic lesion with calcifications",
-        "Onion-skin periosteal reaction"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Chondrosarcoma often presents with irregular lytic lesions containing calcifications."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which syndrome is associated with fibrous dysplasia, café-au-lait spots, and precocious puberty?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Li-Fraumeni syndrome",
-        "McCune-Albright syndrome",
-        "Paget disease of bone",
-        "Gardner syndrome"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "This triad is characteristic of McCune-Albright syndrome."
-},
-{
-    "question": "A 25-year-old woman presents with knee pain. Imaging shows an epiphyseal lesion with a soap-bubble appearance. What is the most likely diagnosis?",
-    "choices": [
-        "Chondrosarcoma",
-        "Osteosarcoma",
-        "Giant cell tumor of bone",
-        "Ewing sarcoma"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "The epiphyseal location and soap-bubble appearance are typical for giant cell tumor."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which of the following treatments is used for giant cell tumors of bone?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "NSAIDs",
-        "Denosumab",
-        "Chemotherapy",
-        "Radiation"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Denosumab, a RANK ligand inhibitor, reduces osteoclast activity in giant cell tumors."
-},
-{
-    "question": "Ewing sarcoma is associated with which genetic translocation?",
-    "choices": [
-        "t(11;22)",
-        "t(14;18)",
-        "t(8;14)",
-        "t(9;22)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ewing sarcoma is defined by the EWSR1-FLI1 fusion caused by t(11;22)."
-},
-{
-    "question": "A 14-year-old boy presents with a painful swelling in his femur. Imaging reveals a diaphyseal lesion with onion-skin periosteal reaction. What is the most likely diagnosis?",
-    "choices": [
-        "Osteosarcoma",
-        "Ewing sarcoma",
-        "Chondrosarcoma",
-        "Fibrous dysplasia"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The onion-skin periosteal reaction and diaphyseal location are classic for Ewing sarcoma."
-},
-{
-    "question": "Which bone tumor is most likely to exhibit pain relief with NSAIDs?",
-    "choices": [
-        "Osteoid osteoma",
-        "Ewing sarcoma",
-        "Chondrosarcoma",
-        "Giant cell tumor"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Osteoid osteoma pain is prostaglandin-mediated and responds well to NSAIDs."
-},
-{
-    "question": "In which age group are primary malignant bone tumors most common?",
-    "choices": [
-        "<10 years",
-        "10–30 years",
-        "30–50 years",
-        ">50 years"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Osteosarcoma and Ewing sarcoma predominantly occur in adolescents and young adults."
-}, 
-{
-    "question": "A 51-year-old man has noted constant, dull right hip pain for the past 3 months. On physical examination, he has diminished range of motion of the right hip. A radiograph reveals a 10 x 13 cm mass involving the right ischium of the pelvis. The mass has irregular borders and there are extensive areas of bony destruction along with some scattered calcifications. The lesion is resected, and grossly the mass has a bluish-white cut surface. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Osteosarcoma",
-        "Enchondroma",
-        "Osteoblastoma",
-        "Chondrosarcoma",
-        "Paget sarcoma"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Chondrosarcomas are malignant cartilage-forming tumors that are often large, show irregular borders with bony destruction, and have characteristic bluish-white cut surfaces. They frequently present with pain and are more common in older adults."
-},
-{
-    "question": "An 11-year-old boy has pain in his left leg that has persisted for 3 weeks. On physical examination, his temperature is 37.9°C. A radiograph of the leg reveals a mass in the diaphyseal region of the left femur with overlying cortical erosion and soft tissue extension. A bone biopsy is performed, and the lesion on microscopic examination shows numerous small round blue cells. Karyotypic analysis of these cells shows t(11;22). Which of the following neoplasms is he most likely to have?",
-    "choices": [
-        "Ewing sarcoma",
-        "Medulloblastoma",
-        "Neuroblastoma",
-        "Chondroblastoma",
-        "Osteoblastoma"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A 'small round blue cell' tumor involving bone is Ewing sarcoma, a form of primitive neuroectodermal tumor (PNET), commonly seen at this age and in the diaphyseal region of bone."
-},
-{
-    "question": "A 16-year-old boy has noted pain in his left knee after each hockey practice session for the past month. On examination, there is tenderness to palpation of his left knee, with reduced range of motion. A plain film radiograph of the left leg reveals a mass of the proximal tibial metaphysis that erodes bone cortex, lifting up the periosteum where reactive new bone is apparent. The mass does not extend into the epiphyseal region. A bone biopsy is performed and microscopic examination shows atypical, elongated cells with hyperchromatic nuclei in an osteoid stroma. Which of the following neoplasms is he most likely to have?",
-    "choices": [
-        "Ewing sarcoma",
-        "Osteosarcoma",
-        "Chondrosarcoma",
-        "Multiple myeloma",
-        "Metastatic seminoma"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Osteoid production is characteristic for osteosarcoma. The location about the knee is common. Most osteosarcomas arise in the metaphyseal region of long bones. Overall, malignancies are uncommon in children, but osteosarcoma is one of the most common malignancies at this age."
-},
-{
-    "question": "A 23-year-old man notes some minor discomfort over the lateral aspect of his right knee after a day working in a cramped cubicle (because IT put the 'desktop' workstation on the floor). On physical examination, he has a palpable 'bump' in this region. A radiograph of the knee reveals a lateral bony projection from the lower femoral metaphysis. There is no adjacent soft tissue swelling. The lesion is excised and is composed of a 3 cm stalk of bony cortex capped by cartilage. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Osteochondroma",
-        "Giant cell tumor",
-        "Aneurysmal bone cyst",
-        "Osteoid osteoma",
-        "Enchondroma"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Osteochondroma is a benign cartilage-capped bony projection, often arising from the metaphysis of long bones. It is the most common benign bone tumor and typically presents as a painless bump unless irritated by surrounding structures."
-},
-{
-    "question": "An 11-year-old boy has complained of pain in the region of the right upper thigh for 2 weeks. This pain is worse at night and is relieved by aspirin. On physical examination, no abnormal findings are noted. A radiograph of his right leg reveals a small lucent area in the proximal femoral cortex surrounded by sclerotic bone. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Enchondroma",
-        "Multiple myeloma",
-        "Eosinophilic granuloma",
-        "Osteoid osteoma",
-        "Osteochondroma",
-        "Ewing sarcoma"
-    ],
-    "correctAnswer": 3,
-    "explanation": "An osteoid osteoma has a central nidus with surrounding sclerotic bone. This lesion can be very painful due to the release of prostaglandins, which is blocked by aspirin, providing pain relief."
-},
-{
-    "question": "A 49-year-old woman has noted increasing difficulty with movement of her left hand for the past 2 years. On examination, she cannot completely extend the left middle finger. In the palm of her hand at the base of this finger, there is an ill-defined mass that is very firm to palpation. What will microscopic examination of this excised mass most likely show?",
-    "choices": [
-        "Fibromatosis",
-        "Rhabdomyosarcoma",
-        "Granulomatous inflammation",
-        "Dystrophic calcification",
-        "Giant cell tumor of tendon sheath"
-    ],
-    "correctAnswer": 0,
-    "explanation": "This is a so-called Dupuytren contracture due to a palmar fibromatosis. The etiology is obscure. The lesion is histologically benign, but it has ill-defined borders that complicate resection and makes recurrence possible. In addition to surgery, injection of collagenase is a possible mode of treatment."
-},
-{
-    "question": "A 30-year-old man has pain about his left knee that has been worsening 'for weeks.' On physical examination, the left knee appears larger than the right, and there is tenderness to palpation. A radiograph reveals a 7 cm lytic lesion involving the epiphyseal region of the distal femur with a 'soap bubble' appearance. The lesion is curetted, and histologically there are numerous multinucleated cells in a stroma with plump to spindle-shaped mononuclear cells. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Osteosarcoma",
-        "Chondrosarcoma",
-        "Pleomorphic sarcoma",
-        "Giant cell tumor",
-        "Tuberculosis"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Giant cell tumor of bone typically arises in the epiphyseal region, often presenting with a lytic lesion that appears as a 'soap bubble' on imaging. Histology confirms the presence of multinucleated giant cells in a background of mononuclear stromal cells."
-},
-{
-    "question": "A 30-year-old man has pain about his left knee that has been worsening 'for weeks.' On physical examination, the left knee appears larger than the right, and there is tenderness to palpation. A radiograph reveals a 7 cm lytic lesion involving the epiphyseal region of the distal femur with a 'soap bubble' appearance. The lesion is curetted, and histologically there are numerous multinucleated cells in a stroma with plump to spindle-shaped mononuclear cells. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Osteosarcoma",
-        "Chondrosarcoma",
-        "Pleomorphic sarcoma",
-        "Giant cell tumor",
-        "Tuberculosis"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A giant cell tumor of bone typically arises in the epiphysis in an adult, usually about the knee. The soap bubble appearance on radiographs and the characteristic histology with multinucleated giant cells in a spindle-cell stroma confirm the diagnosis."
-},
-{
-    "question": "A 14-year-old boy is brought to the physician by his mother because of a 1-month history of pain in his right leg. His mother has been giving him ketorolac at night to improve his sleep, but the pain has not improved. Physical examination shows marked tenderness along the right mid-femur. An x-ray of the right lower extremity shows several lytic lesions in the diaphysis of the femur and a surrounding cortex covered by several layers of new bone. A biopsy of the right femur shows small round blue cells. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Ewing sarcoma",
-        "Chondroblastoma",
-        "Osteochondroma",
-        "Osteosarcoma",
-        "Chondrosarcoma",
-        "Osteoid osteoma"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ewing sarcoma typically occurs in patients <20 years of age and involves the diaphysis of long bones. X-ray reveals tumors with multiple lytic lesions, often extending into surrounding soft tissue, and an aggressive lamellated periosteal reaction. A biopsy demonstrates small blue cells with a high nuclear-cytoplasmic ratio. The t(11;22) chromosomal translocation is found in approximately 90% of cases."
-},
-{
-    "question": "An 11-year-old boy is brought to the physician by his parents because of a 2-month history of progressive swelling of his right upper arm. He has otherwise been healthy. Medical history is unremarkable, and he takes no medications. Immunizations are up-to-date. He appears well-nourished and well-developed. He is at the 60th percentile for height and weight. Vital signs are within normal limits. Physical examination shows an immobile mass on the right proximal humerus that is nontender to palpation. Erythrocyte sedimentation rate is 10 mm/h, and alkaline phosphatase is 35 U/L. An x-ray shows a 3-cm sessile bony protrusion with a cartilage cap on the proximal metaphysis of the right humerus. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Chondrosarcoma",
-        "Osteoid osteoma",
-        "Ewing sarcoma",
-        "Osteosarcoma",
-        "Osteochondroma",
-        "Chondroblastoma"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Osteochondroma, which develops in the metaphysis of long bones (e.g., proximal humerus, distal femur), is the most common benign bone tumor. Characteristic radiographic findings include a pedunculated or sessile bony protrusion with a cartilage cap. Osteochondromas have a peak incidence between 10 and 30 years of age and most commonly affect males."
-},
-{
-    "question": "A 15-year-old boy is brought to the physician because of progressive left leg pain for the past 2 months. The pain is worse while running and at night. Examination of the left leg shows swelling and tenderness proximal to the knee. Laboratory studies show an alkaline phosphatase level of 200 U/L. An x-ray of the left leg shows sclerosis, cortical destruction, and new bone formation in the soft tissues around the distal femur. There are multiple spicules radiating perpendicular to the bone. This patient's malignancy is most likely derived from cells in which of the following structures?",
-    "choices": [
-        "Periosteum",
-        "Bone marrow",
-        "Cartilage",
-        "Epiphyseal plate",
-        "Neural crest"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Osteosarcomas are caused by malignant osteoblasts that arise from mesenchymal stem cells located within the periosteum. Malignant osteoblast activity leads to increased production of osteoid matrix and formation of poorly organized bone networks. Osteosarcomas can destroy nearby structures, causing periosteal reactions that manifest as a Codman triangle and/or sunburst appearance on imaging."
-},
-{
-    "question": "Which of the following is a benign bone tumor?",
-    "choices": [
-        "Ewing sarcoma",
-        "Exostosis",
-        "Osteoid osteoma",
-        "Osteophyte",
-        "Osteosarcoma"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "The correct answer is osteoid osteoma. This is a benign primary bone tumor that forms osteoid and bone in the long bones. Exostosis and osteophyte are non-neoplastic bony outgrowths that cause 'spurs' and can be painful, especially on weight-bearing surfaces. Ewing sarcoma and osteosarcoma are malignant primary bone tumors."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which of the following bone tumors is most common?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Bone metastases from prostate cancer",
-        "Ewing sarcoma",
-        "Osteoblastoma",
-        "Osteoid osteoma",
-        "Osteosarcoma"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is bone metastasis from prostate cancer. Secondary (metastatic) cancers of the bone are more common than any of the primary bone tumors. Ewing sarcoma is a rare malignant bone cancer seen in boys younger than 15 years. Osteoblastomas and osteoid osteomas are benign primary bone tumors. Osteosarcomas are uncommon malignant primary bone tumors."
-},
-{
-    "question": "Which of the following is most diagnostic of osteosarcoma on an x-ray?",
-    "choices": [
-        "Bony exostosis with cartilaginous cap",
-        "Onion-skin periosteal reaction",
-        "Small tumor with well-defined margins",
-        "Sunburst pattern with a Codman triangle"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is sunburst pattern with a Codman triangle. Osteosarcomas appear as a sunburst pattern with a Codman triangle due to elevation of the periosteum, leading to a triangular appearance on x-ray. A bony exostosis with cartilaginous cap is seen in an osteochondroma. Onion-skin periosteal reaction is observed in a Ewing sarcoma. A small tumor with well-defined margins represents an osteoid osteoma."
-},
-{
-    "question": "A 50-year-old man presents to his doctor because of dull pain on his left inner thigh that has been increasing in severity over the past 6 months. The pain is exacerbated by pressure and movement. A pelvic and thigh x-ray reveals normal bone but reveals a soft-tissue mass on the inner edge of his left femur. A magnetic resonance imaging scan shows the mass to be approximately 9 × 9 × 5 cm in size, and pathologic analysis shows features of malignant cells. What is the most likely diagnosis?",
-    "choices": [
-        "Leiomyoma",
-        "Lipoma",
-        "Liposarcoma",
-        "Rhabdomyoma",
-        "Rhabdomyosarcoma"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "The correct answer is liposarcoma. Liposarcomas are malignant tumors of adipose tissue that can cause large masses in deep soft tissue. They are rare but are the most common type of malignant sarcoma. Leiomyomas are benign tumors of smooth muscle and are most often found in the abdominal region. Lipomas are benign, usually closer to the skin, and normally smaller in size. None of the three types of rhabdomyoma are malignant. Rhabdomyosarcomas most often occur in children and typically involve the head, neck, extremities, and genitourinary regions."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 60-year-old woman presents to the emergency department with abdominal pain and abnormal bleeding from the vagina. The patient reports that she is postmenopausal and is experiencing increased frequency of constipation and urination. A computed tomography scan reveals a mass in the uterus. Surgery was performed to remove the mass, and a specimen was viewed under the microscope. Histology revealed pleomorphic smooth muscle cells, with irregular mitotic spindles. What is the most likely diagnosis?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Leiomyoma",
-        "Leiomyosarcoma",
-        "Liposarcoma",
-        "Rhabdomyoma",
-        "Rhabdomyosarcoma"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is leiomyosarcoma. Both leiomyomas and leiomyosarcomas can appear in the uterus and cause similar symptoms. Constipation and frequent urination are due to the compression of the tumor against the bowels and bladder. However, the histology reveals pleomorphic smooth muscle cells with irregular mitotic spindles, which is consistent with leiomyosarcoma. Liposarcomas arise from adipose tissue, while rhabdomyomas and rhabdomyosarcomas arise from skeletal muscle cells."
-},
-{
-    "question": "A 12-year-old boy with a known family history of tuberous sclerosis complex presents to his physician with chest pain, breathing difficulties, and dizziness. An echocardiogram shows a mass in his left atrium. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Leiomyoma",
-        "Leiomyosarcoma",
-        "Myxoma",
-        "Rhabdomyoma",
-        "Rhabdomyosarcoma"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is rhabdomyoma. Tuberous sclerosis complex (TSC) is a genetic condition that causes benign tumors to grow in the kidneys, heart, brain, liver, and other organs. It is frequently associated with cardiac rhabdomyomas, which can cause pain and breathing difficulties due to mass effect and disturbed blood flow. Dizziness may result from decreased blood flow or arrhythmias. Leiomyomas and leiomyosarcomas arise from smooth muscle and would not present with the patient's symptoms. Myxomas arise from primitive connective tissue and are most common in adults. Rhabdomyosarcomas are not associated with TSC and are usually found in the head, neck, extremities, and genitourinary tract."
-},
-{
-    "question": "A 17-year-old boy comes to the clinic for pain above his right knee for the past few months. The pain is worse at night and anti-inflammatory medications have not provided symptomatic relief. His family history includes an ocular cancer in his younger sister. On physical examination, there is a localized swelling above the knee and his right knee is tender to palpation. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "B-cell acute lymphoblastic leukemia",
-        "Chondrosarcoma",
-        "Ewing sarcoma",
-        "Osteochondroma",
-        "Osteosarcoma"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is osteosarcoma. Osteosarcoma should be considered in teenagers with localized swelling and pain at the metaphyseal region of long bones. It is associated with a predisposition for malignancy, especially in the setting of a family history of cancer."
-},
-{
-    "question": "A 30-year-old woman comes to the physician because of severe left knee pain that has persisted for the past several months. There is no history of trauma to the knee. Physical examination of the left knee reveals a tender effusion. X-ray reveals a lesion at the distal femoral epiphysis. The lesion is expansile, osteolytic, and radiolucent with a nonsclerotic, sharply defined border. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Chondrosarcoma",
-        "Ewing sarcoma",
-        "Giant cell tumor",
-        "Osteochondroma",
-        "Osteosarcoma"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Giant cell tumors most frequently occur at the epiphyseal end of a long bone and most commonly in women age 20 to 40 years old. The classic radiologic findings are 'soap bubble' lesions at the epiphyses of long bones."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 32-year-old nulligravid woman comes to the gynecologist for her annual well-woman checkup. On examination, there is an enlarged, firm, and nodular mass in her abdomen. She mentions feeling a sense of fullness in her lower abdomen and occasional urinary frequency but no other symptoms. The diagnosis is confirmed by transabdominal ultrasonography. Which of the following uterine abnormalities is the most likely cause of her condition?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Benign neoplastic growth of endometrial cells",
-        "Benign neoplastic growth of myocytes",
-        "Invasion of endometrial glandular cells into the myometrium",
-        "Malignant neoplastic growth of endometrial cells",
-        "Malignant neoplastic growth of myocytes"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is benign neoplastic growth of myocytes. Uterine fibroids (leiomyomas) result from benign growth of myocytes within the uterus. Most patients are asymptomatic and present with an enlarged, firm uterus with an irregular contour. When fibroids enlarge, they can cause heavy uterine bleeding, pain, increased urinary frequency, or pelvic pressure."
-},
-{
-    "question": "A 45-year-old woman is admitted to the hospital for chest pain. During her hospitalization, she is prescribed a medication she is allergic to, resulting in an anaphylactic reaction. What is the approximate annual number of deaths in the United States attributed to preventable medical errors, according to recent estimates?",
-    "choices": [
-        "50,000–100,000",
-        "100,000–200,000",
-        "210,000–400,000",
-        "Over 500,000"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Recent estimates suggest that preventable medical errors account for 210,000 to 400,000 deaths annually in the United States."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which of the following practices is most effective in reducing surgical errors, such as wrong-site surgeries?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Increased supervision of surgical trainees",
-        "Marking the surgical site and using 'time-outs'",
-        "Performing detailed preoperative imaging",
-        "Using high-dose prophylactic antibiotics"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Marking the surgical site and conducting 'time-outs' before procedures are proven methods to prevent wrong-site surgeries."
-},
-{
-    "question": "After a patient experiences an adverse event due to a medication error, which of the following is most desired by patients and their families?",
-    "choices": [
-        "A written explanation of the event without verbal interaction",
-        "Financial compensation without acknowledgment of fault",
-        "Acknowledgment of the error, an apology, and an explanation of corrective steps",
-        "Avoidance of discussing the event to prevent additional emotional harm"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Patients and their families often want acknowledgment of the error, an explanation of what happened, and steps to prevent recurrence, along with an apology."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "What is a key component of a good apology to a patient and their family after a medical error?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Providing clear facts and describing the next steps to prevent recurrence",
-        "Apologizing immediately after the error occurs, regardless of clarity of facts",
-        "Avoiding technical language and refraining from discussing next steps",
-        "Providing a written apology to avoid emotional confrontations"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 0,
-    "explanation": "A good apology includes clear facts about the event, an expression of empathy, and a discussion of steps to prevent recurrence."
-},
-{
-    "question": "Which of the following is a common cause of medical errors in healthcare settings?",
-    "choices": [
-        "Over-reliance on advanced diagnostic technology",
-        "Interruptions and multitasking during clinical tasks",
-        "Excessive use of evidence-based practice guidelines",
-        "Lack of hierarchical structure in healthcare teams"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Interruptions and multitasking are frequent contributors to errors by creating distractions that disrupt workflow and decision-making."
-},
-{
-    "question": "Which high-risk discipline is often cited as a model for creating safer systems in healthcare to reduce errors?",
-    "choices": [
-        "Military combat operations",
-        "Civil engineering",
-        "Airline industry",
-        "Information technology"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "The airline industry is often referenced for its implementation of safety protocols, teamwork, and error prevention strategies that are applicable to healthcare."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A mother is upset after her child experienced an adverse reaction due to a delayed diagnosis. What is the most professional way to handle the situation?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Provide detailed, technical explanations to demonstrate competence",
-        "Acknowledge her concerns, provide an apology, and outline corrective measures",
-        "Focus on justifying the actions of the healthcare team to mitigate potential litigation",
-        "Reassure her without discussing the error to avoid escalating the situation"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Acknowledging concerns, offering an apology, and outlining corrective steps align with best practices for addressing medical errors with empathy and professionalism."
-},
-{
-    "question": "When apologizing to a patient for a medical error, it is important to:",
-    "choices": [
-        "Focus only on facts and avoid expressing emotions",
-        "Offer empathy, admit the error, and express regret",
-        "Avoid detailed explanations to minimize liability risk",
-        "Ensure the patient signs a consent form for the discussion"
-    ],
-    "correctAnswer": 1,
-    "explanation": "An effective apology includes expressing empathy, admitting the error, and showing personal regret, which helps build trust and facilitates resolution."
-},
-{
-    "question": "Which of the following statements about physical activity (PA) is TRUE?",
-    "choices": [
-        "Light physical activity corresponds to 3-6 METs.",
-        "Vigorous physical activity exceeds 6 METs.",
-        "Exercise is less effective than antiplatelets for stroke prevention.",
-        "Moderate physical activity increases ASCVD risk by 26%."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Vigorous physical activity exceeds 6 METs, such as jogging or singles tennis. Exercise has been shown to outperform medications like antiplatelets in stroke prevention and reduces ASCVD risk."
-},
-{
-    "question": "What impact does providing written educational materials about physical activity have on patient outcomes?",
-    "choices": [
-        "No significant impact on mortality",
-        "Reduces mortality by 10%",
-        "Reduces mortality by 25%",
-        "Increases adherence to dietary guidelines by 50%"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Physician-provided written advice on physical activity can reduce mortality by 25% by promoting sustained behavior changes."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which of the following is an effective component of treating depression and anxiety?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Vigorous aerobic exercise only",
-        "Yoga and mindfulness interventions",
-        "Resistance training alone",
-        "Group sports activities exclusively"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Yoga and mindfulness-based interventions show positive effects on depression and anxiety, either as monotherapy or adjunctive therapy."
-},
-{
-    "question": "For patients with osteoarthritis, which exercise strategy has the highest strength of evidence for improving pain and function?",
-    "choices": [
-        "Low-impact aerobic and strengthening exercises",
-        "High-intensity resistance training exclusively",
-        "Vigorous interval running",
-        "Flexibility exercises only"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Low-impact aerobic and strengthening exercises, whether in group or home-based formats, are highly effective for reducing pain and improving function in osteoarthritis."
-},
-{
-    "question": "What is the recommended volume of physical activity for reducing cardiovascular disease risk?",
-    "choices": [
-        "At least 75 MET-hours per week",
-        "50 MET-hours per week with a 26% reduction in CHD",
-        "10 MET-hours per week with a 42% reduction in CHD",
-        "No specific volume as CVD risk reduction is independent of exercise"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A 50 MET-hour per week increase in physical activity is associated with a 26% reduction in coronary heart disease (CHD) risk."
-},
-{
-    "question": "When prescribing exercise for a sedentary patient with osteoarthritis, what is the recommended intensity of aerobic activity?",
-    "choices": [
-        "20-30% of age-predicted maximum heart rate",
-        "40-60% of age-predicted maximum heart rate",
-        "70-80% of age-predicted maximum heart rate",
-        "Maximum effort regardless of age"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Moderate-intensity aerobic exercise, at 40-60% of the age-predicted maximum heart rate, is safe and effective for osteoarthritis."
-},
-{
-    "question": "Which exercise mode is most effective for treating chronic low back pain according to a network meta-analysis?",
-    "choices": [
-        "Resistance training",
-        "Pilates",
-        "Aerobic exercises",
-        "Stretching"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Pilates has been shown to have superior effectiveness for managing pain and improving function in chronic low back pain."
-},
-{
-    "question": "In patients with cancer, which type of exercise is most effective for reducing cancer-related fatigue?",
-    "choices": [
-        "Resistance training targeting specific muscle groups",
-        "Aerobic exercise",
-        "High-intensity interval training",
-        "Low-intensity stretching"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Aerobic exercise has the best impact on reducing cancer-related fatigue, particularly during the survivorship phase."
-},
-{
-    "question": "What is a key consideration when progressing an exercise program for a patient with osteoarthritis?",
-    "choices": [
-        "Increase aerobic activity by 5-10 minutes weekly",
-        "Decrease resistance training as pain improves",
-        "Avoid warm-up and cool-down flexibility exercises",
-        "Ensure the patient exercises at high intensity to maximize results"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Gradually increasing aerobic activity by 5-10 minutes per week helps maintain adherence and avoid exacerbating pain."
-},
-{
-    "question": "Which of the following is TRUE regarding exercise for managing musculoskeletal pain?",
-    "choices": [
-        "Group exercises are less effective than home exercises for osteoarthritis.",
-        "Short-term pain relief is negligible with exercise in osteoarthritis.",
-        "Consistent physical activity substantially reduces the risk of chronic low back pain.",
-        "Pilates is contraindicated in patients with low back pain."
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Habitual physical activity significantly reduces the risk and recurrence of chronic low back pain. Both group and home exercises are equally effective for osteoarthritis management."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 78-year-old woman presents with recurrent falls. Physical examination reveals decreased grip strength and slow walking speed. She is diagnosed with sarcopenia. What is the primary mechanism by which sarcopenia increases the risk of fractures?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Decreased osteoblast activity",
-        "Loss of type II muscle fibers reducing muscle power",
-        "Elevated serum calcium leading to bone fragility",
-        "Increased adipose tissue infiltration in muscle reducing mobility"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Sarcopenia, characterized by the loss of type II muscle fibers, reduces muscle power (dynapenia) more than muscle mass, impairing balance and mobility and increasing fall risk."
-},
-{
-    "question": "A 65-year-old postmenopausal woman with a history of a wrist fracture has a DEXA T-score of -2.6. What additional tool can help predict her 10-year probability of a major osteoporotic fracture?",
-    "choices": [
-        "Berg Balance Scale",
-        "Short Physical Performance Battery (SPPB)",
-        "FRAX tool",
-        "Gait speed assessment"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "The FRAX tool calculates the 10-year probability of a major osteoporotic fracture by integrating clinical risk factors and, optionally, BMD at the femoral neck."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 70-year-old woman is prescribed a bisphosphonate for osteoporosis. Which of the following best explains the drug’s primary mechanism of action?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Enhances osteoblast activity",
-        "Inhibits osteoclast attachment to bone",
-        "Inhibits RANKL expression on osteoblasts",
-        "Promotes osteocyte survival"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Bisphosphonates inhibit bone resorption by interfering with osteoclast attachment to bone through prenylation inhibition."
-},
-{
-    "question": "Which of the following lifestyle interventions is most effective in reducing the risk of falls in older adults with sarcopenia?",
-    "choices": [
-        "Increasing protein intake alone",
-        "Performing balance and resistance training exercises",
-        "Taking daily calcium supplements",
-        "Using a daily pedometer to track steps"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Resistance and balance training improve muscle strength and neuromuscular function, reducing fall risk in sarcopenic patients."
-},
-{
-    "question": "Which of the following tests provides the most comprehensive assessment of sarcopenia-related functional deficits?",
-    "choices": [
-        "Berg Balance Scale",
-        "Timed Up and Go (TUG) test",
-        "Short Physical Performance Battery (SPPB)",
-        "Gait speed test"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "The SPPB assesses gait speed, balance, and chair stand tests, providing a composite measure of sarcopenia-related deficits."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 72-year-old man presents with a hip fracture after a fall. He reports smoking and low dairy intake. What modifiable risk factor should be prioritized to reduce his future fracture risk?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Calcium supplementation",
-        "Smoking cessation",
-        "High-impact exercises",
-        "Bisphosphonate therapy"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Smoking cessation is a critical modifiable risk factor for reducing fracture risk, as smoking decreases bone density and healing capacity."
-},
-{
-    "question": "Which osteoporosis treatment is contraindicated in a patient with hypercalcemia?",
-    "choices": [
-        "Bisphosphonates",
-        "Denosumab",
-        "Teriparatide",
-        "Raloxifene"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Teriparatide is contraindicated in hypercalcemia because it increases circulating calcium levels through its action on PTH receptors."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 75-year-old woman with osteopenia starts moderate resistance training. How does this intervention reduce her fracture risk?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Stimulates type II muscle fiber hypertrophy",
-        "Reduces serum calcium fluctuations",
-        "Decreases osteoclast activity directly",
-        "Enhances circulating calcitonin levels"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 0,
-    "explanation": "Resistance training stimulates hypertrophy of type II muscle fibers, improving strength and reducing falls, which indirectly lowers fracture risk."
-},
-{
-    "question": "Which DEXA T-score threshold defines osteoporosis and correlates with a high fracture risk?",
-    "choices": [
-        "> -1",
-        "Between -1 and -2.5",
-        "< -2.5",
-        "< -3.5"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Osteoporosis is defined by a T-score < -2.5, which is associated with significantly increased fracture risk."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A patient on denosumab therapy for osteoporosis presents with jaw pain. What is the most likely explanation for this symptom?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Opportunistic infection",
-        "Hypocalcemia",
-        "Osteonecrosis of the jaw",
-        "Increased RANKL activity"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Osteonecrosis of the jaw is a known adverse effect of denosumab therapy, particularly in patients undergoing invasive dental procedures."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which nutritional supplement is recommended alongside resistance training to maximize muscle strength gains in older adults?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Vitamin D",
-        "Creatine",
-        "Protein",
-        "Calcium"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Protein supplementation enhances muscle strength gains from resistance training in older adults."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Sarcopenia is more closely associated with which of the following outcomes in older adults?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Hypercalcemia",
-        "Increased fall risk due to loss of muscle power",
-        "Elevated bone density",
-        "Reduced serum creatine kinase"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Loss of muscle power (dynapenia) associated with sarcopenia directly increases fall risk."
-},
-{
-    "question": "Which of the following therapies both inhibits bone resorption and increases bone formation?",
-    "choices": [
-        "Raloxifene",
-        "Zoledronic acid",
-        "Romosozumab",
-        "Teriparatide"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Romosozumab inhibits sclerostin, promoting osteoblast survival and bone formation while inhibiting bone resorption."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 68-year-old man is advised to begin weight-bearing exercises to reduce his fracture risk. Which type of exercise is most beneficial for bone mineral density improvement?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Water aerobics",
-        "Cycling",
-        "Walking",
-        "Resistance band exercises"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Weight-bearing exercises like walking improve bone mineral density more effectively than non-weight-bearing activities."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "What is a key feature of the FRAX tool that differentiates it from other fracture risk assessments?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Focuses exclusively on BMD measurements",
-        "Calculates 10-year probabilities of major fractures",
-        "Uses qualitative assessments of bone health",
-        "Excludes modifiable risk factors"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "The FRAX tool integrates BMD and clinical risk factors to estimate the 10-year probability of hip or major osteoporotic fractures."
-},
-{
-    "question": "A 2-month-old infant presents with developmental dysplasia of the hip. What is the underlying anatomical abnormality, and what is the most effective treatment to prevent long-term complications?",
-    "choices": [
-        "Dislocation of the hip due to improper femur-acetabulum alignment; Pavlik harness",
-        "Delayed ossification of the acetabulum; surgical intervention after 6 months",
-        "Excessive femoral head angulation; physiotherapy only",
-        "Overgrowth of acetabular cartilage; corticosteroid injections"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Developmental dysplasia of the hip involves improper alignment of the femur with the acetabulum, leading to instability. The Pavlik harness can correct alignment in infants."
-},
-{
-    "question": "A 5-week-old embryo exhibits a failure of the vertebral arches to fuse. What clinical condition results, and what nutritional deficiency is most commonly associated?",
-    "choices": [
-        "Cervical rib; vitamin B12 deficiency",
-        "Spina bifida; folic acid deficiency",
-        "Hemivertebra; calcium deficiency",
-        "Klippel-Feil syndrome; vitamin D deficiency"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Spina bifida results from incomplete fusion of vertebral arches and is strongly associated with maternal folic acid deficiency."
-},
-{
-    "question": "In an experiment, the Zone of Polarizing Activity (ZPA) of a limb bud is duplicated. What is the most likely outcome?",
-    "choices": [
-        "Failure of limb bud outgrowth",
-        "Mirror image duplication of digits",
-        "Syndactyly due to failed apoptosis",
-        "Absent dorsal-ventral limb patterning"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Duplicating the ZPA alters Sonic Hedgehog (SHH) signaling, resulting in mirror-image digit formation."
-},
-{
-    "question": "A neonate presents with thoracic outlet syndrome due to an extra rib at C7. Which embryological structure is responsible for this abnormality?",
-    "choices": [
-        "Dermomyotome cells",
-        "Neural crest cells",
-        "Sclerotome cells of somites",
-        "Lateral plate mesoderm"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Cervical ribs originate from the costal processes of thoracic vertebrae, derived from sclerotome cells."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A neonate is diagnosed with brachydactyly characterized by shortened proximal phalanges. Which embryological process is disrupted?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Interdigital apoptosis",
-        "Chondrocyte proliferation",
-        "Joint patterning within mesenchymal condensations",
-        "Rotation of the limb bud"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Brachydactyly results from defects in joint morphogenesis, specifically within the mesenchymal condensations of the proximal phalanges."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "What gene is primarily responsible for establishing dorsoventral patterning of the limb bud, and what abnormality occurs if it is absent?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Sonic Hedgehog (SHH); polydactyly",
-        "Fibroblast Growth Factor (FGF); absent limb outgrowth",
-        "WNT7a; palmar pads on the dorsal surface",
-        "HOX genes; abnormal digit identity"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "WNT7a determines dorsoventral limb patterning. Without WNT7a, palmar pads form dorsally."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "During vertebral development, what is the fate of the notochord, and how does this influence intervertebral disc structure?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "It persists as vertebral bodies; provides structural support",
-        "It forms the nucleus pulposus; contributes to shock absorption",
-        "It disappears entirely; replaced by sclerotome cells",
-        "It remains segmented; forms the annulus fibrosus"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "The notochord forms the nucleus pulposus of the intervertebral disc, which absorbs mechanical stress."
-},
-{
-    "question": "A 2-week-old infant is diagnosed with talipes equinovarus (clubfoot). What is the best treatment approach, and which structure is primarily deformed?",
-    "choices": [
-        "Physiotherapy for metatarsals",
-        "Ponseti technique for tarsal bones",
-        "Surgical correction of tibial alignment",
-        "Splinting for malrotated calcaneus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Talipes equinovarus involves medial deviation of the talus and calcaneus. The Ponseti technique uses serial casting for correction."
-},
-{
-    "question": "What embryological process ensures the separation of digits during development, and what condition results from its failure?",
-    "choices": [
-        "Chondrification; brachydactyly",
-        "Apoptosis; syndactyly",
-        "HOX gene expression; polydactyly",
-        "SHH gradient; mirror-image digits"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Apoptosis of interdigital tissue is necessary for digit separation. Failure results in syndactyly."
-},
-{
-    "question": "A patient with a bifid xiphoid process is examined. Which embryological process is most likely disrupted?",
-    "choices": [
-        "Fusion of lateral plate mesoderm in the midline",
-        "Sclerotome segmentation around the notochord",
-        "Apoptosis of mesenchymal interzones",
-        "Cartilage formation in thoracic vertebrae"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The xiphoid process forms from lateral plate mesoderm bands, which fuse craniocaudally in the midline. Incomplete fusion leads to a bifid xiphoid."
-},
-{
-    "question": "A child presents with abnormal finger lengths and misplaced thumbs. Which gene family is most likely involved?",
-    "choices": [
-        "SHH",
-        "BMP",
-        "HOX",
-        "WNT"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "HOX genes regulate limb patterning and digit identity along the proximal-distal and anteroposterior axes."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "What is the final anatomical consequence of the 90-degree medial rotation of the lower limb during development?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Extensors are positioned posteriorly",
-        "Flexors lie anteriorly",
-        "Extensors lie laterally",
-        "Rotation alters the anteroposterior axis"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "The lower limb rotates medially, positioning flexor muscles posteriorly and extensor muscles anteriorly."
-},
-{
-    "question": "During the ossification of long bones, what is the primary function of the osteogenic bud?",
-    "choices": [
-        "Forms primary ossification centers",
-        "Secretes cartilage matrix",
-        "Invades calcified cartilage to deliver osteoblasts",
-        "Regulates mesenchymal condensation"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "The osteogenic bud invades calcified cartilage, bringing osteoblasts and initiating primary ossification."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 35-year-old woman sustains an inversion ankle injury while playing tennis. Physical examination reveals swelling and tenderness over the lateral aspect of the ankle. Which ligament is most likely injured, and what is its primary function?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Deltoid ligament; resists eversion forces",
-        "Anterior talofibular ligament (ATFL); resists inversion forces",
-        "Calcaneofibular ligament (CFL); resists lateral displacement of the fibula",
-        "Posterior talofibular ligament (PTFL); prevents posterior displacement of the talus"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "The ATFL is the most commonly injured ligament in inversion ankle sprains, resisting inversion and anterior displacement of the talus."
-},
-{
-    "question": "A patient presents with an ankle sprain showing significant swelling and tenderness with gross instability on examination. What is the correct grade for this sprain, and what does it indicate?",
-    "choices": [
-        "Grade 1; mild stretching of ligament fibers",
-        "Grade 2; partial tearing of ligament fibers",
-        "Grade 3; complete tear of ligament fibers",
-        "Grade 4; ligament avulsion"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Grade 3 sprains involve complete ligament tearing, leading to gross instability and significant tenderness and swelling."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 28-year-old male presents with an open tibial fracture following a motorcycle accident. What is the first step in managing this patient?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Perform closed reduction under sedation",
-        "Administer antibiotics and prepare for surgical debridement",
-        "Obtain a CT scan for detailed fracture assessment",
-        "Immobilize the leg and plan for delayed surgery"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Open fractures are orthopedic emergencies requiring prompt antibiotic administration and surgical debridement to prevent infection."
-},
-{
-    "question": "A 45-year-old male presents with a posterior shoulder dislocation. Which maneuver is the most appropriate initial treatment?",
-    "choices": [
-        "Surgical fixation",
-        "Reduction under sedation",
-        "Immobilization in a sling for 6 weeks",
-        "Corticosteroid injection to reduce swelling"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Joint dislocations should be reduced promptly under sedation to restore congruity and prevent further complications."
-},
-{
-    "question": "A 22-year-old male develops severe leg pain following a tibial fracture. Pain is worsened with passive stretching of the foot, and sensory deficits are noted in the affected limb. What is the next best step in management?",
-    "choices": [
-        "Obtain compartment pressure measurements",
-        "Start high-dose corticosteroids",
-        "Perform an emergent fasciotomy",
-        "Immobilize the limb with a splint"
-    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
     "correctAnswer": 2,
-    "explanation": "Compartment syndrome is a clinical diagnosis in the presence of severe pain, sensory changes, and passive stretch pain. Immediate fasciotomy is required to relieve pressure."
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which of the following explains the pathophysiology of compartment syndrome?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Increased intra-compartmental pressure surpasses venous pressure, leading to ischemia",
-        "Loss of arterial perfusion pressure causing muscle necrosis",
-        "Nerve compression due to direct trauma",
-        "Rapid fluid resorption into compartments"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 0,
-    "explanation": "In compartment syndrome, rising pressure within a fascial compartment reduces venous outflow, leading to ischemia and tissue necrosis."
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which of the following statements regarding lower extremity amputation is correct?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Transtibial amputation requires the highest energy expenditure for ambulation.",
-        "Knee disarticulation provides an end-bearing stump and longer lever arm than transfemoral amputation.",
-        "Transfemoral amputations result in fewer gait abnormalities compared to transtibial amputations.",
-        "Transfemoral amputation is associated with the lowest prosthetic fitting challenges."
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Knee disarticulation preserves a longer lever arm, which aids in biomechanics and allows for end-bearing."
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A patient is diagnosed with compartment syndrome of the leg. Which compartment is most commonly involved, and what structures are at risk?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Anterior; tibialis anterior muscle and deep peroneal nerve",
-        "Lateral; fibularis longus muscle and superficial peroneal nerve",
-        "Deep posterior; tibialis posterior muscle and tibial nerve",
-        "Superficial posterior; gastrocnemius muscle and sural nerve"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 0,
-    "explanation": "The anterior compartment is most commonly affected in compartment syndrome, with the tibialis anterior muscle and deep peroneal nerve at risk."
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A 35-year-old male sustains a vertical shear pelvic fracture. What is the primary source of life-threatening hemorrhage in such injuries?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Injury to the internal iliac artery",
-        "Sacral venous plexus disruption",
-        "Retroperitoneal arterial rupture",
-        "Avulsion of the obturator artery"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "The sacral venous plexus is the most common source of life-threatening bleeding in pelvic fractures."
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which technique is most effective in stabilizing hemodynamically unstable pelvic fractures during initial resuscitation?",
+      {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Pelvic binder centered over the iliac crest",
-        "Pelvic binder centered over the greater trochanter",
-        "Open external fixation",
-        "Circumferential pelvic packing"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Pelvic binders centered over the greater trochanter reduce pelvic volume and stabilize the clot, improving outcomes in hemodynamically unstable patients."
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which imaging modality is critical for preoperative planning in periarticular fractures?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Plain X-rays",
-        "CT scans with 3D reformats",
-        "MRI",
-        "Bone scintigraphy"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "CT scans with 3D reformats provide detailed views of periarticular fractures, aiding in surgical planning."
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "Which ligament is disrupted in an APC II pelvic fracture, and what is its functional significance?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Anterior sacroiliac ligament; stabilizes the pelvic ring",
-        "Posterior sacroiliac ligament; prevents vertical displacement",
-        "Sacrotuberous ligament; resists lateral compression",
-        "Iliofemoral ligament; supports hip stability"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 0,
-    "explanation": "APC II fractures involve disruption of the anterior sacroiliac ligament, compromising pelvic ring stability."
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "A patient with a traumatic below-knee amputation is being evaluated for prosthetic fitting. What factor is most important for optimal fitting?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Presence of sufficient posterior soft tissue coverage",
-        "Length of the femoral stump",
-        "Stability of the knee joint",
-        "Integrity of the lateral collateral ligament"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 0,
-    "explanation": "Adequate posterior soft tissue coverage is critical for transtibial amputations to ensure optimal prosthetic fitting."
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 },
-{
-    "question": "In patients with hemodynamically unstable pelvic fractures, what is the goal of using a circumferential pelvic sheet?",
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
     "choices": [
-        "Reduce arterial bleeding",
-        "Stabilize the clot and decrease pelvic volume",
-        "Increase retroperitoneal space",
-        "Correct pelvic misalignment"
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Circumferential pelvic sheets reduce pelvic volume, stabilizing the clot and controlling venous hemorrhage."
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
+},
+    {
+    "question": "According to the WHO 2020 classification, which of the following statements is TRUE about soft tissue sarcomas?",
+    "choices": [
+        "Synovial sarcoma is categorized under lipogenic tumors.",
+        "Leiomyoma is the most common malignant smooth muscle tumor.",
+        "Rhabdomyosarcoma is the most common soft tissue sarcoma in children.",
+        "Fibrosarcoma is classified as a benign fibroblastic tumor."
+    ],
+    "image": "https://tlmarv.github.io/MSK-Week18-Quiz/Rhabdomyosarcoma.jpg"
+    "correctAnswer": 2,
+    "explanation": "Rhabdomyosarcoma is the most common pediatric soft tissue sarcoma, particularly in head, neck, and genitourinary locations."
 }
 ]
