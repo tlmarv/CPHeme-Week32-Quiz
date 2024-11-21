@@ -56,6 +56,15 @@ function loadQuestion() {
     if (isExplanationShown) {
         nextButton.classList.remove("hidden");
     }
+
+     if (currentQuestion.image) {
+        const img = document.createElement("img");
+        img.src = currentQuestion.image; // Set the image source
+        img.alt = "Question Image"; // Add alt text for accessibility
+        img.style.maxWidth = "100%"; // Ensure the image is responsive
+        img.style.marginTop = "10px"; // Add some spacing
+        questionContainer.appendChild(img);
+    }
 }
 
 function selectAnswer(selectedIndex) {
