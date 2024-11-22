@@ -1232,18 +1232,6 @@
     "explanation": "Circumferential pelvic sheets reduce pelvic volume, stabilizing the clot and controlling venous hemorrhage."
 },
 {
-    "question": "A 9-year-old male presents with increasing pain in the left lower leg over the past 3 months, accompanied by a recent low-grade fever. On examination, there is swelling and localized tenderness. X-ray and biopsy images are shown below. What is the most likely diagnosis?\n\n![X-ray Image](file-EC62XZh0q49gVElEuYuB91S2)\n\n![Biopsy Image](file-ZIt7BJh6Rh4pXbFEmVNzA5CV)",
-    "choices": [
-        "Chondrosarcoma",
-        "Ewing's sarcoma",
-        "Osteoid osteoma",
-        "Osteomyelitis",
-        "Rhabdomyosarcoma"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ewing's sarcoma is a common bone tumor in children, often presenting with localized pain, swelling, and systemic symptoms like low-grade fever. The X-ray may show a characteristic 'onion skin' periosteal reaction, and histology reveals small round blue cells, as seen in the biopsy image."
-},
-{
     "question": "A 65-year-old woman comes to the clinic to discuss her risk of osteoporosis. She is worried because she has a family history of osteoporosis. Which of the following DEXA scan T-scores would indicate that she has osteoporosis?",
     "choices": [
         "T-score ≤ 2.5",
@@ -1252,17 +1240,6 @@
         "T-score ≥ −2.5"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is T-score ≤ −2.5 (B). Osteoporosis is diagnosed as having a DEXA T-score of less than or equal to −2.5, which suggests that an individual has a bone mineral density 2.5 standard deviations or more below the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≤ 2.5 (A) does not necessarily diagnose a patient as having osteoporosis because their bone mineral density could still be close to or above the average bone mineral density for a healthy individual of the same sex and ethnicity. On the other hand, a T-score ≥ 2.5 (C) actually suggests greater bone density than the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≥ −2.5 (D) could be suggestive of osteopenia, which is indicated by a T-score between −1.0 and −2.5.",
-},
-{
-    "question": "A 65-year-old woman comes to the clinic to discuss her risk of osteoporosis. She is worried because she has a family history of osteoporosis. Which of the following DEXA scan T-scores would indicate that she has osteoporosis?",
-    "choices": [
-        "T-score ≤ 2.5",
-        "T-score ≤ −2.5",
-        "T-score ≥ 2.5",
-        "T-score ≥ −2.5"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is T-score ≤ −2.5 (B). Osteoporosis is diagnosed as having a DEXA T-score of less than or equal to −2.5, which suggests that an individual has a bone mineral density 2.5 standard deviations or more below the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≤ 2.5 (A) does not necessarily diagnose a patient as having osteoporosis because their bone mineral density could still be close to or above the average bone mineral density for a healthy individual of the same sex and ethnicity. On the other hand, a T-score ≥ 2.5 (C) actually suggests greater bone density than the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≥ −2.5 (D) could be suggestive of osteopenia, which is indicated by a T-score between −1.0 and −2.5.",
+    "explanation": "The correct answer is T-score ≤ −2.5 (B). Osteoporosis is diagnosed as having a DEXA T-score of less than or equal to −2.5, which suggests that an individual has a bone mineral density 2.5 standard deviations or more below the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≤ 2.5 (A) does not necessarily diagnose a patient as having osteoporosis because their bone mineral density could still be close to or above the average bone mineral density for a healthy individual of the same sex and ethnicity. On the other hand, a T-score ≥ 2.5 (C) actually suggests greater bone density than the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≥ −2.5 (D) could be suggestive of osteopenia, which is indicated by a T-score between −1.0 and −2.5."
 }
 ]
