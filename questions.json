@@ -30,18 +30,18 @@
         "Well-differentiated liposarcoma"
     ],
     "correctAnswer": 3,
-    "explanation": "Well-differentiated liposarcomas are typically low-grade with a better prognosis compared to other subtypes."
+    "explanation": "Well-differentiated liposarcomas are typically low-grade with a better prognosis compared to other subtypes. MDM2 mutation"
 },
 {
     "question": "Desmoid tumors are associated with mutations in which of the following pathways?",
     "choices": [
-        "RAS/MAPK",
-        "APC/β-catenin",
-        "TP53",
-        "BCR-ABL"
+        "PAX3-FOXO",
+        "CTNNB1/β-catenin",
+        "FUS-DDIT3",
+        "SS18-SSX"
     ],
     "correctAnswer": 1,
-    "explanation": "Desmoid tumors, also called fibromatosis, are linked to mutations in the APC/β-catenin pathway."
+    "explanation": "Desmoid tumors, also called fibromatosis, are linked to mutations in the CTNNB1/β-catenin pathway. PAX3-FOXO t(2;13) correlates with alveolar rhabdomyosarcoma. FUS-DDIT3 t(12;16) correlates to Myoxoid liposarcomas. SS18-SSX t(X;18) correlates to synovial sarcoma"
 },
 {
     "question": "Leiomyomas most commonly arise in which of the following tissues?",
@@ -55,7 +55,7 @@
     "explanation": "Leiomyomas are benign smooth muscle tumors that are most commonly found in the uterus."
 },
 {
-    "question": "Which subtype of rhabdomyosarcoma is associated with a worse prognosis due to frequent alveolar patterns?",
+    "question": "Which subtype of rhabdomyosarcoma is associated with a worse prognosis due to frequent rounded cells, scant cytoplasm patterns?",
     "choices": [
         "Embryonal",
         "Alveolar",
@@ -63,7 +63,7 @@
         "Botryoid"
     ],
     "correctAnswer": 1,
-    "explanation": "Alveolar rhabdomyosarcoma has a worse prognosis due to its aggressive nature and association with FOXO1 translocation."
+    "explanation": "Alveolar rhabdomyosarcoma has a worse prognosis due to its aggressive nature and association with FOXO1 translocation. Always grade 3, typically found in young adults and in the deep thigh."
 },
 {
     "question": "A 30-year-old man presents with a deep-seated, painful mass in the thigh. Biopsy reveals biphasic histology with spindle cells and epithelial components. What translocation is most commonly associated with this tumor?",
@@ -99,17 +99,6 @@
     "explanation": "Cardiac rhabdomyomas are strongly associated with tuberous sclerosis, a genetic disorder involving TSC1 or TSC2 mutations."
 },
 {
-    "question": "Undifferentiated soft tissue sarcoma is most likely to metastasize to which of the following sites?",
-    "choices": [
-        "Brain",
-        "Bone",
-        "Liver",
-        "Lungs"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Soft tissue sarcomas, including undifferentiated ones, most commonly metastasize hematogenously to the lungs."
-},
-{
     "question": "On imaging, which of the following is most suggestive of a liposarcoma rather than a lipoma?",
     "choices": [
         "Well-defined, homogeneous fat density",
@@ -140,7 +129,7 @@
         "Perineural invasion"
     ],
     "correctAnswer": 1,
-    "explanation": "Synovial sarcomas typically metastasize hematogenously, most often to the lungs."
+    "explanation": "Synovial sarcomas typically metastasize hematogenously, most often to the lungs and bones. Will see spindle cells and glands in histology. "
 },
 {
     "question": "Which histological feature best describes fibromatosis?",
@@ -217,7 +206,7 @@
         "RANK ligand overexpression"
     ],
     "correctAnswer": 1,
-    "explanation": "Paget disease increases the risk of secondary osteosarcoma in older adults."
+    "explanation": "Paget disease increases the risk of secondary osteosarcoma in older adults. ALong with fibrous dysplasia and retinoblastoma (pre-existing) and radiation and bone infarct (acquired). "
 },
 {
     "question": "Osteochondromas are associated with mutations in which genes?",
@@ -250,18 +239,18 @@
         "Onion-skin periosteal reaction"
     ],
     "correctAnswer": 2,
-    "explanation": "Chondrosarcoma often presents with irregular lytic lesions containing calcifications."
+    "explanation": "Chondrosarcoma often presents with irregular lytic lesions containing calcifications. Treat with surgery (internal hemipelvectomy)"
 },
 {
-    "question": "Which syndrome is associated with fibrous dysplasia, café-au-lait spots, and precocious puberty?",
+    "question": "Which syndrome in peds is associated with deformity, café-au-lait spots, and precocious puberty?",
     "choices": [
-        "Li-Fraumeni syndrome",
-        "McCune-Albright syndrome",
-        "Paget disease of bone",
-        "Gardner syndrome"
+        "Mosostotic fibrous dysplasia",
+        "Endocrine polyostotic fibrous dysplasia",
+        "Non-endocrine polyostotic fibrous dysplasia",
+        "Desmoid tumor"
     ],
     "correctAnswer": 1,
-    "explanation": "This triad is characteristic of McCune-Albright syndrome."
+    "explanation": "This triad is characteristic of endocrine polyostotic fibrous dysplasia."
 },
 {
     "question": "A 25-year-old woman presents with knee pain. Imaging shows an epiphyseal lesion with a soap-bubble appearance. What is the most likely diagnosis?",
@@ -272,7 +261,7 @@
         "Ewing sarcoma"
     ],
     "correctAnswer": 2,
-    "explanation": "The epiphyseal location and soap-bubble appearance are typical for giant cell tumor."
+    "explanation": "The epiphyseal location and soap-bubble appearance are typical for giant cell tumor. It usually occurs in the epiphysis. It is a tender, warm benign tumor. Treat with Denosumab. Has a H3F3A gene mutation in 95% of cases."
 },
 {
     "question": "Which of the following treatments is used for giant cell tumors of bone?",
@@ -319,12 +308,12 @@
     "explanation": "Osteoid osteoma pain is prostaglandin-mediated and responds well to NSAIDs."
 },
 {
-    "question": "In which age group are primary malignant bone tumors most common?",
+    "question": "In which age group are ewing and osteosarcomas most common?",
     "choices": [
         "<10 years",
-        "10–30 years",
-        "30–50 years",
-        ">50 years"
+        "10–20 years",
+        "20–40 years",
+        ">40 years"
     ],
     "correctAnswer": 1,
     "explanation": "Osteosarcoma and Ewing sarcoma predominantly occur in adolescents and young adults."
@@ -579,8 +568,8 @@
         "210,000–400,000",
         "Over 500,000"
     ],
-    "correctAnswer": 2,
-    "explanation": "Recent estimates suggest that preventable medical errors account for 210,000 to 400,000 deaths annually in the United States."
+    "correctAnswer": 0,
+    "explanation": "According to a widely cited study by the Institute of Medicine, between 44,000 and 98,000 Americans die each year due to preventable medical errors in hospitals"
 },
 {
     "question": "Which of the following practices is most effective in reducing surgical errors, such as wrong-site surgeries?",
@@ -657,7 +646,7 @@
         "Ensure the patient signs a consent form for the discussion"
     ],
     "correctAnswer": 1,
-    "explanation": "An effective apology includes expressing empathy, admitting the error, and showing personal regret, which helps build trust and facilitates resolution."
+    "explanation": "An effective apology includes expressing empathy, admitting the error, and showing personal regret, which helps build trust and facilitates resolution. Remember, nice doctors get sued less. Make sure to wait until things are clearly an error."
 },
 {
     "question": "Which of the following statements about physical activity (PA) is TRUE?",
@@ -723,7 +712,7 @@
         "Maximum effort regardless of age"
     ],
     "correctAnswer": 1,
-    "explanation": "Moderate-intensity aerobic exercise, at 40-60% of the age-predicted maximum heart rate, is safe and effective for osteoarthritis."
+    "explanation": "Moderate-intensity aerobic exercise, at 40-60% of the age-predicted maximum heart rate, is safe and effective for osteoarthritis. In moderate exercise you can talk but not sing. Typically between 3-6 METs."
 },
 {
     "question": "Which exercise mode is most effective for treating chronic low back pain according to a network meta-analysis?",
@@ -767,7 +756,7 @@
         "Pilates is contraindicated in patients with low back pain."
     ],
     "correctAnswer": 2,
-    "explanation": "Habitual physical activity significantly reduces the risk and recurrence of chronic low back pain. Both group and home exercises are equally effective for osteoarthritis management."
+    "explanation": "Habitual physical activity significantly reduces the risk and recurrence of chronic low back pain. Both group and home exercises are equally effective for osteoarthritis management. Pilates is actually best by a long shot for non specific low back pain."
 },
 {
     "question": "A 78-year-old woman presents with recurrent falls. Physical examination reveals decreased grip strength and slow walking speed. She is diagnosed with sarcopenia. What is the primary mechanism by which sarcopenia increases the risk of fractures?",
@@ -800,7 +789,7 @@
         "Promotes osteocyte survival"
     ],
     "correctAnswer": 1,
-    "explanation": "Bisphosphonates inhibit bone resorption by interfering with osteoclast attachment to bone through prenylation inhibition."
+    "explanation": "Bisphosphonates inhibit bone resorption by interfering with osteoclast attachment to bone through prenylation inhibition. Prolia (denosumab) is the drug that inhibits RANKL (and also macrophages)."
 },
 {
     "question": "Which of the following lifestyle interventions is most effective in reducing the risk of falls in older adults with sarcopenia?",
@@ -812,17 +801,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Resistance and balance training improve muscle strength and neuromuscular function, reducing fall risk in sarcopenic patients."
-},
-{
-    "question": "Which of the following tests provides the most comprehensive assessment of sarcopenia-related functional deficits?",
-    "choices": [
-        "Berg Balance Scale",
-        "Timed Up and Go (TUG) test",
-        "Short Physical Performance Battery (SPPB)",
-        "Gait speed test"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The SPPB assesses gait speed, balance, and chair stand tests, providing a composite measure of sarcopenia-related deficits."
 },
 {
     "question": "A 72-year-old man presents with a hip fracture after a fall. He reports smoking and low dairy intake. What modifiable risk factor should be prioritized to reduce his future fracture risk?",
@@ -888,7 +866,7 @@
         "Calcium"
     ],
     "correctAnswer": 2,
-    "explanation": "Protein supplementation enhances muscle strength gains from resistance training in older adults."
+    "explanation": "Protein supplementation enhances muscle strength gains from resistance training in older adults. Calcium can increase risk of MI."
 },
 {
     "question": "Sarcopenia is more closely associated with which of the following outcomes in older adults?",
@@ -910,7 +888,7 @@
         "Teriparatide"
     ],
     "correctAnswer": 2,
-    "explanation": "Romosozumab inhibits sclerostin, promoting osteoblast survival and bone formation while inhibiting bone resorption."
+    "explanation": "Romosozumab inhibits sclerostin, promoting osteoblast survival and bone formation while inhibiting bone resorption. "
 },
 {
     "question": "A 68-year-old man is advised to begin weight-bearing exercises to reduce his fracture risk. Which type of exercise is most beneficial for bone mineral density improvement?",
@@ -998,7 +976,7 @@
         "HOX genes; abnormal digit identity"
     ],
     "correctAnswer": 2,
-    "explanation": "WNT7a determines dorsoventral limb patterning. Without WNT7a, palmar pads form dorsally."
+    "explanation": "WNT7a determines dorsoventral limb patterning. Without WNT7a, palmar pads form dorsally. Yes, this was in the handout."
 },
 {
     "question": "During vertebral development, what is the fate of the notochord, and how does this influence intervertebral disc structure?",
@@ -1010,17 +988,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "The notochord forms the nucleus pulposus of the intervertebral disc, which absorbs mechanical stress."
-},
-{
-    "question": "A 2-week-old infant is diagnosed with talipes equinovarus (clubfoot). What is the best treatment approach, and which structure is primarily deformed?",
-    "choices": [
-        "Physiotherapy for metatarsals",
-        "Ponseti technique for tarsal bones",
-        "Surgical correction of tibial alignment",
-        "Splinting for malrotated calcaneus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Talipes equinovarus involves medial deviation of the talus and calcaneus. The Ponseti technique uses serial casting for correction."
 },
 {
     "question": "What embryological process ensures the separation of digits during development, and what condition results from its failure?",
@@ -1045,21 +1012,10 @@
     "explanation": "The xiphoid process forms from lateral plate mesoderm bands, which fuse craniocaudally in the midline. Incomplete fusion leads to a bifid xiphoid."
 },
 {
-    "question": "A child presents with abnormal finger lengths and misplaced thumbs. Which gene family is most likely involved?",
-    "choices": [
-        "SHH",
-        "BMP",
-        "HOX",
-        "WNT"
-    ],
-    "correctAnswer": 2,
-    "explanation": "HOX genes regulate limb patterning and digit identity along the proximal-distal and anteroposterior axes."
-},
-{
     "question": "What is the final anatomical consequence of the 90-degree medial rotation of the lower limb during development?",
     "choices": [
         "Extensors are positioned posteriorly",
-        "Flexors lie anteriorly",
+        "Flexors lie posterior",
         "Extensors lie laterally",
         "Rotation alters the anteroposterior axis"
     ],
@@ -1100,17 +1056,6 @@
     "explanation": "Grade 3 sprains involve complete ligament tearing, leading to gross instability and significant tenderness and swelling."
 },
 {
-    "question": "A 28-year-old male presents with an open tibial fracture following a motorcycle accident. What is the first step in managing this patient?",
-    "choices": [
-        "Perform closed reduction under sedation",
-        "Administer antibiotics and prepare for surgical debridement",
-        "Obtain a CT scan for detailed fracture assessment",
-        "Immobilize the leg and plan for delayed surgery"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Open fractures are orthopedic emergencies requiring prompt antibiotic administration and surgical debridement to prevent infection."
-},
-{
     "question": "A 45-year-old male presents with a posterior shoulder dislocation. Which maneuver is the most appropriate initial treatment?",
     "choices": [
         "Surgical fixation",
@@ -1141,7 +1086,7 @@
         "Rapid fluid resorption into compartments"
     ],
     "correctAnswer": 0,
-    "explanation": "In compartment syndrome, rising pressure within a fascial compartment reduces venous outflow, leading to ischemia and tissue necrosis."
+    "explanation": "In compartment syndrome, rising pressure within a fascial compartment reduces venous outflow, leading to ischemia and tissue necrosis. Irreversible muscle/nerve damage after 6-8 hours"
 },
 {
     "question": "Which of the following statements regarding lower extremity amputation is correct?",
@@ -1207,7 +1152,7 @@
         "Iliofemoral ligament; supports hip stability"
     ],
     "correctAnswer": 0,
-    "explanation": "APC II fractures involve disruption of the anterior sacroiliac ligament, compromising pelvic ring stability."
+    "explanation": "APC II fractures involve disruption of the anterior sacroiliac ligament, compromising pelvic ring stability. Will also see a widening of over 2.5 cm in APC 2 and the posterior SI ligaments will be intact."
 },
 {
     "question": "A patient with a traumatic below-knee amputation is being evaluated for prosthetic fitting. What factor is most important for optimal fitting?",
@@ -1242,4 +1187,4 @@
     "correctAnswer": 1,
     "explanation": "The correct answer is T-score ≤ −2.5 (B). Osteoporosis is diagnosed as having a DEXA T-score of less than or equal to −2.5, which suggests that an individual has a bone mineral density 2.5 standard deviations or more below the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≤ 2.5 (A) does not necessarily diagnose a patient as having osteoporosis because their bone mineral density could still be close to or above the average bone mineral density for a healthy individual of the same sex and ethnicity. On the other hand, a T-score ≥ 2.5 (C) actually suggests greater bone density than the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≥ −2.5 (D) could be suggestive of osteopenia, which is indicated by a T-score between −1.0 and −2.5."
 }
-]
+    ]
