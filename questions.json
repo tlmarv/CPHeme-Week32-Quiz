@@ -2,9 +2,9 @@
     {
   "question": "A 67-year-old male with a 40-pack-year smoking history presents to the clinic with progressive shortness of breath and a chronic cough productive of clear sputum. His vital signs are within normal limits, and auscultation reveals prolonged expiratory phase with wheezing. Pulmonary function testing reveals the following: \n\n- FEV1: 45% of predicted \n- FVC: 80% of predicted \n- FEV1/FVC ratio: 55% \n\n(1) Based on these findings, what type of lung disease does this patient most likely have? \n\n(2) Compared to a normal flow-volume loop, which of the following changes in lung volume measurements is most expected in this patient?",
   "options": [
-    "Obstructive lung disease; Increased residual volume to approximately 4.0L"
-   "Restrictive lung disease; Decreased total lung capacity to approximately 3.0L"
-    "Obstructive lung disease; Decreased residual volume to approximately 1.0L"
+    "Obstructive lung disease; Increased residual volume to approximately 4.0L",
+   "Restrictive lung disease; Decreased total lung capacity to approximately 3.0L",
+    "Obstructive lung disease; Decreased residual volume to approximately 1.0L",
    "Restrictive lung disease; Increased total lung capacity to approximately 7.0L"
   ],
   "correct_answer": 0,
