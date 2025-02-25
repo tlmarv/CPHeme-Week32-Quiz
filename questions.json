@@ -8,7 +8,7 @@
    "Restrictive lung disease; Increased total lung capacity to approximately 7.0L"
   ],
  "image": "https://tlmarv.github.io/CPHeme-Week32-Quiz/FVL.jpg",
-        "correct_answer": 1,
+"correctAnswer": 0,
   "explanation": "This patient has obstructive lung disease, as indicated by the reduced FEV1/FVC ratio (<70%), consistent with diseases like COPD. In obstructive lung disease, air trapping leads to an increased residual volume (RV), often above 4.5L, as seen in the flow-volume loop where expiration is prolonged and the 'scooped-out' shape is present. In contrast, restrictive lung disease would present with a decreased total lung capacity (TLC) due to reduced lung compliance."
     },
     {
