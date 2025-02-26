@@ -1,6 +1,6 @@
 [
   {
-  "question": "A 67-year-old male with COPD presents to the clinic for PFT. Based on the image below, what is his change in TLC and resulting RV",
+  "question": "A 67-year-old male with COPD presents to the clinic for PFT. Based on the image below, what is his change in TLC and resulting RV compared to a patient without any lung disease.",
   "choices": [
     "TLC +2.5L, RV = 3.5L",
    "TLC -2.5L, RV = 0.5L",
