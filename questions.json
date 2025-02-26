@@ -1,6 +1,6 @@
 [
-    {
-  "question": "A 67-year-old male with a 40-pack-year smoking history presents to the clinic with progressive shortness of breath and a chronic cough productive of clear sputum. His vital signs are within normal limits, and auscultation reveals prolonged expiratory phase with wheezing. Pulmonary function testing reveals the following: \n\n- FEV1: 45% of predicted \n- FVC: 80% of predicted \n- FEV1/FVC ratio: 55% \n\n(1) Based on these findings, what type of lung disease does this patient most likely have? \n\n(2) Compared to a normal flow-volume loop, which of the following changes in lung volume measurements is most expected in this patient?",
+  {
+  "question": "A 67-year-old male with a 40-pack-year smoking history presents to the clinic with progressive shortness of breath and a chronic cough productive of clear sputum. His vital signs are within normal limits, and auscultation reveals prolonged expiratory phase with wheezing. Pulmonary function testing reveals the following: FEV1: 45% of predicted. FVC: 80% of predicted. FEV1/FVC ratio: 55% (1) Based on these findings, what type of lung disease does this patient most likely have? (2) Compared to a normal flow-volume loop, which of the following changes in lung volume measurements is most expected in this patient?",
   "choices": [
     "Obstructive lung disease; Increased residual volume to approximately 4.0L",
    "Restrictive lung disease; Decreased total lung capacity to approximately 3.0L",
@@ -11,7 +11,19 @@
 "correctAnswer": 0,
   "explanation": "This patient has obstructive lung disease, as indicated by the reduced FEV1/FVC ratio (<70%), consistent with diseases like COPD. In obstructive lung disease, air trapping leads to an increased residual volume (RV), often above 4.5L, as seen in the flow-volume loop where expiration is prolonged and the 'scooped-out' shape is present. In contrast, restrictive lung disease would present with a decreased total lung capacity (TLC) due to reduced lung compliance."
     },
-    {
+{
+    "question": "A patient is placed on supplemental oxygen, increasing their alveolar partial pressure of oxygen (PAO2) from 100 mmHg to 500 mmHg. Which of the following best describes how this change affects the amount of dissolved oxygen in plasma?",
+    "choices": [
+        "The amount of dissolved oxygen increases proportionally with the rise in PO2, leading to a large increase in oxygen content.",
+        "The increase in PO2 results in a small increase in dissolved oxygen, as most oxygen transport relies on hemoglobin binding.",
+        "The amount of dissolved oxygen remains unchanged regardless of PO2 due to oxygen saturation limits.",
+        "The oxygen content in plasma is determined solely by hemoglobin saturation, making PO2 irrelevant."
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to Henry's law, the amount of gas dissolved in a liquid is proportional to its partial pressure. However, since oxygen is poorly soluble in plasma, even a large increase in PO2 results in only a small increase in the amount of dissolved oxygen. Most oxygen transport occurs via hemoglobin binding, not dissolution in plasma."
+},    
+
+{
         "question": "A 65-year-old man with chronic obstructive pulmonary disease (COPD) presents with worsening dyspnea. Arterial blood gas analysis shows a PaO2 of 60 mmHg. Which of the following best describes the amount of oxygen dissolved in 100 mL of this patient's blood?",
         "choices": [
             "0.06 mL",
@@ -21,7 +33,7 @@
             "1.34 mL"
         ],
         "correctAnswer": 1,
-        "explanation": "The amount of O2 dissolved in blood is calculated using the equation: 0.003 mL O2 per mmHg PO2 per 100 mL blood. With a PaO2 of 60 mmHg: 0.003 × 60 = 0.18 mL O2 per 100 mL blood."
+        "explanation": "The amount of O2 dissolved in blood is calculated using the equation: For each 1 mmHg PO2 there is 0.003 mL O2 dissolved in x100 mL blood. With a PaO2 of 60 mmHg: 0.003 × 60 = 0.18 mL O2 per 100 mL blood."
     },
     {
         "question": "A patient with severe anemia has a hemoglobin concentration of 7 g/dL. Assuming 1.34 mL of O2 binds per gram of hemoglobin, what is this patient’s approximate hemoglobin O2-carrying capacity per 100 mL of blood?",
@@ -47,18 +59,18 @@
         "correctAnswer": 3,
         "explanation": "A leftward shift of the oxygen dissociation curve increases hemoglobin’s affinity for oxygen, making it harder to release O2 to tissues. This occurs with increased pH (alkalosis), decreased PCO2, decreased temperature, and decreased 2,3-DPG."
     },
-    {
-        "question": "A 28-year-old woman with carbon monoxide (CO) poisoning presents with confusion and cherry-red skin discoloration. Which of the following best explains why oxygen delivery is impaired in this condition?",
-        "choices": [
-            "CO binds to hemoglobin and reduces hemoglobin saturation",
-            "CO increases hemoglobin’s affinity for O2, preventing oxygen unloading",
-            "CO reduces dissolved oxygen levels in plasma",
-            "CO shifts the oxygen dissociation curve to the right",
-            "CO induces methemoglobinemia, preventing oxygen transport"
-        ],
-        "correctAnswer": 1,
-        "explanation": "CO poisoning impairs oxygen delivery by binding to hemoglobin with 250× the affinity of O2 and shifting the oxygen dissociation curve leftward, preventing O2 from unloading at tissues. This leads to functional anemia and tissue hypoxia."
-    },
+{
+    "question": "A 28-year-old woman with carbon monoxide (CO) poisoning presents with confusion and cherry-red skin discoloration. Which of the following best explains why oxygen delivery is impaired in this condition?",
+    "choices": [
+        "CO binds to hemoglobin with high affinity, reducing hemoglobin saturation and oxygen transport",
+        "CO prevents oxygen from binding and also increases hemoglobin’s affinity for O₂, making oxygen unloading at tissues more difficult",
+        "CO reduces dissolved oxygen levels in plasma, limiting O₂ transport",
+        "CO shifts the oxygen dissociation curve to the right, decreasing hemoglobin’s ability to bind O₂",
+        "CO induces methemoglobinemia, preventing oxygen transport"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CO poisoning impairs oxygen delivery by binding to hemoglobin with 250× the affinity of O₂, reducing available hemoglobin for oxygen transport. Additionally, CO increases hemoglobin’s affinity for O₂, shifting the dissociation curve leftward and preventing oxygen unloading at tissues, leading to functional anemia and tissue hypoxia. Treat with 100% O2"
+},
     {
         "question": "A 72-year-old man with heart failure has an arterial PO2 of 100 mmHg, a hemoglobin concentration of 15 g/dL, and an oxygen saturation of 97%. What is his estimated total blood oxygen content?",
         "choices": [
@@ -95,6 +107,18 @@
         "correctAnswer": 3,
         "explanation": "CO2 is transported in three major forms: 10% dissolved in plasma, 20% bound to hemoglobin as carbaminohemoglobin, 70% as bicarbonate (HCO3-). The majority of CO2 is converted to HCO3- via carbonic anhydrase inside RBCs, which then diffuses into plasma."
     },
+{
+    "question": "A 45-year-old man presents to the emergency department with fatigue, dizziness, and cyanosis that does not improve with supplemental oxygen. He recently started taking nitroglycerin for angina. Arterial blood gas analysis shows a normal PaO₂, but pulse oximetry reveals low oxygen saturation. Which of the following is the most likely cause of his symptoms?",
+    "choices": [
+        "Carbon monoxide poisoning",
+        "Methemoglobinemia induced by nitroglycerin",
+        "Iron deficiency anemia",
+        "Pulmonary embolism",
+        "Acute respiratory distress syndrome (ARDS)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nitroglycerin and other nitrate drugs can oxidize Fe²⁺ (ferrous) in hemoglobin to Fe³⁺ (ferric), forming methemoglobin, which cannot bind oxygen effectively. This leads to functional anemia and cyanosis that does not correct with supplemental oxygen. The standard treatment is methylene blue, which acts as an electron donor to reduce Fe³⁺ back to Fe²⁺, restoring hemoglobin’s oxygen-carrying capacity."
+},
     {
         "question": "A researcher is studying CO2 transport in red blood cells. He observes that bicarbonate (HCO3-) diffuses out of the RBC into plasma in the systemic circulation. To maintain electrochemical neutrality, which of the following ions enters the RBC in exchange for bicarbonate?",
         "choices": [
@@ -105,7 +129,7 @@
             "Calcium (Ca2+)"
         ],
         "correctAnswer": 1,
-        "explanation": "The chloride shift occurs when HCO3- diffuses out of RBCs, leading to the influx of chloride (Cl-) into RBCs to maintain electrical neutrality. This process is reversed in the lungs, where HCO3- re-enters RBCs to be converted back into CO2 for exhalation."
+        "explanation": "CO2 + H2O→ H2CO3 →(H+) + (HCO3-). HCO3- diffuses into plasma from RBCs, but H+ cannot diffuse easily. The chloride shift occurs when HCO3- diffuses out of RBCs, leading to the influx of chloride (Cl-) into RBCs to maintain electrical neutrality due to the proton concentration. This process is reversed in the lungs (Haldane effect), where increased O2 with Hb releases H+, shifting the initial chemical equation equilibrium (HCO3- will dissociate into CO2 and H20, increasing PCO2 in alveoli)."
     },
     {
         "question": "A 35-year-old woman with severe metabolic acidosis presents with hyperventilation. How does this affect her oxygen-hemoglobin dissociation curve?",
@@ -970,5 +994,353 @@
         ],
         "correctAnswer": 0,
         "explanation": "Mycoplasma pneumoniae causes atypical ('walking') pneumonia with low-grade fever, nonproductive cough, and interstitial infiltrates. It produces cold agglutinins (IgM antibodies against RBCs), leading to hemolytic anemia."
+    },
+    {
+        "question": "A 70-year-old man presents with progressive dyspnea on exertion and chronic dry cough. He has a history of smoking and chronic aspiration. High-resolution CT (HRCT) shows subpleural and basilar-predominant fibrosis with honeycombing. Which of the following best describes the underlying histologic pattern of this disease?",
+        "choices": [
+            "Cryptogenic organizing pneumonia",
+            "Nonspecific interstitial pneumonia",
+            "Usual interstitial pneumonia (UIP)",
+            "Desquamative interstitial pneumonia",
+            "Hypersensitivity pneumonitis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Usual interstitial pneumonia (UIP) is the characteristic histologic pattern of idiopathic pulmonary fibrosis (IPF). It features patchy fibrosis with temporal heterogeneity, fibroblastic foci, and honeycombing. UIP primarily affects the lung bases and subpleural regions."
+    },
+    {
+        "question": "A 65-year-old retired construction worker presents with progressive shortness of breath and dry cough. HRCT shows interstitial fibrosis with pleural plaques. Histopathology reveals fibrosis with asbestos bodies. Which of the following best differentiates this condition from idiopathic pulmonary fibrosis (IPF)?",
+        "choices": [
+            "Presence of fibroblastic foci",
+            "Temporal heterogeneity of fibrosis",
+            "Location of fibrosis",
+            "Presence of asbestos bodies",
+            "Subpleural honeycombing"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Asbestosis and IPF share a similar UIP histologic pattern, but asbestosis is distinguished by the presence of asbestos bodies, which are iron-coated fibers seen in histology (Prussian blue stain)."
+    },
+    {
+        "question": "A 45-year-old farmer presents with progressive dyspnea, dry cough, and fatigue. He reports frequent exposure to moldy hay. HRCT shows diffuse ground-glass opacities and centrilobular nodules. Bronchoalveolar lavage reveals increased CD8+ T cells. Which of the following is the most likely diagnosis?",
+        "choices": [
+            "Idiopathic pulmonary fibrosis",
+            "Sarcoidosis",
+            "Hypersensitivity pneumonitis",
+            "Pulmonary histiocytosis X",
+            "Eosinophilic pneumonia"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hypersensitivity pneumonitis (extrinsic allergic alveolitis) is an immunologically mediated interstitial lung disease caused by inhaled organic antigens. It is associated with increased CD8+ T cells in bronchoalveolar lavage (BAL) and non-caseating granulomas."
+    },
+    {
+        "question": "A 50-year-old woman with systemic sclerosis presents with progressive dyspnea. Pulmonary function testing reveals a restrictive pattern with decreased diffusing capacity for carbon monoxide (DLCO). HRCT shows reticular opacities and subpleural fibrosis. Which of the following best explains her pulmonary findings?",
+        "choices": [
+            "TGF-β1 activation leading to fibroblast proliferation",
+            "Increased alveolar macrophage activity",
+            "Chronic airway inflammation with mucus hypersecretion",
+            "Neutrophilic infiltration of the alveolar walls",
+            "Alveolar damage due to anti-glomerular basement membrane antibodies"
+        ],
+        "correctAnswer": 0,
+        "explanation": "TGF-β1 plays a key role in pulmonary fibrosis by activating fibroblasts and promoting collagen deposition. Systemic sclerosis (scleroderma) frequently leads to interstitial lung disease with a UIP-like pattern."
+    },
+    {
+        "question": "A 28-year-old man with albinism and recurrent pulmonary infections is diagnosed with Hermansky-Pudlak syndrome. Which of the following best describes the mechanism of pulmonary fibrosis in this condition?",
+        "choices": [
+            "Defective telomerase activity",
+            "Increased PDGF-B release from alveolar macrophages",
+            "Autoantibody-mediated alveolar damage",
+            "Deposition of asbestos fibers",
+            "Chronic granulomatous inflammation"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hermansky-Pudlak syndrome is a rare genetic disorder characterized by defective lysosomal metabolism and abnormal platelet function. It leads to interstitial lung disease due to enhanced PDGF-B release from alveolar macrophages, promoting fibroblast proliferation and collagen deposition."
+    },
+    {
+        "question": "A 65-year-old retired shipyard worker presents with progressive dyspnea and dry cough. High-resolution CT (HRCT) reveals interstitial fibrosis and pleural plaques. Histopathology shows iron-coated fibers on Prussian blue staining. Which of the following is the most likely diagnosis?",
+        "choices": [
+            "Coal worker’s pneumoconiosis",
+            "Silicosis",
+            "Asbestosis",
+            "Berylliosis",
+            "Hypersensitivity pneumonitis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Asbestosis is caused by inhalation of fibrous silicates and is characterized by diffuse interstitial fibrosis, pleural plaques, and ferruginous (asbestos) bodies that stain positive for iron (Prussian blue). It is associated with an increased risk of lung cancer and mesothelioma."
+    },
+    {
+        "question": "A 55-year-old construction worker presents with progressive dyspnea. Chest imaging shows hilar lymphadenopathy and upper lobe nodules. Histology reveals birefringent particles within macrophages. This patient is at increased risk of which of the following conditions?",
+        "choices": [
+            "Tuberculosis",
+            "Asthma",
+            "Pulmonary embolism",
+            "Lung abscess",
+            "Chronic hypersensitivity pneumonitis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Silicosis is caused by inhalation of crystalline silica particles, leading to fibrosis and upper lobe nodules. It increases susceptibility to tuberculosis due to impaired macrophage function."
+    },
+    {
+        "question": "A 40-year-old farmer presents with progressive dyspnea, dry cough, and malaise. He reports frequent exposure to moldy hay. Bronchoalveolar lavage reveals elevated CD8+ T cells. Which of the following immune mechanisms is primarily responsible for this condition?",
+        "choices": [
+            "Type I hypersensitivity reaction",
+            "Type II hypersensitivity reaction",
+            "Type III and IV hypersensitivity reactions",
+            "Complement-mediated cytotoxicity",
+            "IgE-mediated mast cell degranulation"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hypersensitivity pneumonitis (HP) is an immunologically mediated lung disease caused by inhalation of organic antigens (e.g., mold, animal proteins). It involves Type III (immune complex) and Type IV (T-cell-mediated) hypersensitivity reactions, leading to chronic inflammation and poorly formed granulomas."
+    },
+    {
+        "question": "A 35-year-old African American woman presents with bilateral hilar lymphadenopathy, dry cough, and fatigue. Lung biopsy shows non-necrotizing granulomas with multinucleated giant cells. Which of the following cytokines is most responsible for granuloma formation in this disease?",
+        "choices": [
+            "Interleukin-1 (IL-1)",
+            "Interleukin-10 (IL-10)",
+            "Interferon-gamma (IFN-γ)",
+            "Tumor necrosis factor-alpha (TNF-α)",
+            "Interleukin-5 (IL-5)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sarcoidosis is driven by a cell-mediated immune response, where activated CD4+ T cells release IFN-γ, promoting macrophage activation and granuloma formation. TNF-α also plays a role but is not the primary driver of granulomatous inflammation."
+    },
+    {
+        "question": "A patient with sarcoidosis undergoes pulmonary function testing. Which of the following patterns is most likely to be observed?",
+        "choices": [
+            "Normal FEV1/FVC ratio with decreased DLCO",
+            "Decreased FEV1/FVC ratio with increased TLC",
+            "Increased FEV1/FVC ratio with increased DLCO",
+            "Normal FEV1/FVC ratio with increased RV",
+            "Decreased FEV1/FVC ratio with normal DLCO"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Sarcoidosis causes a restrictive lung disease pattern with a normal or increased FEV1/FVC ratio, decreased TLC, and reduced DLCO due to granulomatous infiltration of the lung parenchyma."
+    },
+    {
+        "question": "A 45-year-old aerospace worker presents with progressive dyspnea and nonproductive cough. HRCT shows diffuse reticulonodular infiltrates. A lung biopsy reveals noncaseating granulomas. Which of the following conditions has a similar histologic appearance but is not occupationally related?",
+        "choices": [
+            "Silicosis",
+            "Sarcoidosis",
+            "Asbestosis",
+            "Hypersensitivity pneumonitis",
+            "Idiopathic pulmonary fibrosis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Berylliosis (caused by beryllium exposure in aerospace and manufacturing workers) and sarcoidosis both present with noncaseating granulomas. Unlike sarcoidosis, berylliosis has an occupational exposure history and responds to corticosteroid therapy."
+    },
+    {
+        "question": "A 65-year-old man presents with progressive exertional dyspnea and chronic dry cough. He has a history of occupational exposure to asbestos and woodworking dust. Physical examination reveals bilateral 'Velcro-like' crackles at the lung bases and digital clubbing. High-resolution CT (HRCT) shows bibasilar fibrosis with honeycombing. Which of the following findings would most likely be present on pulmonary function testing?",
+        "choices": [
+            "Decreased FEV1/FVC ratio with increased TLC",
+            "Normal FEV1/FVC ratio with decreased TLC and DLCO",
+            "Increased FEV1/FVC ratio with increased residual volume",
+            "Obstructive pattern with increased DLCO",
+            "Normal spirometry with preserved lung volumes"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Interstitial lung disease (ILD) presents with a restrictive lung pattern characterized by: Normal or increased FEV1/FVC ratio. Decreased total lung capacity (TLC) and diffusion capacity (DLCO). Impaired oxygenation, especially on exertion. The presence of honeycombing on HRCT suggests advanced fibrosis."
+    },
+    {
+        "question": "A 70-year-old woman presents with progressive dyspnea, Raynaud’s phenomenon, and difficulty swallowing solid foods. Pulmonary function testing reveals a restrictive pattern with reduced DLCO. High-resolution CT shows basilar fibrosis and traction bronchiectasis. Which of the following is the most likely underlying cause of her pulmonary findings?",
+        "choices": [
+            "Sarcoidosis",
+            "Idiopathic pulmonary fibrosis",
+            "Systemic sclerosis",
+            "Hypersensitivity pneumonitis",
+            "Silicosis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Systemic sclerosis-associated interstitial lung disease (SSc-ILD) commonly presents with progressive fibrosis, restrictive lung disease, and esophageal dysmotility. Pulmonary fibrosis in scleroderma predominantly affects the lung bases and is associated with Raynaud’s phenomenon, digital ulcers, and difficulty swallowing due to esophageal dysmotility."
+    },
+    {
+        "question": "A 68-year-old man with idiopathic pulmonary fibrosis (IPF) presents with worsening dyspnea. HRCT shows progressive honeycombing and reticular opacities. Genetic testing reveals a mutation in TERT (telomerase reverse transcriptase). Which of the following best explains how this mutation contributes to pulmonary fibrosis?",
+        "choices": [
+            "Defective alveolar macrophage clearance",
+            "Shortened telomeres leading to premature cellular senescence",
+            "Increased production of anti-collagen antibodies",
+            "Overactivation of neutrophils and protease release",
+            "Increased secretion of type I interferon"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Telomerase mutations (TERT, TERC) lead to shortened telomeres, which cause premature cellular senescence and defective alveolar epithelial repair. This promotes fibroblast activation and collagen deposition, contributing to the pathogenesis of idiopathic pulmonary fibrosis (IPF)."
+    },
+    {
+        "question": "A 60-year-old retired coal miner presents with chronic dyspnea and nonproductive cough. Physical examination reveals bilateral inspiratory crackles. HRCT shows small nodules predominantly in the upper lung zones and 'progressive massive fibrosis'. Which of the following best describes the underlying pathophysiology of this condition?",
+        "choices": [
+            "Activation of alveolar macrophages leading to fibroblast proliferation",
+            "Deposition of immune complexes in the lung interstitium",
+            "Increased mucus production leading to small airway obstruction",
+            "Formation of non-caseating granulomas",
+            "Hyperplasia of goblet cells and smooth muscle hypertrophy"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Coal workers' pneumoconiosis (CWP) results from coal dust exposure, which activates alveolar macrophages. These macrophages release proinflammatory cytokines (TNF-α, IL-1, TGF-β), promoting fibroblast proliferation and collagen deposition. Severe cases lead to progressive massive fibrosis (PMF), which can cause respiratory failure."
+    },
+    {
+        "question": "A 45-year-old farmer presents with progressive dyspnea, dry cough, and fatigue. He reports frequent exposure to moldy hay. Bronchoalveolar lavage reveals increased CD8+ T cells. Which of the following immune mechanisms is responsible for this condition?",
+        "choices": [
+            "Type I hypersensitivity reaction",
+            "Type II hypersensitivity reaction",
+            "Type III and IV hypersensitivity reactions",
+            "Complement-mediated cytotoxicity",
+            "IgE-mediated mast cell degranulation"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hypersensitivity pneumonitis (HP) is an immune-mediated interstitial lung disease caused by repeated exposure to organic antigens (e.g., mold, animal proteins). It involves Type III (immune complex) and Type IV (T-cell-mediated) hypersensitivity reactions, leading to chronic inflammation, CD8+ T-cell infiltration, and poorly formed granulomas."
+    },
+    {
+        "question": "A 55-year-old man with idiopathic pulmonary fibrosis (IPF) is being considered for antifibrotic therapy. Which of the following medications is most appropriate to slow disease progression?",
+        "choices": [
+            "Methotrexate",
+            "Azathioprine",
+            "Pirfenidone",
+            "Rituximab",
+            "TNF-alpha inhibitors"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pirfenidone and nintedanib are antifibrotic agents used to slow disease progression in idiopathic pulmonary fibrosis (IPF). Pirfenidone inhibits TGF-β-mediated fibroblast activation, reducing collagen deposition and fibrosis."
+    },
+    {
+        "question": "A 67-year-old woman with idiopathic pulmonary fibrosis (IPF) undergoes a 6-minute walk test. Her oxygen saturation drops from 94% to 86% with exertion. Which of the following is the best explanation for her exercise desaturation?",
+        "choices": [
+            "Pulmonary vascular remodeling leading to increased dead space ventilation",
+            "Inability to increase cardiac output with exertion",
+            "V/Q mismatch due to alveolar destruction",
+            "Reduced diffusion capacity due to thickened alveolar membranes",
+            "Bronchial obstruction causing dynamic hyperinflation"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Exercise desaturation in IPF occurs due to impaired gas exchange from thickened alveolar membranes, leading to reduced diffusion capacity (DLCO). Patients with IPF have significant diffusion impairment due to fibrosis, which worsens with exertion."
+    },
+    {
+        "question": "A 68-year-old man with progressive dyspnea and dry cough undergoes high-resolution CT (HRCT). The scan reveals basal-predominant reticular opacities, subpleural honeycombing, and traction bronchiectasis. Which of the following is the most likely diagnosis?",
+        "choices": [
+            "Sarcoidosis",
+            "Hypersensitivity pneumonitis",
+            "Usual interstitial pneumonia (UIP)",
+            "Desquamative interstitial pneumonia",
+            "Pulmonary alveolar proteinosis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Usual interstitial pneumonia (UIP) is the characteristic histologic pattern of idiopathic pulmonary fibrosis (IPF). HRCT findings include: Basal and subpleural reticular opacities. Honeycombing (clustered cystic spaces in a subpleural distribution). Traction bronchiectasis. The absence of these features makes UIP unlikely."
+    },
+    {
+        "question": "A 45-year-old African American woman presents with persistent dry cough and fatigue. High-resolution CT (HRCT) shows bilateral hilar lymphadenopathy without parenchymal abnormalities. Which of the following is the most likely stage of her disease?",
+        "choices": [
+            "Stage 0",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sarcoidosis is staged based on radiologic findings: Stage 0: Normal chest X-ray. Stage 1: Hilar lymphadenopathy only (no lung involvement). Stage 2: Lymphadenopathy + parenchymal involvement. Stage 3: Parenchymal involvement without adenopathy. Stage 4: Fibrotic lung disease. This patient's bilateral hilar lymphadenopathy without lung involvement is Stage 1 sarcoidosis."
+    },
+    {
+        "question": "A 50-year-old man with sarcoidosis undergoes HRCT, which reveals diffuse reticular opacities with fibrotic changes and loss of lung volume. Pulmonary function testing shows a restrictive pattern with reduced DLCO. Which stage of sarcoidosis is most consistent with these findings?",
+        "choices": [
+            "Stage 0",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4"
+        ],
+        "correctAnswer": 4,
+        "explanation": "Stage 4 sarcoidosis is characterized by pulmonary fibrosis, which presents with: Diffuse reticular opacities. Loss of lung volume. Traction bronchiectasis and architectural distortion. Restrictive lung disease pattern (reduced FVC, DLCO). Unlike earlier stages, fibrosis is irreversible and may lead to pulmonary hypertension."
+    },
+    {
+        "question": "A 55-year-old man with idiopathic pulmonary fibrosis (IPF) undergoes high-resolution CT (HRCT). Which of the following features would be inconsistent with a usual interstitial pneumonia (UIP) pattern?",
+        "choices": [
+            "Honeycombing",
+            "Subpleural and basal-predominant fibrosis",
+            "Reticular abnormalities",
+            "Peribronchovascular ground-glass opacities",
+            "Traction bronchiectasis"
+        ],
+        "correctAnswer": 3,
+        "explanation": "UIP pattern on HRCT includes: Subpleural, basal-predominant fibrosis, Honeycombing. Reticular abnormalities. Traction bronchiectasis. Peribronchovascular ground-glass opacities suggest other interstitial lung diseases, such as hypersensitivity pneumonitis or non-specific interstitial pneumonia (NSIP), and are inconsistent with UIP."
+    },
+    {
+        "question": "A 38-year-old woman with sarcoidosis presents with progressive dyspnea and persistent dry cough. A CT scan shows bilateral reticular opacities and multiple lung nodules without lymphadenopathy. Which of the following best describes her sarcoidosis stage?",
+        "choices": [
+            "Stage 0",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Stage 3 sarcoidosis is characterized by parenchymal lung involvement without lymphadenopathy. This distinguishes it from Stage 2 (which has both parenchymal disease and lymphadenopathy) and Stage 4 (which involves fibrosis)."
+    },
+    {
+        "question": "A 68-year-old man with idiopathic pulmonary fibrosis (IPF) presents with progressive dyspnea. High-resolution CT (HRCT) shows honeycombing, subpleural fibrosis, and traction bronchiectasis. Which of the following best explains why UIP has a worse prognosis compared to other interstitial lung diseases?",
+        "choices": [
+            "UIP is associated with a strong response to corticosteroids",
+            "UIP involves progressive fibrosis with little to no inflammation",
+            "UIP has a high likelihood of spontaneous remission",
+            "UIP primarily affects younger patients with good lung reserve",
+            "UIP is reversible with early antifibrotic therapy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Usual interstitial pneumonia (UIP), the characteristic histologic pattern of IPF, is associated with progressive fibrosis and poor prognosis. Unlike NSIP, UIP has minimal inflammation and does not respond well to corticosteroids or immunosuppressants. Median survival is 2-5 years after diagnosis."
+    },
+    {
+        "question": "A 45-year-old woman with rheumatoid arthritis presents with progressive dyspnea and a chronic dry cough. HRCT reveals bibasilar subpleural fibrosis and honeycombing, consistent with a usual interstitial pneumonia (UIP) pattern. Which of the following best describes the underlying cause of her condition?",
+        "choices": [
+            "Idiopathic pulmonary fibrosis",
+            "Hypersensitivity pneumonitis",
+            "Autoimmune-mediated lung injury",
+            "Pneumoconiosis due to chronic inhalation exposure",
+            "Cryptogenic organizing pneumonia"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rheumatoid arthritis-associated interstitial lung disease (RA-ILD) can present with a UIP pattern, similar to idiopathic pulmonary fibrosis. The pathogenesis involves autoimmune-mediated lung injury, leading to progressive fibrosis."
+    },
+    {
+        "question": "A 52-year-old woman with systemic sclerosis (scleroderma) is diagnosed with nonspecific interstitial pneumonia (NSIP). Which of the following best differentiates NSIP from usual interstitial pneumonia (UIP)?",
+        "choices": [
+            "NSIP is associated with extensive honeycombing",
+            "NSIP is more likely to respond to immunosuppressive therapy",
+            "NSIP has a worse prognosis than UIP",
+            "NSIP is predominantly an obstructive lung disease",
+            "NSIP is commonly seen in idiopathic pulmonary fibrosis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "NSIP differs from UIP by having a better prognosis and a more favorable response to immunosuppressive therapy. NSIP features uniform (homogeneous) fibrosis without honeycombing, whereas UIP is characterized by patchy fibrosis, fibroblastic foci, and honeycombing."
+    },
+    {
+        "question": "A 60-year-old man with idiopathic pulmonary fibrosis (IPF) is started on antifibrotic therapy. Which of the following medications is most appropriate to slow disease progression?",
+        "choices": [
+            "Methotrexate",
+            "Azathioprine",
+            "Pirfenidone",
+            "Rituximab",
+            "TNF-alpha inhibitors"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pirfenidone and nintedanib are antifibrotic agents used to slow the progression of idiopathic pulmonary fibrosis (IPF). Pirfenidone inhibits TGF-β-mediated fibroblast activation. Nintedanib inhibits tyrosine kinases that drive fibrosis"
+    },
+    {
+        "question": "A 58-year-old man with chronic hypersensitivity pneumonitis is being evaluated for oxygen supplementation. Which of the following would be the best indication for starting supplemental oxygen therapy?",
+        "choices": [
+            "Resting SpO2 of 95%",
+            "Resting PaO2 of 80 mmHg",
+            "Exercise-induced SpO2 of 88%",
+            "Mild dyspnea on exertion",
+            "Normal pulmonary function tests"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Supplemental oxygen is indicated in interstitial lung disease (ILD) when: Resting SpO2 ≤ 88%. PaO2 ≤ 55 mmHg. Exercise-induced SpO2 ≤ 88%. Oxygen therapy improves quality of life and reduces complications like pulmonary hypertension."
+    },
+    {
+        "question": "A 67-year-old man with advanced idiopathic pulmonary fibrosis (IPF) presents with severe hypoxemia despite oxygen therapy. He has progressive respiratory failure. Which of the following is the most appropriate next step in management?",
+        "choices": [
+            "High-dose corticosteroids",
+            "Lung transplantation evaluation",
+            "Bronchodilator therapy",
+            "Empiric antibiotic therapy",
+            "Routine palliative care discussion"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lung transplantation is the only curative option for advanced idiopathic pulmonary fibrosis (IPF). Patients with severe, progressive disease despite medical therapy should be referred for lung transplant evaluation."
     }
 ]
