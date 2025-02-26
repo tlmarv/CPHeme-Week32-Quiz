@@ -1,15 +1,15 @@
 [
   {
-  "question": "A 67-year-old male with a 40-pack-year smoking history presents to the clinic with progressive shortness of breath and a chronic cough productive of clear sputum. His vital signs are within normal limits, and auscultation reveals prolonged expiratory phase with wheezing. Pulmonary function testing reveals the following: FEV1: 45% of predicted. FVC: 80% of predicted. FEV1/FVC ratio: 55% (1) Based on these findings, what type of lung disease does this patient most likely have? (2) Compared to a normal flow-volume loop, which of the following changes in lung volume measurements is most expected in this patient?",
+  "question": "A 67-year-old male with COPD presents to the clinic for PFT. Based on the image below, what is his change in TLC and resulting RV",
   "choices": [
-    "Obstructive lung disease; Increased residual volume to approximately 4.0L",
-   "Restrictive lung disease; Decreased total lung capacity to approximately 3.0L",
-    "Obstructive lung disease; Decreased residual volume to approximately 1.0L",
-   "Restrictive lung disease; Increased total lung capacity to approximately 7.0L"
+    "TLC +2.5L, RV = 3.5L",
+   "TLC -2.5L, RV = 0.5L",
+    "TLC +0L, RV = 1.5L",
+   "TLC +0L, RV = 3.5L"
   ],
  "image": "https://tlmarv.github.io/CPHeme-Week32-Quiz/FVL.jpg",
 "correctAnswer": 0,
-  "explanation": "This patient has obstructive lung disease, as indicated by the reduced FEV1/FVC ratio (<70%), consistent with diseases like COPD. In obstructive lung disease, air trapping leads to an increased residual volume (RV), often above 4.5L, as seen in the flow-volume loop where expiration is prolonged and the 'scooped-out' shape is present. In contrast, restrictive lung disease would present with a decreased total lung capacity (TLC) due to reduced lung compliance."
+    "explanation": "Be careful of the units on the x-axis of Flow Volume loops- they can either increase left to right (0-->10) or right to left (10<--0). This will change your interpretation of the loop. In COPD, an obstructive disease, loss of elastic recoil and destruction of alveolar walls reduce the radial traction that normally keeps airways open. This increases airway resistance, especially during expiration, leading to airflow limitation and air trapping. The result is an increase in residual volume (RV) and total lung capacity (TLC), as seen on flow-volume loops (green is normal, red is obstructive) where expiratory flow is reduced, producing a characteristic concave or 'scooped-out' appearance."
     },
 {
     "question": "A patient is placed on supplemental oxygen, increasing their alveolar partial pressure of oxygen (PAO2) from 100 mmHg to 500 mmHg. Which of the following best describes how this change affects the amount of dissolved oxygen in plasma?",
