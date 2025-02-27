@@ -707,18 +707,6 @@
         "explanation": "Low tidal volume ventilation (4-8 mL/kg) and high PEEP (positive end-expiratory pressure) improve oxygenation and prevent ventilator-induced lung injury in ARDS. High PEEP prevents alveolar collapse and improves gas exchange by recruiting collapsed lung units."
     },
     {
-        "question": "A neonatologist is evaluating a 32-week preterm infant for neonatal respiratory distress syndrome (RDS). Which of the following laboratory tests is most useful in predicting fetal lung maturity?",
-        "choices": [
-            "Amniotic fluid bilirubin level",
-            "Serum alpha-fetoprotein (AFP)",
-            "Lecithin-to-sphingomyelin (L/S) ratio",
-            "Fetal hemoglobin concentration",
-            "Fetal lung ultrasound"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The lecithin-to-sphingomyelin (L/S) ratio in amniotic fluid is used to assess fetal lung maturity. An L/S ratio >2.0 suggests adequate surfactant production, reducing the risk of neonatal RDS. Ratios <1.5 indicate high risk for RDS."
-    },
-    {
         "question": "A 65-year-old woman develops ARDS secondary to aspiration pneumonia. Which of the following best describes the Berlin criteria used to diagnose ARDS?",
         "choices": [
             "Bilateral lung opacities unexplained by heart failure",
