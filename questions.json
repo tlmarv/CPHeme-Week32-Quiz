@@ -22,7 +22,6 @@
     "correctAnswer": 1,
     "explanation": "According to Henry's law, the amount of gas dissolved in a liquid is proportional to its partial pressure. However, since oxygen is poorly soluble in plasma, even a large increase in PO2 results in only a small increase in the amount of dissolved oxygen. Most oxygen transport occurs via hemoglobin binding, not dissolution in plasma."
 },    
-
 {
         "question": "A 65-year-old man with chronic obstructive pulmonary disease (COPD) presents with worsening dyspnea. Arterial blood gas analysis shows a PaO2 of 60 mmHg. Which of the following best describes the amount of oxygen dissolved in 100 mL of this patient's blood?",
         "choices": [
@@ -935,7 +934,7 @@
         "correctAnswer": 2,
         "explanation": "Streptococcus pneumoniae is the most common cause of lobar pneumonia. It causes suppurative inflammation involving an entire lobe, presenting with sudden-onset fever, productive cough, and pleuritic chest pain. It is more common in patients with COPD, diabetes, or asplenia."
     },
-    {
+  {
         "question": "A 55-year-old alcoholic man presents with high fever, productive cough with thick, blood-tinged sputum ('currant jelly sputum'), and shortness of breath. A chest X-ray reveals patchy bronchopneumonia with cavitation. Which of the following is the most likely causative organism?",
         "choices": [
             "Mycoplasma pneumoniae",
@@ -1343,7 +1342,6 @@
         "correctAnswer": 1,
         "explanation": "Lung transplantation is the only curative option for advanced idiopathic pulmonary fibrosis (IPF). Patients with severe, progressive disease despite medical therapy should be referred for lung transplant evaluation."
     },
-[
     {
         "question": "A 55-year-old woman presents with  progressive dyspnea on exertion  and  fatigue . A 6-minute walk test reveals a distance of  350 meters with oxygen desaturation to 85% . Which of the following is the most likely diagnosis?",
         "choices": [
@@ -1549,3 +1547,5 @@
         "explanation": " Social support plays a critical role in treatment adherence and overall well-being in CF. Online CF support groups and peer mentoring provide community, coping strategies, and motivation for adherence. Burnout and isolation are common barriers to adherence, especially in young adults. "
     }
 ]
+
+
