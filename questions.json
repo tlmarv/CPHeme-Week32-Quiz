@@ -131,18 +131,6 @@
         "explanation": "CO2 + H2O→ H2CO3 →(H+) + (HCO3-). HCO3- diffuses into plasma from RBCs, but H+ cannot diffuse easily. The chloride shift occurs when HCO3- diffuses out of RBCs, leading to the influx of chloride (Cl-) into RBCs to maintain electrical neutrality due to the proton concentration. This process is reversed in the lungs (Haldane effect), where increased O2 with Hb releases H+, shifting the initial chemical equation equilibrium (HCO3- will dissociate into CO2 and H20, increasing PCO2 in alveoli)."
     },
     {
-        "question": "A 35-year-old woman with severe metabolic acidosis presents with hyperventilation. How does this affect her oxygen-hemoglobin dissociation curve?",
-        "choices": [
-            "Shifts the curve to the left, reducing oxygen unloading",
-            "Shifts the curve to the right, increasing oxygen unloading",
-            "No change in the curve, as ventilation does not affect hemoglobin affinity",
-            "Decreases hemoglobin's ability to bind CO2",
-            "Prevents bicarbonate from forming in RBCs"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Hyperventilation lowers PCO2 and H+ levels, shifting the oxygen-hemoglobin dissociation curve to the right, which enhances oxygen unloading at tissues. This is part of the Bohr effect, where increased H+ (low pH) promotes O2 release."
-    },
-    {
         "question": "A 55-year-old woman with chronic respiratory failure is found to have a PaCO2 of 50 mmHg. Given that 4.0 mL of CO2 is transported per 100 mL of blood, which of the following is the primary location of CO2 release in the body?",
         "choices": [
             "Peripheral tissues",
