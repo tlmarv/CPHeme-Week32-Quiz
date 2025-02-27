@@ -1163,18 +1163,6 @@
         "explanation": "Coal workers' pneumoconiosis (CWP) results from coal dust exposure, which activates alveolar macrophages. These macrophages release proinflammatory cytokines (TNF-α, IL-1, TGF-β), promoting fibroblast proliferation and collagen deposition. Severe cases lead to progressive massive fibrosis (PMF), which can cause respiratory failure."
     },
     {
-        "question": "A 45-year-old farmer presents with progressive dyspnea, dry cough, and fatigue. He reports frequent exposure to moldy hay. Bronchoalveolar lavage reveals increased CD8+ T cells. Which of the following immune mechanisms is responsible for this condition?",
-        "choices": [
-            "Type I hypersensitivity reaction",
-            "Type II hypersensitivity reaction",
-            "Type III and IV hypersensitivity reactions",
-            "Complement-mediated cytotoxicity",
-            "IgE-mediated mast cell degranulation"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Hypersensitivity pneumonitis (HP) is an immune-mediated interstitial lung disease caused by repeated exposure to organic antigens (e.g., mold, animal proteins). It involves Type III (immune complex) and Type IV (T-cell-mediated) hypersensitivity reactions, leading to chronic inflammation, CD8+ T-cell infiltration, and poorly formed granulomas."
-    },
-    {
         "question": "A 55-year-old man with idiopathic pulmonary fibrosis (IPF) is being considered for antifibrotic therapy. Which of the following medications is most appropriate to slow disease progression?",
         "choices": [
             "Methotrexate",
