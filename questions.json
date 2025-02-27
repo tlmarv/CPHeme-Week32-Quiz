@@ -854,7 +854,7 @@
         "question": "A 65-year-old woman with a history of prolonged immobility following hip surgery presents with sudden-onset dyspnea, pleuritic chest pain, and tachycardia. CT angiography reveals a pulmonary embolism. Where did the embolus most likely originate?",
         "choices": [
             "Superficial femoral vein",
-            "Iliac, femoral, or popliteal veins",
+            "Iliac veins",
             "Right atrium",
             "Pulmonary vein",
             "Small saphenous vein"
@@ -1535,5 +1535,7 @@
         "explanation": " Social support plays a critical role in treatment adherence and overall well-being in CF. Online CF support groups and peer mentoring provide community, coping strategies, and motivation for adherence. Burnout and isolation are common barriers to adherence, especially in young adults. "
     }
 ]
+
+
 
 
