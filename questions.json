@@ -343,7 +343,7 @@
             "18.2 mL O2/dL",
             "20.4 mL O2/dL"
         ],
-        "correctAnswer": 2,
+        "correctAnswer": 1,
         "explanation": "Oxygen content is calculated as: Total O2 content = (Hb × 1.34 × SaO2) + (PaO2 × 0.003). Bound O2: 12 × 1.34 × 0.90 = 14.5 mL O2/dL. Dissolved O2: 80 × 0.003 = 0.24 mL O2/dL. Total O2 content: 14.5 + 0.24 = 14.74 mL O2/dL."
     },
     {
