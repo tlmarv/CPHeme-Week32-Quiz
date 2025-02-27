@@ -376,11 +376,11 @@
             "10.5 mL O2/dL",
             "13.2 mL O2/dL",
             "15.8 mL O2/dL",
-            "18.5 mL O2/dL",
+            "17.3 mL O2/dL",
             "21.0 mL O2/dL"
         ],
         "correctAnswer": 2,
-        "explanation": "Oxygen content = (Hb × 1.34 × SaO2) + (PaO2 × 0.003). Bound O2: 15 × 1.34 × 0.85 = 17.1 mL O2/dL. Dissolved O2: 50 × 0.003 = 0.15 mL O2/dL. Total O2 content: 17.1 + 0.15 = 15.8 mL O2/dL."
+        "explanation": "Oxygen content = (Hb × 1.34 × SaO2) + (PaO2 × 0.003). Bound O2: 15 × 1.34 × 0.85 = 17.1 mL O2/dL. Dissolved O2: 50 × 0.003 = 0.15 mL O2/dL. Total O2 content: 17.1 + 0.15 = 17.3 mL O2/dL."
     },
     {
         "question": "A 65-year-old man with right-to-left cardiac shunting is found to have low PaO2, low SaO2, and low total oxygen content despite receiving 100% oxygen therapy. Which of the following best explains why supplemental oxygen does not correct his hypoxia?",
