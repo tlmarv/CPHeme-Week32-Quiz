@@ -491,18 +491,6 @@
         "explanation": "Postcapillary PH (Group 2 PH due to left heart disease) is characterized by elevated mPAP (>25 mmHg), elevated PAWP (>15 mmHg), and normal PVR (<3 Wood units). This distinguishes it from precapillary PH, which has a low PAWP."
     },
     {
-        "question": "A 58-year-old woman with chronic thromboembolic pulmonary hypertension (CTEPH) undergoes right heart catheterization. Which of the following hemodynamic findings is most characteristic of this condition?",
-        "choices": [
-            "Elevated PAWP, normal PVR",
-            "Elevated mPAP, normal PAWP, elevated PVR",
-            "Low mPAP, low PAWP, normal PVR",
-            "Elevated PAWP, elevated PVR",
-            "Normal PAWP, low mPAP"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Chronic thromboembolic pulmonary hypertension (CTEPH, Group 4 PH) presents with elevated mPAP (>25 mmHg), normal PAWP (<15 mmHg), and increased PVR (>3 Wood units). The presence of chronic thrombi obstructing the pulmonary vasculature increases PVR and leads to right heart failure."
-    },
-    {
         "question": "A 70-year-old woman with chronic kidney disease and systemic lupus erythematosus is found to have pulmonary hypertension with unclear etiology. Right heart catheterization shows elevated mPAP, elevated PAWP, and elevated PVR. Which of the following classifications best describes her condition?",
         "choices": [
             "Group 1: Pulmonary arterial hypertension",
