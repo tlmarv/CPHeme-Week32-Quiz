@@ -1342,5 +1342,210 @@
         ],
         "correctAnswer": 1,
         "explanation": "Lung transplantation is the only curative option for advanced idiopathic pulmonary fibrosis (IPF). Patients with severe, progressive disease despite medical therapy should be referred for lung transplant evaluation."
+    },
+[
+    {
+        "question": "A 55-year-old woman presents with  progressive dyspnea on exertion  and  fatigue . A 6-minute walk test reveals a distance of  350 meters with oxygen desaturation to 85% . Which of the following is the most likely diagnosis?",
+        "choices": [
+            "Chronic thromboembolic pulmonary hypertension (CTEPH)",
+            "Heart failure with preserved ejection fraction (HFpEF)",
+            "Pulmonary arterial hypertension (PAH)",
+            "Chronic obstructive pulmonary disease (COPD)",
+            "Sarcoidosis-related pulmonary fibrosis"
+        ],
+        "correctAnswer": 2,
+        "explanation": " Pulmonary arterial hypertension (PAH) is suspected in patients with progressive dyspnea, fatigue, and exercise-induced hypoxia.    6-minute walk test findings (<400m distance and desaturation <88%)  suggest significant pulmonary vascular disease.   Right heart catheterization (RHC) is required for definitive diagnosis. "
+    },
+    {
+        "question": "A 62-year-old man with  suspected pulmonary hypertension (PH)  undergoes echocardiography, which reveals  an enlarged right atrium, elevated right ventricular systolic pressure (RVSP), and a pericardial effusion . Which of the following is the next best step in confirming the diagnosis?",
+        "choices": [
+            "Pulmonary function testing",
+            "Right heart catheterization",
+            "High-resolution CT scan",
+            "V/Q scan",
+            "Cardiac MRI"
+        ],
+        "correctAnswer": 1,
+        "explanation": " Right heart catheterization (RHC) is the gold standard for diagnosing pulmonary hypertension. Findings of enlarged right atrium, elevated RVSP, and pericardial effusion on echocardiography suggest PH. RHC provides definitive hemodynamic measurements , including mean pulmonary arterial pressure (mPAP) and pulmonary vascular resistance (PVR)."
+    },
+    {
+        "question": "A 47-year-old woman with idiopathic pulmonary arterial hypertension (PAH) undergoes vasoreactivity testing with inhaled nitric oxide. Her mean pulmonary arterial pressure (mPAP) decreases from 50 mmHg to 35 mmHg, and her cardiac output remains stable . What is the most appropriate next step in management?",
+        "choices": [
+            "Start oral calcium channel blockers (CCBs)",
+            "Initiate prostacyclin therapy",
+            "Administer phosphodiesterase-5 inhibitors (PDE-5i)",
+            "Begin dual endothelin receptor antagonist therapy",
+            "Refer for lung transplantation"
+        ],
+        "correctAnswer": 0,
+        "explanation": " A positive vasoreactivity test (≥10 mmHg reduction in mPAP to <40 mmHg with preserved or increased cardiac output) indicates that the patient may benefit from calcium channel blockers (CCBs). Only 10-15% of PAH patients have a positive response. Non-responders require advanced PAH-specific therapy (e.g., PDE-5 inhibitors, prostacyclins, or endothelin receptor antagonists). "
+    },
+    {
+        "question": "A 53-year-old woman with systemic sclerosis is diagnosed with pulmonary hypertension . Right heart catheterization shows mean pulmonary artery pressure (mPAP) of 28 mmHg, pulmonary capillary wedge pressure (PCWP) of 18 mmHg, and pulmonary vascular resistance (PVR) of 1.5 Wood units . Which of the following best describes the type of pulmonary hypertension in this patient?",
+        "choices": [
+            "Pre-capillary pulmonary hypertension",
+            "Isolated post-capillary pulmonary hypertension (IpcPH)",
+            "Combined post- and pre-capillary pulmonary hypertension (CpcPH)",
+            "Pulmonary arterial hypertension (PAH)",
+            "Exercise-induced pulmonary hypertension"
+        ],
+        "correctAnswer": 1,
+        "explanation": " Post-capillary pulmonary hypertension (IpcPH) is defined by: mPAP > 20 mmHg PCWP > 15 mmHg PVR ≤ 2 Wood units. This pattern suggests left heart disease-related PH rather than PAH. CpcPH would be suspected if PVR > 2 WU ."
+    },
+    {
+        "question": "A 39-year-old man with  chronic thromboembolic pulmonary hypertension (CTEPH)  is being evaluated for treatment. Which of the following is the most appropriate  definitive treatment  for this condition?",
+        "choices": [
+            "Riociguat (soluble guanylate cyclase stimulator)",
+            "Lung transplantation",
+            "Endarterectomy",
+            "Phosphodiesterase-5 inhibitors (PDE-5i)",
+            "Continuous IV prostacyclin therapy"
+        ],
+        "correctAnswer": 2,
+        "explanation": " Pulmonary thromboendarterectomy (PEA) is the definitive treatment for chronic thromboembolic pulmonary hypertension (CTEPH). Riociguat is used for inoperable CTEPH or persistent PH after endarterectomy. Lung transplantation is reserved for end-stage cases. "
+    },
+    {
+        "question": "A patient with idiopathic pulmonary arterial hypertension (PAH) is started on a phosphodiesterase-5 inhibitor (PDE-5i) . Which of the following best describes its mechanism of action?",
+        "choices": [
+            "Inhibition of endothelin receptors to reduce vasoconstriction",
+            "Enhancement of nitric oxide signaling to promote vasodilation",
+            "Inhibition of prostacyclin breakdown to reduce vascular remodeling",
+            "Activation of soluble guanylate cyclase to improve pulmonary blood flow",
+            "Suppression of thromboxane A2 to prevent platelet aggregation"
+        ],
+        "correctAnswer": 1,
+        "explanation": " PDE-5 inhibitors (e.g., sildenafil, tadalafil) enhance nitric oxide (NO) signaling by preventing cGMP degradation. This promotes pulmonary vasodilation and reduces vascular resistance. Other PAH treatments: Endothelin receptor antagonists (e.g., bosentan) block vasoconstriction. Soluble guanylate cyclase stimulators (e.g., riociguat) act downstream of NO."
+    },
+    {
+        "question": "A 45-year-old woman with idiopathic pulmonary arterial hypertension (PAH) is started on sildenafil . Which of the following best describes the mechanism of action of this medication?",
+        "choices": [
+            "Inhibits phospholipase C to prevent vasoconstriction",
+            "Blocks endothelin receptors to reduce vascular remodeling",
+            "Stimulates guanylate cyclase to increase cGMP levels",
+            "Prevents the breakdown of cGMP to enhance nitric oxide signaling",
+            "Inhibits thromboxane A2 to reduce platelet aggregation"
+        ],
+        "correctAnswer": 3,
+        "explanation": " Phosphodiesterase-5 inhibitors (PDE5i), such as sildenafil, prevent cGMP breakdown, enhancing nitric oxide signaling to promote vasodilation and reduce pulmonary vascular resistance. cGMP is stimulated by nitric oxide, leading to relaxation of smooth muscle cells in the pulmonary vasculature. "
+    },
+    {
+        "question": "A 50-year-old man with chronic thromboembolic pulmonary hypertension (CTEPH) is not a candidate for pulmonary thromboendarterectomy. Which of the following is the preferred pharmacologic treatment for this patient?",
+        "choices": [
+            "Sildenafil",
+            "Macitentan",
+            "Riociguat",
+            "Epoprostenol",
+            "Bosentan"
+        ],
+        "correctAnswer": 2,
+        "explanation": " Riociguat, a soluble guanylate cyclase (sGC) stimulator, is the drug of choice for inoperable or persistent CTEPH. sGC stimulators increase cGMP, enhancing nitric oxide-mediated vasodilation. PDE-5 inhibitors (e.g., sildenafil) should not be used with riociguat due to excessive hypotension."
+    },
+    {
+        "question": "A 32-year-old woman with newly diagnosed pulmonary arterial hypertension (PAH) is being considered for treatment with bosentan . Which of the following is an important contraindication for this medication?",
+        "choices": [
+            "Severe renal impairment",
+            "Active tuberculosis infection",
+            "Pregnancy",
+            "Concurrent use of sildenafil",
+            "Asthma"
+        ],
+        "correctAnswer": 2,
+        "explanation": " Endothelin receptor antagonists (e.g., bosentan, macitentan) are teratogenic and should not be used in pregnancy. Endothelin-1 promotes vasoconstriction via phospholipase C activation. These drugs block endothelin-mediated pulmonary vasoconstriction and vascular remodeling."
+    },
+    {
+        "question": "A 57-year-old woman with severe pulmonary hypertension (PH) and right heart failure is started on continuous IV epoprostenol therapy. Which of the following is the most important precaution when managing this patient?",
+        "choices": [
+            "Avoid stopping the infusion due to the risk of acute cardiac decompensation",
+            "Discontinue therapy if hypotension occurs",
+            "Limit fluid intake to avoid volume overload",
+            "Monitor for bradycardia due to vagal stimulation",
+            "Administer corticosteroids to prevent inflammatory side effects"
+        ],
+        "correctAnswer": 0,
+        "explanation": " Abrupt discontinuation of IV prostacyclin therapy (e.g., epoprostenol) can lead to life-threatening rebound pulmonary hypertension and cardiac arrest. These drugs cause systemic vasodilation and must be titrated carefully. "
+    },
+    {
+        "question": "A 42-year-old woman with pulmonary arterial hypertension (PAH) is started on macitentan. Which of the following molecular pathways is directly inhibited by this drug?",
+        "choices": [
+            "Nitric oxide pathway",
+            "Prostacyclin pathway",
+            "Endothelin pathway",
+            "Thromboxane pathway",
+            "Bradykinin pathway"
+        ],
+        "correctAnswer": 2,
+        "explanation": " Endothelin receptor antagonists (e.g., macitentan, bosentan) block the endothelin-1 pathway, which promotes pulmonary vasoconstriction and vascular remodeling. Endothelin-1 acts via phospholipase C to increase intracellular calcium and induce vasoconstriction. "
+    },
+    {
+        "question": "A 60-year-old man with severe pulmonary hypertension and right ventricular failure is started on dobutamine . Which of the following best describes the primary effect of this drug?",
+        "choices": [
+            "Increases myocardial contractility and cardiac output",
+            "Induces peripheral vasoconstriction to improve blood pressure",
+            "Blocks endothelin-1 receptors to reduce right ventricular afterload",
+            "Inhibits phosphodiesterase-5 to promote pulmonary vasodilation",
+            "Stimulates nitric oxide release to reduce pulmonary vascular resistance"
+        ],
+        "correctAnswer": 0,
+        "explanation": " Dobutamine is a beta-1 agonist that increases myocardial contractility and cardiac output, making it useful for right heart failure in PH patients. Milrinone is another inotropic agent used for this purpose. "
+    },
+    {
+        "question": "A 16-year-old girl with cystic fibrosis (CF) reports feeling overwhelmed by daily treatments and frequently skips her chest physiotherapy and medications . Her mother states that their family is under financial stress due to medical bills. Which of the following is the most appropriate intervention to improve this patient's adherence?",
+        "choices": [
+            "Increasing corticosteroid therapy to reduce exacerbations",
+            "Providing psychoeducation and behavioral modification strategies",
+            "Recommending a low-carbohydrate diet to improve respiratory function",
+            "Delaying medical appointments to reduce patient burden",
+            "Prescribing benzodiazepines to address stress-related symptoms"
+        ],
+        "correctAnswer": 1,
+        "explanation": " Treatment adherence in CF is a complex challenge influenced by psychosocial factors. Behavioral modification strategies, including positive reinforcement and structured routines , have been shown to improve adherence. Psychoeducation can help patients understand the importance of adherence while addressing family stressors."
+    },
+    {
+        "question": "A 25-year-old man with cystic fibrosis (CF) presents for routine follow-up. He has a history of depression and anxiety and expresses concern over his declining lung function despite adherence to therapy . Which of the following best describes the relationship between mental health and CF outcomes?",
+        "choices": [
+            "Depression is associated with better adherence to CF therapy",
+            "Mental health disorders do not impact lung function",
+            "Depression and anxiety are linked to lower adherence and worse health outcomes",
+            "Psychotherapy is ineffective in improving mental health outcomes in CF",
+            "Selective serotonin reuptake inhibitors (SSRIs) should be avoided in CF patients"
+        ],
+        "correctAnswer": 2,
+        "explanation": " Depression and anxiety are 2-3 times more prevalent in CF patients than in the general population. These mental health conditions are associated with lower adherence rates, decreased lung function, higher healthcare costs, and increased mortality. Effective interventions include CBT, ACT, and SSRIs. "
+    },
+    {
+        "question": "A 30-year-old woman with cystic fibrosis (CF) who recently started elexacaftor/tezacaftor/ivacaftor (ETI) therapy is experiencing weight gain and changes in body image perception . She also expresses 'survivor’s guilt' over the improvements in her health while others with CF continue to struggle. Which of the following is the most appropriate next step in management?",
+        "choices": [
+            "Discontinue ETI therapy due to psychological side effects",
+            "Refer the patient for cognitive-behavioral therapy (CBT) ",
+            "Prescribe a weight-loss medication to address concerns",
+            "Reduce the dosage of ETI to minimize side effects",
+            "Advise the patient that psychological side effects will resolve without intervention"
+        ],
+        "correctAnswer": 1,
+        "explanation": " ETI therapy has significantly improved CF outcomes, but some patients experience weight gain, body image concerns, and survivor’s guilt. Cognitive-behavioral therapy (CBT) can help address negative thought patterns and improve coping mechanisms ."
+    },
+    {
+        "question": "A 28-year-old woman with cystic fibrosis (CF) is considering pregnancy. She is currently on elexacaftor/tezacaftor/ivacaftor (ETI) and is concerned about how her CF will impact pregnancy outcomes. Which of the following is the most appropriate counseling point?",
+        "choices": [
+            "ETI therapy should be stopped before conception due to teratogenic risks",
+            "CF-related fertility is unaffected in both men and women",
+            "Women with CF on ETI may have increased fertility compared to those not on modulators",
+            "Men with CF have normal fertility, making preconception counseling unnecessary",
+            "Pregnancy in CF does not require additional multidisciplinary support"
+        ],
+        "correctAnswer": 2,
+        "explanation": " ETI therapy has been associated with increased fertility in women with CF. However, pregnancy in CF is complex and requires multidisciplinary care due to increased nutritional, respiratory, and emotional demands. Only 2-3% of men with CF are fertile due to congenital bilateral absence of the vas deferens (CBAVD)."
+    },
+    {
+        "question": "A 22-year-old woman with cystic fibrosis (CF) is struggling with treatment adherence  due to  burnout and a feeling of isolation from her peers . She reports difficulty managing her daily treatment regimen while maintaining social relationships . Which of the following interventions is most likely to improve her adherence and quality of life?",
+        "choices": [
+            "Referral to an  online CF support group or peer mentoring program ",
+            "Strict enforcement of adherence using a reward-punishment system",
+            "Discontinuation of airway clearance therapy to reduce treatment burden",
+            "Prescribing high-dose corticosteroids to reduce symptom severity",
+            "Reducing medical visits to lessen her frustration with treatment"
+        ],
+        "correctAnswer": 0,
+        "explanation": " Social support plays a critical role in treatment adherence and overall well-being in CF. Online CF support groups and peer mentoring provide community, coping strategies, and motivation for adherence. Burnout and isolation are common barriers to adherence, especially in young adults. "
     }
 ]
