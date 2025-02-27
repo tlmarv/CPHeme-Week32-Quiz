@@ -338,13 +338,13 @@
         "question": "A 60-year-old man with chronic obstructive pulmonary disease (COPD) has a hemoglobin concentration of 12 g/dL, an arterial oxygen saturation (SaO2) of 90%, and a partial pressure of oxygen (PaO2) of 80 mmHg. What is the total oxygen content of his blood?",
         "choices": [
             "12.2 mL O2/dL",
-            "15.0 mL O2/dL",
+            "14.7 mL O2/dL",
             "16.1 mL O2/dL",
             "18.2 mL O2/dL",
             "20.4 mL O2/dL"
         ],
         "correctAnswer": 2,
-        "explanation": "Oxygen content is calculated as: Total O2 content = (Hb × 1.34 × SaO2) + (PaO2 × 0.003). Bound O2: 12 × 1.34 × 0.90 = 14.5 mL O2/dL. Dissolved O2: 80 × 0.003 = 0.24 mL O2/dL. Total O2 content: 14.5 + 0.24 = 16.1 mL O2/dL."
+        "explanation": "Oxygen content is calculated as: Total O2 content = (Hb × 1.34 × SaO2) + (PaO2 × 0.003). Bound O2: 12 × 1.34 × 0.90 = 14.5 mL O2/dL. Dissolved O2: 80 × 0.003 = 0.24 mL O2/dL. Total O2 content: 14.5 + 0.24 = 14.74 mL O2/dL."
     },
     {
         "question": "A 45-year-old woman with carbon monoxide (CO) poisoning is found to have a normal PaO2 but low total oxygen content. Which of the following best explains this finding?",
